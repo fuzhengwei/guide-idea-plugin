@@ -42,6 +42,8 @@
 
 `我又要冲IDEA插件开发了！`
 
+IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实际场景中的共性问题。但最近在折腾IDEA插件开发的时候，市面的资料确实不多，也没有成体系完整的开发指导手册，所以就遇到了很多不知道就不会的事情，需要一点点查询搜索源码、验证API接口，最终把各项功能实现，当然在这个过程中也确实踩了不少坑！接下来在这个专栏会把一些关于 IDEA 插件开发用到的各项知识做成案例输出出来，帮助有需要的研发伙伴，一起建设 IDEA Plugin
+
 ![](https://bugstack.cn/assets/images/middleware/middleware-5-2.png)
 
 - 开发方式：在官网的描述中，创建IDEA插件工程的方式有两种分别是，IntelliJ Platform Plugin 模版创建和 Gradle 构建方式。
@@ -61,7 +63,7 @@
 
 - 第 01 节：[guide-idea-plugin-create-project-by-platform](https://github.com/fuzhengwei/guide-idea-plugin-create-project-by-platform)、[guide-idea-plugin-create-project-by-gradle](https://github.com/fuzhengwei/guide-idea-plugin-create-project-by-gradle)
 - 第 02 节：[guide-idea-plugin-tool-window](https://github.com/fuzhengwei/guide-idea-plugin-tool-window)
-- 第 03 节：[开发中](#)
+- 第 03 节：[guide-idea-plugin-tab](https://github.com/fuzhengwei/guide-idea-plugin-tab)
 
 ## :paw_prints: 问题交流
 
