@@ -33,10 +33,10 @@
 
 ## ⛳ **目录**
 
-- [学习说明]()
-- [章节目录]()
-- [章节源码]()
-- [问题交流]()
+- [学习说明](https://github.com/fuzhengwei/guide-idea-plugin#bookmark-%E5%AD%A6%E4%B9%A0%E8%AF%B4%E6%98%8E)
+- [章节目录](https://github.com/fuzhengwei/guide-idea-plugin#pencil-%E7%AB%A0%E8%8A%82%E7%9B%AE%E5%BD%95)
+- [章节源码](https://github.com/fuzhengwei/guide-idea-plugin#octocat-%E7%AB%A0%E8%8A%82%E6%BA%90%E7%A0%81)
+- [问题交流](https://github.com/fuzhengwei/guide-idea-plugin#paw_prints-%E9%97%AE%E9%A2%98%E4%BA%A4%E6%B5%81)
 
 ## :bookmark: 学习说明
 
