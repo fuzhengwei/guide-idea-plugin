@@ -58,12 +58,14 @@ IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实�
 - [x] [`难度【★★☆☆☆】第 01 节：两种方式创建插件工程`](https://bugstack.cn/md/assembly/idea-plugin/2021-10-18-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%B8%80%E8%8A%82%EF%BC%9A%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%88%9B%E5%BB%BA%E6%8F%92%E4%BB%B6%E5%B7%A5%E7%A8%8B.html)  
 - [x] [`难度【★★☆☆☆】第 02 节：使用配置和侧边栏窗体，阅读本地文档`](https://bugstack.cn/md/assembly/idea-plugin/2021-11-03-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%BA%8C%E8%8A%82%EF%BC%9A%E9%85%8D%E7%BD%AE%E7%AA%97%E4%BD%93%E5%92%8C%E4%BE%A7%E8%BE%B9%E6%A0%8F%E7%AA%97%E4%BD%93%E7%9A%84%E4%BD%BF%E7%94%A8.html)  
 - [x] [`难度【★★★☆☆】第 03 节：开发工具栏和Tab页，展示股票行情和K线`](https://bugstack.cn/md/assembly/idea-plugin/2021-11-18-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%B8%89%E8%8A%82%EF%BC%9A%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E6%A0%8F%E5%92%8CTab%E9%A1%B5%EF%BC%8C%E5%B1%95%E7%A4%BA%E8%82%A1%E7%A5%A8%E8%A1%8C%E6%83%85%E5%92%8CK%E7%BA%BF.html)
+- [x] [`难度【★★★☆☆】第 04 节：扩展创建工程向导步骤，开发DDD脚手架`](#)
 
 ## :octocat: 章节源码
 
 - 第 01 节：[guide-idea-plugin-create-project-by-platform](https://github.com/fuzhengwei/guide-idea-plugin-create-project-by-platform)、[guide-idea-plugin-create-project-by-gradle](https://github.com/fuzhengwei/guide-idea-plugin-create-project-by-gradle)
 - 第 02 节：[guide-idea-plugin-tool-window](https://github.com/fuzhengwei/guide-idea-plugin-tool-window)
 - 第 03 节：[guide-idea-plugin-tab](https://github.com/fuzhengwei/guide-idea-plugin-tab)
+- 第 04 节：[guide-idea-plugin-scaffolding](https://github.com/fuzhengwei/guide-idea-plugin-scaffolding)
 
 ## :paw_prints: 问题交流
 
