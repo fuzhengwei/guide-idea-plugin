@@ -1,0 +1,48 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '0.6.3'
+}
+
+group 'cn.bugstack.guide.idea.plugin'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.47'
+    compile group: 'org.freemarker', name: 'freemarker', version: '2.3.28'
+    compileOnly group: 'org.projectlombok', name: 'lombok', version: '1.18.6'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+// See https://github.com/JetBrains/gradle-intellij-plugin/
+intellij {
+    version '2019.3.1'
+    plugins 'java'
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+tasks.withType(Javadoc) {
+    options.encoding = 'UTF-8'
+}
+
+patchPluginXml {
+    changeNotes """
+      <![CDATA[
+      插件开发学习功能点<br>
+      <em>1. 工程搭建</em>
+      <em>2. 菜单读取</em>
+      <em>3. 获取配置</em>
+      <em>4. 回显页面</em>
+    ]]>"""
+}
+
