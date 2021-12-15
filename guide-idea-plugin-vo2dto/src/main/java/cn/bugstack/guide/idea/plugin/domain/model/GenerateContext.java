@@ -5,11 +5,14 @@ import com.intellij.openapi.editor.Document;
 import com.intellij.openapi.editor.Editor;
 import com.intellij.openapi.project.Project;
 import com.intellij.psi.PsiElement;
+import com.intellij.psi.PsiFile;
 
 public class GenerateContext {
 
     /** 工程对象 */
     private Project project;
+    /** 文件 */
+    private PsiFile psiFile;
     /** 数据上下文 */
     private DataContext dataContext;
     /** 编辑器 */
@@ -33,6 +36,14 @@ public class GenerateContext {
 
     public void setProject(Project project) {
         this.project = project;
+    }
+
+    public PsiFile getPsiFile() {
+        return psiFile;
+    }
+
+    public void setPsiFile(PsiFile psiFile) {
+        this.psiFile = psiFile;
     }
 
     public DataContext getDataContext() {

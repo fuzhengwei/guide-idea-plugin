@@ -14,10 +14,7 @@ import com.intellij.openapi.editor.ScrollType;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.ui.Messages;
 import com.intellij.openapi.ui.TestInputDialog;
-import com.intellij.psi.JavaPsiFacade;
-import com.intellij.psi.PsiClass;
-import com.intellij.psi.PsiElement;
-import com.intellij.psi.PsiMethod;
+import com.intellij.psi.*;
 import com.intellij.psi.search.GlobalSearchScope;
 import com.intellij.psi.search.PsiShortNamesCache;
 import org.jetbrains.annotations.NotNull;
@@ -36,12 +33,12 @@ public class Vo2DtoGenerateAction extends AnAction {
     private IGenerateVo2Dto generateVo2Dto = new GenerateVo2DtoImpl();
 
     @Override
-    public void actionPerformed(AnActionEvent event) {
+    public void actionPerformed(@NotNull AnActionEvent event) {
         try {
             // 织入代码
-            generateVo2Dto.doGenerate(event.getProject(), event.getDataContext());
+            generateVo2Dto.doGenerate(event.getProject(), event.getDataContext(), event.getData(LangDataKeys.PSI_FILE));
         } catch (Exception e) {
-            Messages.showErrorDialog(event.getProject(), "错误提示", "请按规复制对象后，光标放到需要织入的对象上！");
+            Messages.showErrorDialog(event.getProject(), "请按规：先复制对象后，例如：A a，再光标放到需要织入的对象上，例如：B b！", "错误提示");
         }
     }
 

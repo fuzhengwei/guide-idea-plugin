@@ -7,6 +7,7 @@ import cn.bugstack.guide.idea.plugin.domain.service.AbstractGenerateVo2Dto;
 import cn.bugstack.guide.idea.plugin.infrastructure.Utils;
 import com.intellij.openapi.actionSystem.CommonDataKeys;
 import com.intellij.openapi.actionSystem.DataContext;
+import com.intellij.openapi.actionSystem.LangDataKeys;
 import com.intellij.openapi.application.Application;
 import com.intellij.openapi.application.ApplicationManager;
 import com.intellij.openapi.application.Result;
@@ -15,9 +16,7 @@ import com.intellij.openapi.editor.Document;
 import com.intellij.openapi.editor.Editor;
 import com.intellij.openapi.editor.ScrollType;
 import com.intellij.openapi.project.Project;
-import com.intellij.psi.PsiClass;
-import com.intellij.psi.PsiElement;
-import com.intellij.psi.PsiMethod;
+import com.intellij.psi.*;
 import com.intellij.psi.search.GlobalSearchScope;
 import com.intellij.psi.search.PsiShortNamesCache;
 import org.jetbrains.annotations.NotNull;
@@ -31,7 +30,7 @@ public class GenerateVo2DtoImpl extends AbstractGenerateVo2Dto {
     private final String getRegex = "get(\\w+)";
 
     @Override
-    protected GenerateContext getGenerateContext(Project project, DataContext dataContext) {
+    protected GenerateContext getGenerateContext(Project project, DataContext dataContext, PsiFile psiFile) {
 
         // 基础信息
         Editor editor = CommonDataKeys.EDITOR.getData(dataContext);
@@ -42,6 +41,7 @@ public class GenerateVo2DtoImpl extends AbstractGenerateVo2Dto {
         // 封装生成对象上下文
         GenerateContext generateContext = new GenerateContext();
         generateContext.setProject(project);
+        generateContext.setPsiFile(psiFile);
         generateContext.setDataContext(dataContext);
         generateContext.setEditor(editor);
         generateContext.setPsiElement(psiElement);
@@ -59,9 +59,20 @@ public class GenerateVo2DtoImpl extends AbstractGenerateVo2Dto {
 
         PsiClass psiClass = (PsiClass) generateContext.getPsiElement();
         String name = psiClass.getName();
-        String firstChar = Objects.requireNonNull(psiClass.getName()).substring(0, 1).toLowerCase();
-        assert name != null;
-        String clazzParamName = firstChar + name.substring(1);
+
+        // 通过光标步长递进找到属性名称
+        PsiFile psiFile = generateContext.getPsiFile();
+        Editor editor = generateContext.getEditor();
+        int offsetStep = generateContext.getOffset() + 1;
+
+        PsiElement elementAt = psiFile.findElementAt(editor.getCaretModel().getOffset());
+
+        while (null == elementAt || elementAt.getText().equals(name) || elementAt instanceof PsiWhiteSpace) {
+            elementAt = psiFile.findElementAt(++offsetStep);
+        }
+
+        // 最终拿到属性名称
+        String clazzParamName = elementAt.getText();
 
         Pattern setMtd = Pattern.compile(setRegex);
 
@@ -134,15 +145,12 @@ public class GenerateVo2DtoImpl extends AbstractGenerateVo2Dto {
             for (String param : setMtdList) {
                 int lineStartOffset = generateContext.getDocument().getLineStartOffset(lineNumberCurrent++);
 
-                new WriteCommandAction(generateContext.getProject()) {
+                WriteCommandAction.runWriteCommandAction(generateContext.getProject(), () -> {
+                    generateContext.getDocument().insertString(lineStartOffset, blankSpace + setObjConfigDO.getClazzParamName() + "." + setObjConfigDO.getParamMtdMap().get(param) + "(" + (null == getObjConfigDO.getParamMtdMap().get(param) ? "" : getObjConfigDO.getClazzParam() + "." + getObjConfigDO.getParamMtdMap().get(param) + "()") + ");\n");
+                    generateContext.getEditor().getCaretModel().moveToOffset(lineStartOffset + 2);
+                    generateContext.getEditor().getScrollingModel().scrollToCaret(ScrollType.MAKE_VISIBLE);
+                });
 
-                    @Override
-                    protected void run(@NotNull Result result) throws Throwable {
-                        generateContext.getDocument().insertString(lineStartOffset, blankSpace + setObjConfigDO.getClazzParamName() + "." + setObjConfigDO.getParamMtdMap().get(param) + "(" + (null == getObjConfigDO.getParamMtdMap().get(param) ? "" : getObjConfigDO.getClazzParam() + "." + getObjConfigDO.getParamMtdMap().get(param) + "()") + ");\n");
-                        generateContext.getEditor().getCaretModel().moveToOffset(lineStartOffset + 2);
-                        generateContext.getEditor().getScrollingModel().scrollToCaret(ScrollType.MAKE_VISIBLE);
-                    }
-                }.execute();
             }
 
         });

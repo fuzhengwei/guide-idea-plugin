@@ -4,9 +4,11 @@
     <vendor email="184172133@qq.com" url="https://bugstack.cn">小傅哥</vendor>
 
     <description><![CDATA[
-      基于IDEA插件模板方式创建测试工程<br>
-      <em>1. 学习IDEA插件工程搭建</em>
-      <em>2. 验证插件基础功能实现</em>
+      选定对象批量织入“x.set(y.get)”代码，自动生成vo2dto<br>
+      <em>1. 获取上下文信息(也就是工程对象)</em>
+      <em>2. 给当前锚点位置的类提取 set 方法集合</em>
+      <em>3. 之后在给Ctrl+C剪切板上的信息读取出来提取 get 方法集合</em>
+      <em>4. 把set、get进行组合并织入代码到锚点位置</em>
     ]]></description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
@@ -20,7 +22,7 @@
     <actions>
         <!-- Add your actions here -->
         <action id="Vo2DtoGenerateAction" class="cn.bugstack.guide.idea.plugin.action.Vo2DtoGenerateAction"
-                text="Vo2Dto - 小傅哥" description="Vo2Dto generate util" icon="/icons/logo.png">
+                text="Vo2Dto - 小傅哥" description="Vo2Dto generate util" icon="/icons/logo.svg">
             <add-to-group group-id="GenerateGroup" anchor="last"/>
             <keyboard-shortcut keymap="$default" first-keystroke="ctrl shift K"/>
         </action>

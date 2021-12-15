@@ -6,13 +6,14 @@ import cn.bugstack.guide.idea.plugin.domain.model.GetObjConfigDO;
 import cn.bugstack.guide.idea.plugin.domain.model.SetObjConfigDO;
 import com.intellij.openapi.actionSystem.DataContext;
 import com.intellij.openapi.project.Project;
+import com.intellij.psi.PsiFile;
 
 public abstract class AbstractGenerateVo2Dto implements IGenerateVo2Dto {
 
     @Override
-    public void doGenerate(Project project, DataContext dataContext) {
+    public void doGenerate(Project project, DataContext dataContext, PsiFile psiFile) {
         // 1. 获取上下文
-        GenerateContext generateContext = this.getGenerateContext(project, dataContext);
+        GenerateContext generateContext = this.getGenerateContext(project, dataContext, psiFile);
 
         // 2. 获取对象的 set 方法集合
         SetObjConfigDO setObjConfigDO = this.getSetObjConfigDO(generateContext);
@@ -24,7 +25,7 @@ public abstract class AbstractGenerateVo2Dto implements IGenerateVo2Dto {
         this.weavingSetGetCode(generateContext, setObjConfigDO, getObjConfigDO);
     }
 
-    protected abstract GenerateContext getGenerateContext(Project project, DataContext dataContext);
+    protected abstract GenerateContext getGenerateContext(Project project, DataContext dataContext, PsiFile psiFile);
 
     protected abstract SetObjConfigDO getSetObjConfigDO(GenerateContext generateContext);
 
