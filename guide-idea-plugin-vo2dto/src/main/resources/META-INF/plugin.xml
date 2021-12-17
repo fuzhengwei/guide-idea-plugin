@@ -9,6 +9,7 @@
       <em>2. 给当前锚点位置的类提取 set 方法集合</em>
       <em>3. 之后在给Ctrl+C剪切板上的信息读取出来提取 get 方法集合</em>
       <em>4. 把set、get进行组合并织入代码到锚点位置</em>
+      <em>5. 补充功能，允许鼠标放到转换对象的属性值上</em>
     ]]></description>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
