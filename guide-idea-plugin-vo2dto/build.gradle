@@ -4,9 +4,12 @@ plugins {
 }
 
 group 'cn.bugstack.guide.idea.plugin'
-version '1.3'
+
+version '2.0.1'
 
 apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'org.jetbrains.intellij'
 
 sourceCompatibility = 1.8
 
@@ -21,6 +24,9 @@ dependencies {
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
     version '2019.3.1'
+    plugins = ['git4idea', 'java']
+    updateSinceUntilBuild false
+//    sandboxDirectory "idea-sandbox"
 }
 
 tasks.withType(JavaCompile) {
@@ -33,6 +39,9 @@ tasks.withType(Javadoc) {
 
 patchPluginXml {
     changeNotes """
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>"""
+      Vo2Dto<br>
+      <em>1. 获取上下文信息(也就是工程对象)</em>
+      <em>2. 给当前锚点位置的类提取 set 方法集合</em>
+      <em>3. 之后在给Ctrl+C剪切板上的信息读取出来提取 get 方法集合</em>
+      <em>4. 把set、get进行组合并织入代码到锚点位置</em>"""
 }
