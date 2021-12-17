@@ -25,8 +25,7 @@ dependencies {
 intellij {
     version '2019.3.1'
     plugins = ['git4idea', 'java']
-    updateSinceUntilBuild false
-//    sandboxDirectory "idea-sandbox"
+    updateSinceUntilBuild = false
 }
 
 tasks.withType(JavaCompile) {

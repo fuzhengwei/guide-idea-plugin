@@ -28,6 +28,7 @@ public class GenerateVo2DtoImpl extends AbstractGenerateVo2Dto {
 
     private final String setRegex = "set(\\w+)";
     private final String getRegex = "get(\\w+)";
+    private int repair = 0;
 
     @Override
     protected GenerateContext getGenerateContext(Project project, DataContext dataContext, PsiFile psiFile) {
@@ -56,23 +57,57 @@ public class GenerateVo2DtoImpl extends AbstractGenerateVo2Dto {
 
     @Override
     protected SetObjConfigDO getSetObjConfigDO(GenerateContext generateContext) {
+        repair = 0;
+        PsiClass psiClass = null;
+        String clazzParamName = null;
 
-        PsiClass psiClass = (PsiClass) generateContext.getPsiElement();
-        String name = psiClass.getName();
+        PsiElement psiElement = generateContext.getPsiElement();
 
-        // 通过光标步长递进找到属性名称
-        PsiFile psiFile = generateContext.getPsiFile();
-        Editor editor = generateContext.getEditor();
-        int offsetStep = generateContext.getOffset() + 1;
+        // 鼠标定位到类
+        if (psiElement instanceof PsiClass) {
+            psiClass = (PsiClass) generateContext.getPsiElement();
 
-        PsiElement elementAt = psiFile.findElementAt(editor.getCaretModel().getOffset());
+            // 通过光标步长递进找到属性名称
+            PsiFile psiFile = generateContext.getPsiFile();
+            Editor editor = generateContext.getEditor();
+            int offsetStep = generateContext.getOffset() + 1;
 
-        while (null == elementAt || elementAt.getText().equals(name) || elementAt instanceof PsiWhiteSpace) {
-            elementAt = psiFile.findElementAt(++offsetStep);
+            PsiElement elementAt = psiFile.findElementAt(editor.getCaretModel().getOffset());
+
+            while (null == elementAt || elementAt.getText().equals(psiClass.getName()) || elementAt instanceof PsiWhiteSpace) {
+                elementAt = psiFile.findElementAt(++offsetStep);
+            }
+
+            // 最终拿到属性名称
+            clazzParamName = elementAt.getText();
         }
 
-        // 最终拿到属性名称
-        String clazzParamName = elementAt.getText();
+        // 鼠标定位到属性
+        if (psiElement instanceof PsiLocalVariable) {
+            PsiLocalVariable psiLocalVariable = (PsiLocalVariable) psiElement;
+
+            clazzParamName = psiLocalVariable.getName();
+
+            // 通过光标步长递进找到属性名称
+            PsiFile psiFile = generateContext.getPsiFile();
+            Editor editor = generateContext.getEditor();
+            int offsetStep = generateContext.getOffset() - 1;
+
+            PsiElement elementAt = psiFile.findElementAt(editor.getCaretModel().getOffset());
+            while (null == elementAt || elementAt.getText().equals(clazzParamName) || elementAt instanceof PsiWhiteSpace) {
+                elementAt = psiFile.findElementAt(--offsetStep);
+                if (elementAt instanceof PsiWhiteSpace) {
+                    ++repair;
+                }
+            }
+
+            String clazzName = elementAt.getText();
+            PsiClass[] psiClasses = PsiShortNamesCache.getInstance(generateContext.getProject()).getClassesByName(clazzName, GlobalSearchScope.projectScope(generateContext.getProject()));
+            psiClass = psiClasses[0];
+
+            repair += psiClass.getName().length();
+        }
+
 
         Pattern setMtd = Pattern.compile(setRegex);
 
@@ -131,7 +166,7 @@ public class GenerateVo2DtoImpl extends AbstractGenerateVo2Dto {
         Application application = ApplicationManager.getApplication();
 
         // 获取空格位置长度
-        int distance = Utils.getWordStartOffset(generateContext.getEditorText(), generateContext.getOffset()) - generateContext.getStartOffset();
+        int distance = Utils.getWordStartOffset(generateContext.getEditorText(), generateContext.getOffset()) - generateContext.getStartOffset() - repair;
 
         application.runWriteAction(() -> {
             StringBuilder blankSpace = new StringBuilder();
