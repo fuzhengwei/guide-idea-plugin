@@ -1,0 +1,50 @@
+<idea-plugin>
+    <id>cn.bugstack.guide.idea.plugin</id>
+    <name>X-PMD</name>
+    <vendor email="184172133@qq.com" url="https://bugstack.cn">小傅哥</vendor>
+
+    <description><![CDATA[
+      代码规范扫描服务，自动检测和提醒以及帮助修复<br>
+      <em>1. 对问题代码进行扫描，执行PMD</em>
+      <em>2. 针对扫描到的问题提供整改方案</em>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+      on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
+    <depends>com.intellij.modules.java</depends>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="183.4284"/>
+
+    <extensions defaultExtensionNs="com.intellij">
+
+        <localInspection
+                language="JAVA"       groupPath="Java"
+                groupName="X-PMD"   enabledByDefault="true"   level="ERROR"
+                bundle="InspectionBundle"     key="replace.pseudorandom.generator.name"
+                implementationClass="cn.bugstack.guide.idea.plugin.rule.RandomRule"
+        />
+
+        <localInspection
+                language="JAVA"       groupPath="Java"
+                groupName="X-PMD"   enabledByDefault="true"   level="ERROR"
+                bundle="InspectionBundle"     key="fastjson.auto.type.name"
+                implementationClass="cn.bugstack.guide.idea.plugin.rule.FastJsonRule"
+        />
+
+        <localInspection
+                language="JAVA"      groupPath="Java"
+                groupName="X-PMD"  enabledByDefault="true"     level="WARNING"
+                bundle="InspectionBundle"     key="hardcoded.ip.name"
+                implementationClass="cn.bugstack.guide.idea.plugin.rule.IPRule"
+        />
+
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+</idea-plugin>

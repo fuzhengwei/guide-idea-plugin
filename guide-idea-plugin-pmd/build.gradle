@@ -1,0 +1,48 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '0.6.3'
+}
+
+group 'cn.bugstack.guide.idea.plugin'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'org.jetbrains.intellij'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // https://mvnrepository.com/artifact/net.sourceforge.pmd/pmd-java
+    implementation group: 'net.sourceforge.pmd', name: 'pmd-java', version: '6.41.0'
+    // https://mvnrepository.com/artifact/net.sourceforge.pmd/pmd-core
+    implementation group: 'net.sourceforge.pmd', name: 'pmd-core', version: '6.41.0'
+    // https://mvnrepository.com/artifact/org.antlr/antlr4-runtime
+    implementation group: 'org.antlr', name: 'antlr4-runtime', version: '4.9.3'
+}
+
+// See https://github.com/JetBrains/gradle-intellij-plugin/
+intellij {
+    version '2019.3.1'
+    plugins = ['git4idea', 'java']
+    updateSinceUntilBuild = false
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+tasks.withType(Javadoc) {
+    options.encoding = 'UTF-8'
+}
+
+patchPluginXml {
+    changeNotes """
+      Add change notes here.<br>
+      <em>most HTML tags may be used</em>"""
+}
