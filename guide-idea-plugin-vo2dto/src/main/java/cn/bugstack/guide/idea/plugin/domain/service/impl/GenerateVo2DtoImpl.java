@@ -19,6 +19,7 @@ import com.intellij.openapi.project.Project;
 import com.intellij.psi.*;
 import com.intellij.psi.search.GlobalSearchScope;
 import com.intellij.psi.search.PsiShortNamesCache;
+import com.intellij.psi.util.PsiTreeUtil;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.*;
@@ -108,22 +109,23 @@ public class GenerateVo2DtoImpl extends AbstractGenerateVo2Dto {
             repair += psiClass.getName().length();
         }
 
-
         Pattern setMtd = Pattern.compile(setRegex);
-
         // 获取类的set方法并存放起来
         List<String> paramList = new ArrayList<>();
         Map<String, String> paramMtdMap = new HashMap<>();
-        PsiMethod[] methods = psiClass.getMethods();
-        for (PsiMethod method : methods) {
-            String methodName = method.getName();
-            if (Pattern.matches(setRegex, methodName)) {
-                // 替换属性
-                String param = setMtd.matcher(methodName).replaceAll("$1").toLowerCase();
 
-                // 保存获取的属性信息
-                paramMtdMap.put(param, methodName);
-                paramList.add(param);
+        List<PsiClass> psiClassLinkList = getPsiClassLinkList(psiClass);
+        for (PsiClass psi : psiClassLinkList) {
+            PsiMethod[] methods = psi.getMethods();
+            for (PsiMethod method : methods) {
+                String methodName = method.getName();
+                if (Pattern.matches(setRegex, methodName)) {
+                    // 替换属性
+                    String param = setMtd.matcher(methodName).replaceAll("$1").toLowerCase();
+                    // 保存获取的属性信息
+                    paramMtdMap.put(param, methodName);
+                    paramList.add(param);
+                }
             }
         }
 
@@ -138,23 +140,29 @@ public class GenerateVo2DtoImpl extends AbstractGenerateVo2Dto {
         // 按照默认规则提取信息，例如：UserDto userDto
         String[] split = systemClipboardText.split("\\s");
 
-        assert 2 == split.length;
+        if (split.length < 2) {
+            return new GetObjConfigDO(null, null, new HashMap<>());
+        }
 
         String clazzName = split[0].trim();
         String clazzParam = split[1].trim();
 
         // 获取类
         PsiClass[] psiClasses = PsiShortNamesCache.getInstance(generateContext.getProject()).getClassesByName(clazzName, GlobalSearchScope.projectScope(generateContext.getProject()));
+        PsiClass psiClass = psiClasses[0];
+        List<PsiClass> psiClassLinkList = getPsiClassLinkList(psiClass);
 
         Map<String, String> paramMtdMap = new HashMap<>();
-        PsiMethod[] methodsDTO = psiClasses[0].getMethods();
         Pattern getM = Pattern.compile(getRegex);
 
-        for (PsiMethod method : methodsDTO) {
-            String methodName = method.getName();
-            if (Pattern.matches(getRegex, methodName)) {
-                String param = getM.matcher(methodName).replaceAll("$1").toLowerCase();
-                paramMtdMap.put(param, methodName);
+        for (PsiClass psi : psiClassLinkList) {
+            PsiMethod[] methodsDTO = psi.getMethods();
+            for (PsiMethod method : methodsDTO) {
+                String methodName = method.getName();
+                if (Pattern.matches(getRegex, methodName)) {
+                    String param = getM.matcher(methodName).replaceAll("$1").toLowerCase();
+                    paramMtdMap.put(param, methodName);
+                }
             }
         }
 
