@@ -1,0 +1,40 @@
+plugins {
+    id 'java'
+    id "com.github.johnrengelman.shadow" version "6.1.0"
+}
+
+group 'cn.bugstack.guide.idea.plugin'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // 运行时依赖
+    implementation group: 'net.bytebuddy', name: 'byte-buddy', version: '1.12.6'
+    implementation group: 'net.bytebuddy', name: 'byte-buddy-agent', version: '1.12.6'
+    implementation group: 'cn.hutool', name: 'hutool-all', version: '5.7.19'
+    implementation group: 'com.alibaba', name: 'fastjson', version: '1.2.79'
+
+    implementation group: 'mysql', name: 'mysql-connector-java', version: '5.1.34'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+tasks.withType(Javadoc) {
+    options.encoding = 'UTF-8'
+}
+
+shadowJar {
+    manifest {
+        attributes(
+             'Premain-Class': 'cn.bugstack.guide.idea.plugin.PreAgent'
+        )
+    }
+}

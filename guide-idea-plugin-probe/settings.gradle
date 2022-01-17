@@ -1,0 +1,4 @@
+rootProject.name = 'guide-idea-plugin-probe'
+include 'probe-agent'
+include 'probe-plugin'
+
