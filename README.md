@@ -73,7 +73,7 @@ IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实�
 - 第 05 节：[guide-idea-plugin-orm](https://github.com/fuzhengwei/guide-idea-plugin-orm)
 - 第 06 节：[guide-idea-plugin-vo2dto](https://github.com/fuzhengwei/guide-idea-plugin-vo2dto)
 - 第 07 节：[guide-idea-plugin-pmd](https://github.com/fuzhengwei/guide-idea-plugin-pmd)
-- 第 08 节：[https://github.com/fuzhengwei/guide-idea-plugin-probe](https://github.com/fuzhengwei/https://github.com/fuzhengwei/guide-idea-plugin-probe)
+- 第 08 节：[guide-idea-plugin-probe](https://github.com/fuzhengwei/https://github.com/fuzhengwei/guide-idea-plugin-probe)
 
 ## :paw_prints: 问题交流
 
