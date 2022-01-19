@@ -61,7 +61,8 @@ IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实�
 - [x] [`难度【★★★☆☆】第 04 节：扩展创建工程向导步骤，开发DDD脚手架`](https://bugstack.cn/md/assembly/idea-plugin/2021-11-24-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E5%9B%9B%E8%8A%82%EF%BC%9A%E6%89%A9%E5%B1%95%E5%88%9B%E5%BB%BA%E5%B7%A5%E7%A8%8B%E5%90%91%E5%AF%BC%E6%AD%A5%E9%AA%A4%EF%BC%8C%E5%BC%80%E5%8F%91DDD%E8%84%9A%E6%89%8B%E6%9E%B6.html)
 - [x] [`难度【★★★☆☆】第 05 节：IDEA工程右键菜单，自动生成ORM代码`](https://bugstack.cn/md/assembly/idea-plugin/2021-12-08-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%BA%94%E8%8A%82%EF%BC%9AIDEA%E5%B7%A5%E7%A8%8B%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%EF%BC%8C%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90ORM%E4%BB%A3%E7%A0%81.html)
 - [x] [`难度【★★★☆☆】第 06 节：选定对象批量织入“x.set(y.get)”代码，自动生成vo2dto`](https://bugstack.cn/md/assembly/idea-plugin/2021-12-14-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E5%85%AD%E8%8A%82%EF%BC%9A%E4%BB%A5%E7%BB%87%E5%85%A5%E4%BB%A3%E7%A0%81%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%A4%84%E7%90%86vo2dto.html)
-
+- [x] [`难度【★★★☆☆】第 07 节：通过Inspection机制，对静态代码安全审查`](https://bugstack.cn/md/assembly/idea-plugin/2021-12-22-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC7%E8%8A%82%EF%BC%9A%E9%80%9A%E8%BF%87Inspection%E6%9C%BA%E5%88%B6%EF%BC%8C%E4%B8%BA%E9%9D%99%E6%80%81%E4%BB%A3%E7%A0%81%E5%AE%89%E5%85%A8%E5%AE%A1%E6%9F%A5.html)
+- [x] [`难度【★★★★☆】第 08 节：在插件中引入探针，基于字节码插桩获取执行SQL`](https://bugstack.cn/md/assembly/idea-plugin/2022-01-17-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC8%E8%8A%82%EF%BC%9A%E5%9C%A8%E6%8F%92%E4%BB%B6%E4%B8%AD%E5%BC%95%E5%85%A5%E6%8E%A2%E9%92%88%EF%BC%8C%E5%9F%BA%E4%BA%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%8F%92%E6%A1%A9%E8%8E%B7%E5%8F%96%E6%89%A7%E8%A1%8CSQL.html)
 
 ## :octocat: 章节源码
 
@@ -71,6 +72,8 @@ IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实�
 - 第 04 节：[guide-idea-plugin-scaffolding](https://github.com/fuzhengwei/guide-idea-plugin-scaffolding)
 - 第 05 节：[guide-idea-plugin-orm](https://github.com/fuzhengwei/guide-idea-plugin-orm)
 - 第 06 节：[guide-idea-plugin-vo2dto](https://github.com/fuzhengwei/guide-idea-plugin-vo2dto)
+- 第 07 节：[guide-idea-plugin-pmd](https://github.com/fuzhengwei/guide-idea-plugin-pmd)
+- 第 08 节：[https://github.com/fuzhengwei/guide-idea-plugin-probe](https://github.com/fuzhengwei/https://github.com/fuzhengwei/guide-idea-plugin-probe)
 
 ## :paw_prints: 问题交流
 
