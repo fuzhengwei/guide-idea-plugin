@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1af3067c-2a40-483d-a5b0-2b5cb8b811ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/probe-agent">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/probe-plugin">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="guide-idea-plugin-probe" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="guide-idea-plugin-probe" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="guide-idea-plugin-probe" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="guide-idea-plugin-probe" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="guide-idea-plugin-probe" type="f1a62948:ProjectNode" />
+                <item name="probe-plugin" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="guide-idea-plugin-probe" type="f1a62948:ProjectNode" />
+                <item name="probe-plugin" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="guide-idea-plugin-probe" type="f1a62948:ProjectNode" />
+                <item name="probe-plugin" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="intellij" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Program Files (x86)\maven\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23ZwoUFHEpF9s6xYjwStf6Ymr49" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../product/vo2dto" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\itstack\booklet\idea-plugin\guide\guide-idea-plugin-probe\probe-plugin\libs" />
+      <recent name="E:\itstack\专栏\idea-plugin\guide\guide-idea-plugin-probe\probe-plugin\libs" />
+      <recent name="E:\itstack\专栏\idea-plugin\guide\guide-idea-plugin-probe\probe-agent\src\main\resources" />
+      <recent name="E:\itstack\专栏\idea-plugin\guide\guide-idea-plugin-probe" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.guide-idea-plugin-probe [clean]">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/probe-plugin" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="guide-idea-plugin-probe [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="guide-idea-plugin-probe [shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="guide-idea-plugin-probe:probe-agent [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/probe-agent" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="guide-idea-plugin-probe:probe-agent [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/probe-agent" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="probe-plugin [runIde]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/probe-plugin" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.Plugin" />
+      <item itemvalue="Gradle.guide-idea-plugin-probe [shadowJar]" />
+      <item itemvalue="Gradle.probe-plugin [runIde]" />
+      <item itemvalue="Gradle.guide-idea-plugin-probe:probe-agent [build]" />
+      <item itemvalue="Gradle.guide-idea-plugin-probe:probe-agent [clean]" />
+      <item itemvalue="Gradle.guide-idea-plugin-probe [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.guide-idea-plugin-probe [clean]" />
+        <item itemvalue="Gradle.probe-plugin [runIde]" />
+        <item itemvalue="Gradle.guide-idea-plugin-probe [shadowJar]" />
+        <item itemvalue="Gradle.guide-idea-plugin-probe:probe-agent [clean]" />
+        <item itemvalue="Gradle.guide-idea-plugin-probe:probe-agent [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration useDefault="false">C:\Users\fuzhengwei1\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1af3067c-2a40-483d-a5b0-2b5cb8b811ac" name="Default Changelist" comment="" />
+      <created>1641955091287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641955091287</updated>
+      <workItem from="1641955093343" duration="41000" />
+      <workItem from="1641955137999" duration="11439000" />
+      <workItem from="1641979706484" duration="5869000" />
+      <workItem from="1642048055200" duration="988000" />
+      <workItem from="1642054262416" duration="3433000" />
+      <workItem from="1642057811168" duration="14005000" />
+      <workItem from="1642085184616" duration="19345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642065259758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1642065259758" />
+    <state x="1245" y="232" key="#com.intellij.ide.util.MemberChooser" timestamp="1641973897936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="232" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1641973897936" />
+    <state x="558" y="200" width="474" height="483" key="FileChooserDialogImpl" timestamp="1642127282548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="200" width="474" height="483" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642127282548" />
+    <state width="916" height="329" key="GridCell.Tab.0.bottom" timestamp="1642401813943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642401813943" />
+    <state width="916" height="329" key="GridCell.Tab.0.center" timestamp="1642401813943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="329" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642401813943" />
+    <state width="916" height="329" key="GridCell.Tab.0.left" timestamp="1642401813943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="329" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642401813943" />
+    <state width="916" height="329" key="GridCell.Tab.0.right" timestamp="1642401813943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="329" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642401813943" />
+    <state width="914" height="346" key="GridCell.Tab.1.bottom" timestamp="1642066384806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642066384806" />
+    <state width="914" height="346" key="GridCell.Tab.1.center" timestamp="1642066384806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642066384806" />
+    <state width="914" height="346" key="GridCell.Tab.1.left" timestamp="1642066384806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642066384806" />
+    <state width="914" height="346" key="GridCell.Tab.1.right" timestamp="1642066384806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642066384806" />
+    <state x="179" y="147" key="SettingsEditor" timestamp="1642085005627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="179" y="147" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1642085005627" />
+    <state x="1053" y="131" key="new project wizard" timestamp="1641955454362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1053" y="131" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1641955454362" />
+    <state x="1001" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1641956061146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1001" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1641956061146" />
+  </component>
+</project>
