@@ -1,0 +1,3820 @@
+abacus#n. 算盘
+abbreviate#v. 缩写; 省略
+abbreviation#n. 缩写词; 缩略语
+abend#异常结束
+abnormal#adj. 反常的; 异常的; 不正常的; 变态的
+abort#异常中断; 故障
+aboveboard#adj. 光明正大的; 率直的 公开的
+abrasive#adj. 使表面磨损的; 粗糙的; 恼人的
+abridgement#节略; 缩写
+abruption#中断; 分离
+absence#n. 缺席; 不在; 缺乏; 缺少
+absolute#adj. 绝对的; 完全的; 确实的; 肯定的
+abstract#adj. 抽象的 vt. 提取; 摘录要点 n. 摘要; 梗概
+acceleration#n. 加速; 加速度
+accelerator#快捷键; 加速器
+accent#n. 口音; 音调; 腔调; 重音
+accept#v. 接受; 承认; 同意; 认可
+acceptance#n. 接受; 验收; 承认; 认可
+access#vt. 存取; 取得 n. 接近; 通道; 入口; 接近的机会
+accessible#adj. 易接近的; 易受影响的(to); 可理解的; 可存取的
+accessory#n. 附件; 附属物; 附属品; (为全套衣服增加美感的)服饰
+accidentally#adv. 意外地; 偶然地
+accommodate#vt. 容纳; 向…提供住宿; 使适应; 顺应
+according to#根据… prep. 按照; 根据
+accumulate#v. 积累; 积聚; 累加
+accumulator#累加器
+accuracy#n. 准确性; 准确度; 精密度
+accurately#adv. 正确地; 精确地; 准确地; 精密地
+achieve#vt. 完成; 实现; 达到; 得到
+acknowledge#vt. 承认; 表示感谢; (公开)承认; 告知(信件等的)收到
+acoustic#adj. 听觉的; 声音的; (乐器)原声的; 有关声音的
+acoustics#n. 音响设计; 声学; (复)音响效果; 音响装置
+acquire#vt. 取得; 获得; 学到; 习得
+acronym#n. 首字母缩略词; 字首组合词
+across#prep. 穿过; 在…对面; 横过; 在…的对面
+action#n. 行动; 动作; 作用; 功能
+activate#vt. 使活动; 使起作用; 触发; vt
+activated#激活的
+activation#n. 激活
+active#adj. 积极的; 主动的; 活动的; 活跃的
+activity#n. 活动; 活跃; 行动; 活性
+actual#adj. 实际的; 现实的; 真实的; 目前的
+actuator#致动器
+adaptability#n. 适应性
+adapter#适配器
+adaptive#适应的
+add#v. 把…相加; 合计 vt. 添加; 增加; 加起; 做加法
+add-on#追加
+addend#加数
+addition#n. 加; 加法; 附加物
+additional#adj. 附加的; 附加的; 额外的; 另外的
+additionally#adv. 此外; 而且 另外; 又
+additive#adj. 添加的; 附加的; [数]加法的 n. 添加剂
+address#vt. 在(信封、包裹等上面)写姓名地址; 向…致词; 演说; 谈吐 n. 通讯处; 地址
+addressable#可寻址的
+addressee#被访地址
+addressing#寻址; 访问
+adequate#adj. 足够的; 足够的; 充分的; 适当的
+adjacency#邻近; 邻接
+adjacent#adj. (to)邻近的; 毗连的; 邻接的; 邻近的
+adjust#v. 调整; 调节; 校准; 使适合
+adjustment#n. 调整
+administration#n. 管理; 经营; 行政机关; 政府
+administrative#adj. 管理的; 行政的
+administrator#管理员
+adobe#美国Adobe公司 n. 泥砖; 土坯
+advance#v. 促进 vt. 预先发放 vi. 前进 n. 进步; 进展; 预付; 借贷
+advanced#adj. 先进的; 高级的; 超前的; 开明的
+affect#v. 影响; 感动; (在感情方面)打动; 震动
+affected#adj. 做作的; 不自然的; 假装的
+again#adv. 再; 再一次; 另一次; 重新
+agent#n. 代理人; 经纪人; 媒介物; (药)剂
+aggregate#adj. 合计的 v. 合计; 集合 n. 总数; 聚集; 共计
+aid#vt.&vi. 帮助; 援助; 救护; 帮助者 n. 辅助物; 辅助器具
+airflow#气流
+aisle#n. (座席间的)纵直通道; 走道; 通道; 走廊
+alarm#vt. 使警觉; 使惊恐 n. 闹钟声; 警报; 惊慌; 惊恐
+alert#adj. 机警的; 警觉的; 机灵的; 留心的 vt. 使…警觉
+algebraic#代数的
+algorithm#算法
+alias#adv. 又名 n. 化名; 别名
+align#对齐; 排列
+aligned#对齐的; 均衡的
+alignment#n. 调准; 校直; 队列; 校准
+all#adj. 一切的; 所有的; 全部的 pron. 全部; 一切
+all-purpose#通用的
+allocate#v. 分配; 配给 vt. 分配; 分派
+allocation#n. 分配; 分派; 配给; 配给物
+allocator#分配算符; 分配器
+allow#v. 允许; 准许; 让…得到
+allowable#adj. 能容忍的; 容许的; 承认的
+allowed#容许的
+ally#联合; 关联
+alpha#n. 阿尔法(一个希腊字母); 希腊字母α; 未知数
+alphabet#n. 字母表; 字母系统
+alphabetic#adj. 字母(表)的; 按字母顺序的 字母的; 照字母顺序的
+alphabetical#adj. 字母表的; 按字母表顺序的
+alphabetically#adv. 依字母顺序地; 按字母表顺序地
+alphanumeric#字母数字的
+alteration#n. 变更; 改变; 蚀变
+alternate#adj. 交替的; 间隔的 v. 轮流 n. 替代物
+alternate key#替代关键字; 备用关键字
+alternately#交替地; 轮流地
+alternative#替代项; 选择性的
+alternative test#交错检验
+always#adv. 总是; 无例外地; 永远; 始终
+amount#数量; 总计; 等于
+ampere#安培
+ampersand#n. ＆号(and)
+amplification#放大率; 扩大
+amplifier#n. 放大器; 扩大器
+amplify#v. 放大; 扩大; 增强; 详述
+amplitude#n. 广大; 充足; 振幅
+analog#n. 类似物; 模拟[英]analogue
+analogue#n. 类似物; 模拟
+analyser#分析程序; 分析者
+analysis#n. 分析; 分解; 解析
+analyst#n. 分析家; 分析员; 分析者; 善于分析者
+analyze#v. 分析; 分解 vt. 分析
+analyzer#分析机
+and#逻辑与
+angle#vt. 把…放置成一角度 n. 角; 角度; 观点; 立场
+animation#n. 动画片; 动画片绘制; 活泼; 生气
+annotate#v. 注释
+annotation#n. 注释; 注解
+announce#vt. 宣布; 宣告; 发表
+announciator#报警器; 信号器
+anode#n. (电)阳极; 正极
+ANSI#美国国家标准学会 n. 美国国家标准协会
+answer#v. 回答; 响应; 符合; 解答 n. 回答; 答案
+answer back#应答
+answer mode#应答方式
+anti-aliasing#反走样; 去假信号
+anti-virus program#反病毒程序
+anticipate#预先考虑; 抢先
+aperture#小孔; 缝隙
+API#应用编程接口
+apostrophe#撇号“' ”; n书写中撇号(’)(表示省略或所有格)
+appear#vi. 出场; 出现; 露出; 似乎
+appearance#n. 出现; 露面; 外表; 外观
+append#附加; 设置数据文件的搜索路径
+appendix#n. 附录; 附属物; 阑尾; 盲肠
+apple#苹果公司
+applet#小应用程序
+appliance computer#家用计算机
+applicable#adj. 可适用的; 可应用的; 适用的; 合适的
+application#n. 申请; 申请书; 运用; 应用
+apply#vt. 应用; 运用 vi. 申请; 请求; 适用
+apportion#v. 分配; 分摊; (按比例或计划)分配
+appropriate#adj. 合适的; 适当的; 恰当的 vt. 拨给; 挪用
+appropriately#adv. 适当地; 合适地; 恰当地
+apron#附表
+Arabic#adj. 阿拉伯的; 阿拉伯人的 n. 阿拉伯语
+arbitrary#adj. 武断的; 专断的; 任意的
+arbitrary value#任意值
+arcade game#走廊游戏机
+architecture#体系结构
+archive#归档; 存档; 档案文件
+archive attribute#存档属性
+archive file#归档文件
+area#区域; 面积图
+area chart#分区图; 对比图
+area fill#区域填充
+area graph#区域图
+area name#域名
+argument#变元; 自变量
+arithmetic#算术的
+arrange#v. 排列; 重排
+arrange icons#重排图标
+arrange windows#重排窗口
+arrangement#n. 排列; 安排
+array#vt. 排列 n. 列阵; 一系列; 大量; 排列
+articulation#n. (清楚的)发音; 清晰度
+artifacts#n. 史前古器物; 赝象
+artificial#adj. 仿真的; 人工的; 娇揉造作的
+artwork#n. 艺术作品; 艺术制品; [总称]插图; 艺术品
+ascend#v. 上升; 攀登
+ascending#升序; 上升的
+ascending order#升序
+ascending sort#升序排序
+ASCII#美国信息交换标准码
+aspect ratio#高宽比; 纵横比
+assemble#汇编; 装配
+assembled#安装的; 组给的; 组装
+assembler#汇编程序
+assembly#汇编; 集合
+assertion#声明
+assets#n. 财产; 资产; 资源
+assign#v. 赋值
+assigned#adj. 指定的; 赋值的
+assignment#n. 赋值; 分配
+assist#v. 辅助
+assistance#n. 辅助
+associate#v. 相联系; 关联
+association#n. 关联
+associative#关联的; 结合的
+assortment#n. 各种各样; 分类; 各色俱备之物; 聚集
+assumed#假定的
+asterisk#n. 星号(即*)
+asynchronous#异步的
+attach#附加; 选用
+attached#adj. 附加的 (过去分词)喜欢; 依恋于
+attachment#n. 附属物; 连接物; 附件; 爱慕
+attack#增高
+attention#n. 注意; 留心; 注意力; 立正
+attenuation#衰减
+attenuator#衰减器
+attractive#adj. 有吸引力的; 引起注意的; 吸引人的; 引人注意的
+attribute#vt. 把…归因于 n. 定语; 属性; 特征
+audio#声频(的); 音频(的)
+audiovisual#音像的; 视听的
+auditing#审核; 审计 n. 审计; 查账; 决算
+augend#被加数
+augment#增加; 扩充
+authentication#认证
+authenticator#认证器
+author#程序设计者; 作者
+author level#作者级
+authoring#创作
+authority#权限
+authorize#v. 授权; 核准; 认可 vt. 授权; 委任; 许可; 批准
+authorized#adj. 委任的; 许可的 特许的
+auto#自动的
+autodial#自动拨号
+autoformat#自动套用格式
+autoindex#自动变址; 自动索引 n. 自动变址(数)
+automata#自动操作; 自动控制; 自动机
+automatic#adj. 自动的; 机械的; 无意识的 n. 小型自动武器
+automatically#adv. 自动地; 机械地
+automation#自动化; 自动控制
+automaton#n. 机器人; 自动机器
+auxiliary#adj. 辅助的; 支援的; 补助的; 附加的 n. 辅助者; 辅助设备
+availability#n. 可用物; 可用性; 有效性
+available#adj. 可取得的; 可采用的; 可用的; 有效的
+average#adj. 平均的; 通常的 v. 平均 n. 平均数; 平均
+avoid#避免; 取消; 无效
+axis#n. 轴心; 轴; 轴线; 中心线
+babble#串音
+back#adv. 回原处; 回去 adj. 后面的 vt. 支持; 后退; 背书; 订货 n. 背后; 后面
+backbone#n. 脊骨; 脊柱; 主干
+backdrop#背景
+background#背景; 后台
+backlight#背后照明灯
+backlog#v. 积累; 聚积(某物); 储存量; 后备
+backplane#底板
+backspace#退格
+backspace key#退格键
+backtrack#回溯
+backup#文件备份; 备份的
+backward#向后的(地); 相反的(地)
+badge#n. 徽章; 标记
+balance#n. 平衡; 余额
+band#频带; 波段
+band-pass filter#带通滤波器
+bandwidth#n. 频带宽度; 通带宽度
+bank#存储体
+bar#n. 铁; 木等条; 杆; 棒
+bar chart#条线图(一种统计表); 条形图
+bar code#条形码
+bar graph#条形图
+bar-code reader#条码阅读器
+bare computer#裸机; 硬件计算机
+barrel#桶形失真
+base#基本
+base address#基地址
+base font#基本字体
+base hardware#基本硬件
+baseband#基带
+baseline#基线
+basic#初学者多用途指令码
+basis#n. 基础; 前提; 根据; 主要成份
+bass#n. 男低音; 低声部; 低音乐器; 低音部
+BAT file extension#BAT文件扩展名
+batch#n. 一批; 一组; 一群
+batch file#批处理文件
+batch processing#批处理
+battery#n. 电池(组); (器具等的)一组; 一套; 炮兵连
+baud#波特
+Baud rate#波特率
+bay#槽
+beacon#标志; 信号
+beam#射束
+beam deflection#射束偏转
+beep#n. (汽车喇叭等)嘟嘟响; 蜂鸣声; 嘀嘀声
+beeper#n. 袖珍无线电传呼机; 电话呼叫器; 蜂鸣器
+begin#v. 开始; 着手
+beginner#初级
+bel#贝尔
+bell#n. 钟; 铃; 钟声; 铃声
+bell character#响铃字符
+below#adv. 在下; 下面 prep. 在…以下; 在…下面
+benchmark#基准测试(程序) n. 水准基点; 水准标准
+best fit#最佳配合
+bias#偏离; 偏压
+bibliography#n. 参考书目; (有关某一专题的)书目
+bid#n.&v. 出价; 喊价; 命令; 说 v. 祝; 表示; 出价; 投标
+bidder#n. (拍卖时的)出价人; 报价人; 投标人
+Bill#票据; 帐单
+billing#记帐; 编制帐单; 开票
+binary#二进制的; 二元的
+binaural#双声道的
+bind#联接
+binder#n. 活页夹; 联接器
+binding#联接
+bionics#仿生学
+BIOS#基本输入输出系统
+bipolar#双极的; 双极性的
+bistable#双稳态的
+bit#位; 比特
+bitmap#位图
+black box#黑盒
+black matrix#黑阵
+blank#adj. 空白的; 无表情的; 茫然的 n. 空白处; 空白
+blanket#涂层
+blanking#空白
+blast#清除
+blink#v. 眨(眼睛); 眨眼睛; 闪烁
+blinking#adj. (英俚)该死的; 讨厌的; 十足的; 闪烁的
+block#vt. 堵塞; 阻塞 n. 一组; 一批; 街区; 街段
+blocking#模块化; 分块
+blower#风扇; 鼓风机
+board#板; 插件板
+body#n. 身体; 主体; 尸体; 物体
+bold#粗体
+bold italic#粗斜体
+boldface#黑体字
+book#vt. 登记入册; 预订(票等); 预约 n. 书; 本子; 帐目; 账册
+bookmark#书签
+Boolean#布尔
+boot#引导
+bootable#可引导的; 可启动的
+bootable disk#引导盘
+booting#启动
+bootstrap#引导指令(程序); 辅助程序; 自举
+border#边框; 边缘
+borrow#借位
+bottleneck#n. 障碍; 瓶颈地区; 瓶颈口; 交通易阻的狭口
+bottom#n. 底; 底部; 臀部; 末端
+bottom-up#自底向上
+bounce#v. 弹; 弹回; (使)弹起(跳起) n. 弹; 反弹; 冲劲; 冲力
+bound#界限; 范围; 装订
+boundary#n. 分界线; 边界
+bounding box#边框
+BPI#每英寸位数; 位／英寸
+bps#每秒传送位数; 比特/秒; 位／秒
+brace#vt. 使防备; 支住; 使绷紧 n. 支架; 托架; 花括号; 大括号
+bracketed#加括号的
+brackets#括号; 大括号; 方括号
+branch#分支; 转移
+branching#分支(的)
+break#v. 打断; 打破; 损坏; 违反 n. 休息时间
+breakpoint#断点
+breve#短音符号
+bridge#网桥
+bridging#桥接的
+bright#adj. 明亮的; 聪明的; 机灵的; 欢快的
+brightness#n. 明亮(处); 光辉; 明亮; 亮度
+broadband#宽频带; 宽带; adj; 宽带的
+broadcast#vt. 广播; 播送 vi. 进行广播 n. 广播节目; 广播; 播音
+browse#vi. 随便翻阅; 浏览; 翻阅; 放牧
+browser#n. 浏览者; 浏览器
+brush#v. 刷; 擦 n. 刷子; 毛刷; 画笔
+bubble#v. (使)起泡 n. 泡; 水泡; 气泡; 泡影
+bucket#存储桶
+buffer#n. 起保护作用于的人或物; 缓冲器; 缓冲区
+buffering#中间转换(寄存); 缓冲记忆装置
+bug#错误
+build#构建
+bulb#球形物
+bulk#n. 大量; 大块; 体积; 容量
+bulk storage#大容量存储器
+bullet#项目符号
+bumper#adj. 特大的; 丰盛的 n. (汽车上的)保险杠; 缓冲器; 满杯; 丰收
+bundle#捆绑销售
+bureau#录排(出片)公司
+burst#脉冲; 组
+bus#n. 公共汽车; 总线; 信息通路
+bust#操作错误
+busy#adj. 忙的; 繁忙的; 忙碌的
+button#n. 按钮; 钮扣
+buyer#n. 购买者; 买主; 采购人员
+buzzer#n. 蜂音器; 蜂鸣器
+bypass#v. 越过; 忽视; 避开 vt. 加设旁道; 回避 n. 迂回的旁道; 旁路
+byte#字节; 8位元组 n. [计]字节; 比特
+C-format#C格式
+cabinet#箱; 盒
+cable#v. 打电缆电报 n. 缆; 索; 电缆; 钢丝绳
+cabling#布线
+cache#n. 隐藏所; 高速缓冲存储器
+caddy#盒; 箱
+cage#盒; 栅; 网
+calculate#vt. 计算; 估计; 计划 vi. 计算
+calculation#n. 计算; 计算结果; 仔细考虑
+calendar#n. 日历; 月历; 历法
+calibrate#v. 测定口径; 校准; 查看刻度; 划刻度 vt. 使标准化; 标定; 分度; 测量…的口径
+call#v. 打电话; 喊; 叫 vi. 来访; 拜访; 交款通知; 要求偿还
+callback#回叫(回答)信号
+caller#调用程序; 访问者
+calling#n. 职业; 使命感; 调用的
+callout#插图的编号; 调出
+CAM#计算机辅助制造
+camcorder#便携式摄像机; 摄录机
+camera#n. 照相机; 摄影机; 摄像机
+cancel#vt. 取消; 撤消; 删去
+canvas#调查; 讨论; 钻研
+capability#n. 能力; 才能; 性能; 容量
+capable#adj. 有能力的; 有才能的; 能…的(of); 能做到的
+capacitor#电容器
+capacity#n. 容量; 容积; 能力; 性能
+capital#大写字母; 大写的
+capitalized#大写的
+capstan#主动轮
+caption#n. 报纸文章的标题; 照片说明
+capture#采集
+card#插件; 卡片
+caret#插入记号; 脱字符; 补注符号 n. 加字符号
+carousel#圆盘传送带
+carriage#托架
+carry#进位
+carry bit#进位位
+carry flag#进位标志
+cartridge#编码键筒; 可更换存储部件
+cascade#串联
+cascading menu#层叠式菜单
+cascading windows#层叠窗口
+case#机身; 情况
+case sensitive#区分大小写
+cash#v. 兑现; 兑付 n. 现金; 现款; 现钱
+cassette#盒式磁带; 盒子
+cast#计算; 角色
+catalog#v. 编目录; 将…编入目录 n. 目录(本、卡); 目录; 目录册
+catalogue#v. 将…编入目录 n. 目录; 目录册; 一览表
+catch#捕捉(器)
+category#分类
+catena#系列
+cation#n. 正离子; 阳离子
+cause#vt. 使发生 n. 使发生; 引起; 原因; 起因
+caution#vt. 告诫; 警告; 劝…小心 n. 小心; 谨慎; 警告; 注意(事项)
+CD caddy#CD盒
+CD-R#可擦写光盘
+CD-ROM#n. 只读光盘; 只读存储光盘
+CD-ROM player#CD-ROM播放器
+CD-WO#一次写光盘
+cedilla#变音符
+cel#动画序列中的单帧
+cell#单元
+Celsius#adj. 摄氏的
+center#中心; 居中
+centering#定中心; 置于中心; 向中对齐
+centimeter#n. 厘米; 公分
+central#adj. 中心的; 中央的; 主要的
+century#n. 世纪; 百年; 一百个
+certain#adj. 肯定的; 确实的; 确定的
+certainty#确定
+certification#证明
+CGA#彩色图形适配器
+chain#vt. 用链条栓住 n. 链; 链条; 一连串; 连锁
+chained#链接的
+chamber#n. 房间; 寝室; 会议厅; 议院
+change#vt. 交换 n. 零钱; 找头; 兑换; 改变
+channel#通道; 信道
+chapter#n. 章; 回; 篇; (历史上的)一段时间
+char#vt. 烧焦; 字符
+character#n. (小说、戏剧等)人物; 性格; 品质; 特性
+characteristic#adj. 特有的; 典型的 n. 特性; 特征; 特色
+charge#加载; 指示; 命令
+chart#n. 图; 图表; 航(线)图
+chassis#n. 底盘; 底架; 汽车等之底盘
+checker#n. 检查人员; 校验器
+checkout#检验; 查出
+checkpoint#检验点; 测试点; 检查部位 n. 关卡; 检查站
+child#n. 小孩; 儿童; 子女; 孩子
+Chinese#adj. 中国的; 中国(人)的; 汉语的 n. 中国人; 汉语
+chip#n. 土豆; 水果等的薄片; 切屑; 碎片
+choice#选项; 挑选
+choose#挑选; 选择; 选定
+chord#n. 和弦; 心弦
+chroma#色度; 浓度
+chromatic#adj. 色彩的; 颜色的; 彩色的; 五彩的
+chrominance#色度
+chunk#数据块
+cine film#电影胶片
+cipher#n. 零; 密码; 无足轻重的人
+ciphertext#密码文本
+circle#圆; 圈; 循环
+circuit#n. 电路; 线路; 环行; 巡回
+circular#adj. 圆形的; 环形的; 循环的; 间接的 n. 传单; 通报
+circumflex#弯曲的
+circumstance#n. 情况; 情形; 环境; 条件
+CISC#复杂指令集计算机
+citation#n. 引用; 引证; 引用文; 传票
+clamp#n.&v. 螺丝钳; 用钳夹; 取缔 vt. 夹住; 固定 n. 夹头; 夹具; 夹钳
+classify#v. 分类; 归类 vt. 把…分类; 分等级
+clause#子句
+clear#adj. 清楚的; 清晰的; 明亮的 vt. 打扫干挣; 清除
+click#v. 点击; 使发出卡嗒声; 单击 n. 卡嗒声
+client#n. 客户; 委托人; 顾客
+clip#剪贴
+clipboard#n. 带弹簧夹子的书写板; 剪贴板
+clipping#adj. 快速的 n. 剪下物; 剪辑; 剪报
+clock#vt. 计时 n. 时钟
+clockwise#adj. 顺时针方向地(的) adv. ／
+close#adj. 接近的; 亲近的; 亲密的 v. 关; 关闭; 结束; 终止
+closed#封闭的
+closely#精密地; 接近地
+CLS#屏幕清除的系统命令
+cluster#vi. 群集; 丛生 n. 群; 组; 一串; 一簇
+coaxial cable#同轴电缆
+coalesce#v. 联合; 结合; 合并
+coating#涂层
+coax#同轴电缆
+coaxial#同轴的
+COBOL#通用商业语言; 面向商业的语言
+code#n. 密码; 符号; 代码; 代号
+coder#编码器
+coding#编码
+coexistence#n. 共存
+cold#adj. 冷的; 寒冷的 n. 感冒; 冷淡的; 不热情的
+collaboration#协同; 协作
+collapse#崩溃; 折叠
+collateral#并行的
+collating#整理
+collator#整理器; 校对机
+collection#n. 收藏品; 收集物
+collision#n. 碰撞; 利益; 意见等的冲突; 抵触
+colon#n. 结肠; 大肠; 冒号
+color#v. 给…着色; 染色 vt. 给…着色; 涂色 n. 颜色; 彩色; 颜料
+column#n. 圆柱; 柱状物; 列; (报刊中的)专栏
+combination#n. 组合; 合并; 结合
+combine#v. 组合
+combo box#组合框
+comma#逗号
+command#v.&n. 命令; 指挥; 掌握
+comment#注解; 注释
+commercial#商业的; 经济的
+commit#提交
+commitment#提交; 约定; 支持
+common#公用的; 公共的
+communicate#v. 通信
+communication#n. 传播; 通信; 通讯联系
+compact#adj. 紧凑的; 坚实的 v. 使紧凑; 压缩 vt. 使坚实 n. 契约; 合同
+compaction#压缩
+company#v. 交际; 交往 n. 公司; 商号; 伴随; 同伴
+comparand#比较数; 比较字
+comparator#比较器
+compare#v. 比较; 相比; 比作 vt. 比较; 对照
+comparison#n. 比较; 对照; 比喻; 比较关系
+compatibility#兼容性 n. 相容
+compatible#adj. 兼容的; 能和睦相处的; 合得来的
+compilation#n. 编译; 编辑
+compile#v. 编译
+compiler#编译器; 编译程序
+complement#补码; 补数
+complete#adj. 完全的; 彻底的; 完结的 vt. 完成; 结束
+completely#十分; 完全地
+completion#n. 完成; 完工; 结束; 完满
+complex#adj. 复杂的; 综合的 n. 综合企业; 综合体
+complexity#复杂程度; 复杂性
+complicated#复杂的; 难解的
+component#部件; 成分
+compose#v. 组成; 构成; 创作; 排字
+composing#n. 组成
+composite#adj. 混合成的; 综合成的; 合成的; 复合的 n. 合成物; 复合材料
+compress#vt. 压紧; 压缩; 浓缩
+compressed#adj. 压缩的; 浓缩的
+compression#n. 压缩; 压紧; 浓缩
+comprise#vt. 构成; 组成; 包括; 包含
+computability#可算性
+computation#n. 计算
+computation center#计算中心
+compute#vt. 计算; 估计
+computer#n. 电脑; 计算机; 电子计算器
+computer virus#计算机病毒
+concatenate#连接; 串接
+concentration#n. 专心; 集中(注意力)
+concentrator#集线器; 集中器
+concept#n. 概念; 理论; 想法; 观念
+concordance#重要语汇索引
+concurrent#并行的
+condense#v. 浓缩; 压缩; 精简 vt. 使冷凝; 浓缩; 缩短 vi. 浓缩; 凝结
+condition#n. 条件; 状况; 状态; 病
+conditional#adj. 条件的; 有条件的; 附条件的
+conditioning#n. 训练; 条件反射作用; 调节; 适应
+conductor#导线; 导体; 前导子
+conduit#n. 导管; 水管; 护线管
+confidential#adj. 秘(机)密的; 表示信任的; 担任机密工作的; 秘密的
+configuration#n. 配置; 外形
+configure#v. 配置
+confirm#v. 确立; 确认 vt. 证实; 肯定; 批准; 确认
+confirmation#n. 证实; 证据; 确认; 确认书
+conflict#n.&v. 冲突; 战斗; 斗争; 抵触 v. 争论; 战斗 n. 冲突
+conform#vi. (to)遵照; 顺从; (to)遵守; 适应
+confuse#使混乱; 干扰
+congestion#n. 拥挤; 阻塞; 充血; 拥塞
+conjunction#与; 关联
+connect#v. 连接; 相连; 联系 vt. 连接; 与…联系; 接通(电话) vi. 连接
+connected#adj. 连接的; 有关系的
+connection#n. 连接; 关系; 联系; 连贯性
+connective#adj. 连接的; 结合的; 连接词
+connector#连接头; 连接器
+consent#插座
+consequently#adv. 所以; 因此
+consider#v. 考虑; 认为; 考虑到
+consideration#n. 考虑; 研究; 讨论
+considered#adj. 经过深思熟虑的; 考虑过的; 被尊重的
+consist#符合; 包括
+consistency#n. 一贯性; 前后一致; 坚韧; 一致性
+consistent#adj. 始终如一的; 一贯的; 坚持的; 一致的
+console#v. 安慰; 慰问 n. 控制台; 仪表板
+consolidate#合并计算; 强化
+constant#常量; 不变的
+constantly#adv. 经常地; 不断地; 不变地
+constrain#v. 拘束; 抑制
+constraint#n. 拘束; 约束; 限制
+constructing#构造
+constructor#构造器; 构造函数; 构造成员
+consume#消耗; 使用
+contact#vt. 联系; 接触 n. 联系; 社会关系; 接头
+contain#v. 包含; 容纳; 容忍; 自制
+container#n. 容器; 集装箱; 货柜
+containment#容积; 可容度; 控制; 包含
+content#内容; 目录
+contention#n. 争论; 论点
+context#n. 上下文; 语境; 来龙去脉
+contextual#adj. 上下文的; 取决于上下文的; 前后关系的
+contiguous#adj. 接触的; 邻近的; 相连的
+continue#v. 继续; 持续; 延续 vt. 继续; 延伸
+continued#adj. 继续的; 连续的; 接上页
+continuous#adj. 继续的; 连续的; 持续的; 延伸的
+contouring#轮廓线; 等高线
+contractor#n. 立约人; 承包人; 承包方
+contrast#反差; 对比
+control#控制; 管理
+controllability#可控制性; 控制能力
+controlled#adj. 受控制的; 受操纵的 受控制的; 受约束的
+controller#n. 管理者; 控制器; 管理员
+convenience#n. 便利; 方便的设施
+convenient#adj. 便利的; 方便的; 合适的; 近处的
+convention#约定; 惯例; 常规
+conventional#adj. 习俗的; 寻常的; 普通的; 常见的
+conventional memory#常规内存
+converged#收敛的; 聚合的
+convergence#n. 会合; 会聚; 聚焦
+conversation#对话
+conversational#adj. 会话(用)的; 善于辞令的; 会话的
+conversion#n. 转变; 变换; 改变信仰; 转换
+convert#vt. 使转变; 使改变信仰(等); 使转化; 使转换
+converted#转换的; 修改的
+converter#转换器
+coordinate#adj. 同等的 v. 调和; 协调 n. 坐标
+coordinator#n. 策划者; 协调程序; 协调者
+coprocessor#协处理器
+copy#v. 抄写; 抄袭; 模仿 n. 复制品; 抄本
+copy file#复制文件
+copyright#n. 版权; 著作权
+cord#n. (电)软线; 粗线; 绳; 线
+core#核心; 磁心
+corner#n. 角; 角落; (街道)拐角处; 街角
+corona#电晕; 光环 n. 日冕; 冠(状物)
+correct#v. 校正
+correction#n. 校正; 修正
+correctly#adv. 正确地; 恰当地
+corrector#校正程序
+correlator#相关因子; 相关器
+corresponding#adj. 相应的; 相当的; 符合的; 一致的
+corrupt#有毛病的; 误用的
+corrupted#毁坏的
+cosine#余弦
+cost#v. 花费; 使失去(生命等) vt. 价值; 值 n. 成本; 代价
+costing#成本计算; 生产费 n. 成本会计; 成本核算
+count#计数
+counter#计数器
+counterclockwise#adv. 逆时针方向 反时针方向(的)
+country#n. 国家; 乡下; 农村
+couple#v. 耦合; 配合
+coupler#耦合器
+course#n. 课程; 过程; 一道菜; 路线
+courseware#课件
+cover#vt. 覆盖; 包括; 涵盖 n. (书的)封面; 封面
+covering#n. 覆盖物; 卖空补进
+CPU#(计)中央处理器; 控制处理部件
+crank#vt. 用曲柄启(转)动 n. 怪人; 曲柄(轴); [机]曲轴; 手柄
+crash#崩溃
+craze#v. 使发狂 n. (一时的)狂热; (一时的)浓厚兴趣; 狂热
+create#建立; 创建
+creation#n. 创作; 创造
+creator#创建者
+credential#凭证; 证书
+credit#n. 学分; 信用; 名誉
+criteria#n. (criterion的复数)标准; 条件
+criterion#标准; 判据; 准则
+critical#adj. 紧要的; 关键性的; 批评的; 评论的
+critical value#临界值
+crop#剪切
+cross#vt. 穿过; 越过; (使)交叉 n. 十字形
+cross cursor#十字光标
+cross cursor#十字光标
+crowding#加密; 加浓; 拥挤
+cryogenics#低温学
+cryptographic#用密码写的
+cryptography#密码术; 密码系统
+crystal#adj. 透明的; 晶体的; 清澈透明的 n. 水晶; 结晶体; 石英晶体
+crytic#隐含的
+cue#插入字幕; 提示
+culling#挑选
+cumulative#adj. 累积的; 渐增的
+currency#n. 货币; 通货; 流传; 通用
+current#当前的; 现行的
+cursor#n. 游标; 光标
+curtate#水平分界线; 卡片横向穿孔区; 卡片部分
+cushion#减震器; 缓冲器
+cushion#缓冲器
+customer#用户
+customize#v. 定做; 定制; 用户化
+cut#剪下; 删节
+cutoff#剪切掉; 截止
+cutout#剪切块; 删除部分
+cutout#剪切块; 删除部分
+cybernate#计算机控制化; 使电脑化
+cybernation#计算机控制
+cybernetics#控制论
+cyberspace#n. 电脑空间; 网络世界; 虚拟信息空间; 网络空间
+cycle#v. 骑自行车; 循环 n. 自行车; 周期; 循环
+cycle control#循环控制
+cyclic#循环的
+cylinder#磁道柱面
+daemon#Internet中用于邮件收发的后台程序; 守护程序
+daily#adv. 每日; 天天 adj. 每日的; 日常的 n. 日报
+daisy-chain#菊花链
+damage#vt. 损害; 损坏 n. 破坏; 损害; 毁坏
+damper#阻尼器; 减震器
+damping#阻尼
+dark#adj. 黑暗的; 黑色的; 深(色)的; 隐秘的 n. 无光; 黑暗
+dark shading#浓阴影
+dash-out#删去
+dashed#虚线
+data-in#数据输入
+database#n. 数据库; 资料库
+date#n. 日期; 枣
+datum#n. (［复］data)资料; 材料; 数据
+day#n. 天; 日; 白天; 一天
+db#分贝
+deactivate#v. 解除动员; 复员; 使无效; 使不活动
+deactivated#无效的; 释放
+dead#adv. 完全地; 凋谢的; 无生命的; 不景气的 adj. 死的; 无生命的; 死气沉沉的
+dead halt#死停; 完全停机
+deadlock#n. 僵局; 死锁
+deal#处理; 分配; 交易
+dealer#n. 商人; 做买卖的人; 经销商
+dearly#adv. 充满深清地; 极; 非常; 昂贵地
+death#n. 死; 死亡; 灭亡; 毁灭
+debit#v. 把…记入借方
+debug#调试
+debug statement#调试语句
+debugger#调试器; 调试程序
+debugging tool#调试工具
+dec-#[词头]十(进的); 十倍的
+decade#十进制的
+decay#衰减
+deci-#[词头]十分之一
+decibel#n. 分贝(音量的单位)
+decide#(使)判定; 判断
+decimal#adj. 小数的; 十进制的
+decipher#译码
+decision#判定
+deck#卡片组
+declaration#说明
+declarative#adj. 陈述的; 叙述的; 说明的
+declarator#说明符
+declare#说明
+declared#adj. 承认的; 申报的 承认的; 公告的
+decode#vt. 解(码); 解码; 译码
+decoder#译码器
+decollate#分开; 拆散
+decollate#分开
+decompression#还原; 解压
+deconcentration#分散
+decrease#减少; 降低; 缩短
+decreasing#递减的
+decrement#减
+decrypt#v. 译; 解释; 译码
+dedicate#v. 致力; 献身
+dedicated#vt. 专注的; 献身的; 专用的
+dedication#n. 奉献; self-sacrificing devotion 献身; 忠诚
+deduction#n. 演绎; 推论; 扣除; 减去
+default#v. 拖欠; 违约; 欠缺; 默认 vi. 不履行义务; 拖欠 n. 违约; 弃权; 预设; ／
+defective#故障的; 有毛病的
+definable#可定义的; 可确定的
+define#v. 界定 vt. 解释; 下定义; 阐述; 限定
+definition#n. 定义; 释义; 解释; (轮廓影像等的)清晰度
+deflect#v. 偏差
+deflection#n. 偏差; 转向; 偏斜
+degauss#消磁
+degausser#消磁器
+degradation#退化; 降级
+degrade#降级; 减少; 递降
+degree#度; 级
+delay#v. 延迟; 耽搁 vt.&vi. 推迟; 耽搁
+delegation#n. 代表团; 授权; 委托
+delete#vt. 删除文字; 擦去(字迹)
+delete all#全部删除
+deletion#删去(部分); 删除
+delimit#定界; 划界
+delimiter#定界符; 分隔符
+delinquent#adj. 疏忽的; 有过失的; 拖欠帐款的; 失职的
+deliver#传递; 交付; 发表
+delivery#传输; 发送
+demagnetization#去磁; 退磁
+demand#n.&v. 要求; 请求; 需要(量) v. 查问
+demo#演示; 演示程序 n. 示威游行; 演示; 示范
+demodulate#使解调; 使检波
+demodulator#解调器
+demographic#adj. 人口的; 人口统计的; 人口统计学的
+demon#n. 魔鬼; 恶魔; 精灵程序
+demonstrate#v. 论证; 证明; 示范
+demonstration#n. 示范; 证明
+demount#卸下
+demultiplexer#多路解调器; 多路分用器
+denary#十进制的; 十的
+denote#v. 指示; 指出; 代表; 为…的符号 vt. 是…的符号; 提示; 表示
+density#密度; 灰度
+deny#vt. 否认; 拒绝给予
+department#部门; 门类; 系
+depend#v. 取决于; 相信
+dependence#n. 从属; 相关
+dependent#adj. 依靠的; 依赖的; 从属的; 随…而定的
+dependents#从属单元格
+depletion#减少; 损耗
+deposit#v. 存放; 使沉淀; 付(保证金) vt. 置; 放下 n. 存款; 沉积物
+depress#vt. 使沮丧; 按下
+depth#n. 深; 深度; 厚度
+deque#双端队列; 双队列
+dequeue#离队; 出列
+derail#vt. 使(火车等)出轨 转移指令
+derivation#派生; 引出 n. 引出; 起源; 衍生
+descendant#子体; 子节点
+descending order#降序
+describe#v. 描述; 描绘 vt. 描写; 描述
+description#n. 描写; 描述; 说明书; 作图
+descriptor#描述符; 描述信息块
+descry#查看; 发现
+deselect#取消选择
+design#vt. 设计 n. 图案; 设计
+design aid#设计工具
+designate#v. 指定; 任命
+designated#指定的; 特指的
+designation#n. 指定; 选派; 任命; 命名
+desirable#所希望的; 称心的
+desire#vt. 要求; 期望; 渴望; 请求 n. 欲望; 愿望
+desired#adj. 要求的; 想要的; 期望的; 渴望的
+desktop#n. 桌面电脑; 桌面; 台式
+destination#目的文件; 目的单元格
+destroy#vt. 毁坏; 破坏; 消灭; 打破
+detached#分离的; 分开的
+detail#n. 细节; 详情; 详细
+detailed#adj. 详细的; 逐条的; 详尽的; 极注意细节的
+detect#检测
+detent#制动器; 稳定装置
+deter#阻止; 拦住; 妨碍
+determinant#n. 决定因素; 决定性的
+develop#v. 发展; 开发; 研制; 显影 vt. 显(影); 冲洗(照片)
+developer#n. (房地产)开发商; 开发者
+developing#adj. 发展中的; 开发中的
+development#n. 发展; 开发; 生长
+development system#开发系统
+development tool#开发工具
+deviation#n. 背离; 偏离; 偏差; 偏向
+device#n. 装置; 设备; 器具; 仪器
+device driver#设备驱动程序
+diacritic#发音符号的; 可区别的
+diacritical#adj. 区分的; 辩别的 可区分的
+diad#双位二进制
+diaeresis#分音符
+diagnose#vt. 诊断(疾病); 判断(问题)
+diagnostic#adj. 诊断的; 特征的
+diagnostics#诊断学
+diagonal#n.&adj. 对角线(的) 对角线的; 斜的; 对角线
+diagonally#斜(对)地; 对角地
+diagram#n. 图解; 图表; 简图; 图样
+dial#v. 拨号码(打电话); 拨(电话号码) n. 钟(或表)面; 标度盘
+dialect#方言; 语调
+dialing#拨号; 呼叫
+dialog#n. 对话; 对白
+dialog box#对话框
+diamond#n. 钻石; 金刚石; 金钢石; 菱形
+dibit#双位; 二位组
+dichotomizing search#二分法检索
+dictionary#n. 词典; 字典
+differ#不同; 不一致
+difference#n. 不同; 差异; 差别; 差额
+different#adj. 不同的; 各种的
+differentiate#v. 区分; 区别; (使)不同 vt. 区分; 分辨
+differentiator#微分器
+digest#分类; 摘要
+digit#n. 位(数); 数字; 手指; 足趾
+digital#adj. 数字式的; 数字的; 数字显示的
+digitize#数字化; 将资料数字化
+dim#颜色变淡
+dim#文件图像管理
+dimension#n. 特点; 特性; 尺寸; 尺度
+dimensional#维的; 空间的
+dimensionality#维数; 度数
+dimmed#暗淡的; 无效的
+diode#二极管
+dip#文件图像处理
+diphthong#连元音字; 双重元音; 双元音字; 元音连字
+dipping#浸渍(法); (可)调; 浸渍法
+DIR#(directory)列目录; 显示文件列表
+direct#adv. 径直地 adj. 直接的; 直率的 v. 指引; 指挥 vt.&vi. 导演
+direct access#直接存取
+direct image#直接成像
+direct memory access#直接内存访问
+direction#方向; 流向
+direction key#方向键
+directive#命令; 说明
+directly#adv. 直接地; 立即
+director#控制器
+director#多媒体创作软件
+directory#n. 姓名地址录; (规则、指令等)指南; 通讯录; 目录
+directory delete#目录删除
+directory entry#目录项
+directory listing#目录列表
+disable#禁用
+disabled#禁用的
+disappear#vi. 消失; 不见; 消亡; 失踪
+disarm#v. 解除武装; 裁军; 缴…的械; 使息怒
+disassemble#v. 拆卸; 分解 [参]dissemble; 不汇编
+disc#光盘
+discard#删除; 放弃
+discarded#放弃的; 删除的; 废弃的
+discipline#规定(范); 要求; 科目
+disconnect#断开
+disconnection#n. 断开
+discrete#adj. 分离的; 不相关联的; 不连续的; 离散的
+discriminant#判别式
+disjunction#析取; 分离; 分裂
+disk#n. 圆盘; 唱片; 磁盘
+diskette#软盘
+diskless#无盘
+dismiss#v. 解散; 打消; 解雇 vt. 解散; 解雇; 不考虑; 消除
+dismount#v. 下(马等) vt. 使下马; 取下; 卸下 vi. 下马; 下车
+dispatch#分派; 调度
+dispatcher#调度器; 调度程序; 分配器
+dispersant#分散剂
+displace#位移; 置换
+displacement#n. 置换; 替换物; 移置; 取代
+display#vt. 陈列; 展览; 显示 n. 陈列; 展览; 显示
+dispose#v. 配置; 布置; 使有倾向; 使愿意 vi. 丢掉; 处理
+disposition#n. 意向; 倾向; 性情; 气质
+disregard#忽视; 把…忽略不计
+dissector#析象管; 析象器
+dissemination#传播; 宣传; 传染(病毒) n. 散布; 传播
+dissipation#损耗
+dissolve#渐隐
+distinction#区别; 相异; 特性
+distinguish#v. 区别; 识别 vt. 区别; 辨别 vi. 区别; 辨别
+distort#v. 歪曲(事实等); 曲解; 弄歪; 使…失真
+distortion#n. 歪曲; 曲解; 失真; 变形
+distribute#vt. 分送; 分发; 分配; 散布
+distributed#分布的; 分布式的
+dithered#颤动的
+dithering#抖动
+ditto#同上
+divergence#n. 分歧; 分散度; 偏差
+diversion#转换
+divide#v. 分开; 除; 分割
+dividend#n. 红利; 股息; 回报; 效益
+divider#除法器
+divisibility#可除性; 可约性
+division#部分; 分开; 区分
+divisor#除数
+document#v. 证明; 证 vt. 用文件(文献等)证明; 记载 n. 文件; 文档; 公文; 档案
+document delivery#文档传递
+document format#文档格式
+document handling#文件处理
+document name#文件名
+document template#文档模板
+document window#文档窗口
+documentation#n. 文献资料; 文件证据; 提供文件
+dollar sign#美元符; 币符
+domain#n. (活动等)领域; 范围; 领地; 势力范围
+dominance#n. 优势; 控制; 统治; 支配地位
+dominant#主要的; 支配的
+DOS prompt#DOS提示符
+dot#v. 打点子; 散布于 n. 点; 圆点
+double#adv. 两倍地 adj. 双的; 双重的; 两倍的 v. 加倍 n. 两部
+double click#双击
+double space#两倍行距
+double strike#双线
+double-click#双击
+doughnut#圆环图
+down#adv. 向下; 在下面; 往南 prep. 沿着…而下
+down arrow#下箭头键
+download#卸载
+downstream#adj.&adv. 下流的; 顺流的; 下游程序的
+DPI#(dots per inch)每英寸点数
+draft#v. 起草 vt. 起草 n. 草稿; 草案; 汇票
+drag#vt. (用力地或慢慢地)拖; 拖; 拉; 拖曳
+drag and drop#拖放
+drag image#拖拽图像
+drain#v. 排水; (使)枯竭 n. 耗尽; 消耗; 下水道; 排水
+DRAM#动态随机访问存储器
+draw#vt. 画; 划; 拖; 拉 vi. 移动
+draw direct#直接绘制
+drawable#可拉的; 可绘制的
+drawing program#绘图程序
+drift#漂移
+drill#v. 钻孔; 操练 n. 钻; 钻头; 操练; 练习
+drive#v. 驾驶; 驱赶; 驱动; 迫使 n. 驾驶; 驱动器
+drive bay#驱动器槽
+driver#驱动程序; 驱动器
+driving#驱动; 驾驶
+drop#落下; 下降
+drop in#顺便走访(某人); 污损
+drop out#掉落
+drop-down list box#下拉列表框
+drop-down menu#下拉菜单
+drum#磁鼓
+drum plotter#鼓式绘图仪
+dryer#n. 干燥器; 干燥机
+DSP#数字信号处理器
+DTP#(desktop publishing)桌面印刷
+dual#二重的; 双的
+dubbing#n. 配音复制; 混录
+due#到期的; 应付的; 应得物
+dumb#哑的; 无声音的
+dummy#哑元; 虚的
+dummy instruction#空指令
+dump#转储
+duodecimal#十二进制的; 十二进位
+dupe#复制; 重写 n. 傻瓜; 易受骗的人
+duplex running#双工运行
+duplicate#adj. 复制的; 两重的 vt. 复写; 复制; 使加倍; 使成双 n. 复制品
+duplicate file#复制文件; 备份文件
+duplicate key#复制键
+duplication#n. 重复; 复制; 副本
+duplicator#复印机
+durability#n. 经久性; 耐用性; 耐久性
+duration#n. 持续时间; 持续; 持久; 期间
+during#prep. 在…期间; 在…时候
+dust guard#防尘罩; 防尘设备
+dynamic#adj. 动力的; 动态的; 有生气的; 有力的 n. 力学; 动力学
+E-mail#n.
+each#adj. 各自的; 每 pron. 每一个; 每个; 各自
+earth plate#接地板
+echo#禁止或允许在屏幕上显示批处理命令行
+edge#边; 边沿
+EDI#电子数据交换
+edit#v. 编辑; 校订
+edit box#编辑框
+edit command#编辑命令
+edit function#编辑功能
+edit key#编辑键
+edit line#编辑行
+edit pattern#编辑图案
+editing#编辑的
+edition#n. 版; 版本; 版次
+editor#编辑器; 编辑
+effect#效率; 作用; 结果
+effective#adj. 有效的; 给人深刻印象的
+efficiency#n. 效率; 功效; 效能
+efficiently#adv. 效率高地; 有效地; 能胜任地
+eigenvalue#特征值
+eject#vt. 驱逐; 逐出; 喷射; 排出
+elaboration#n. 详尽阐述; 努力完善; 精心制作
+elapsed#经过
+elastic buffer#弹性缓冲区
+electron#n. 电子
+electron beam#电子束
+electronic#adj. 电子的 n. [-s]电子学; 电子设备
+electronic bulletin board#电子公告板
+electronic data interchange#电子数据交换
+electronic dictionary#电子词典
+electronic mail#电子邮件; 电子传递
+electronic mailbox#电子信箱
+electronic publishing#电子出版
+electronic pulse#电子脉冲
+electronic shopping#电子购物
+electronic smog#电子污染
+electronic stylus#电子笔
+electronics#n. 电子学(单数)
+element#n. 元素; 成份; 成分; 要素
+elementary#初等的
+elevation#仰角
+elevator#n. 电梯; 升降机
+eliminate#消去; 消除
+ellipse#n. 椭圆(形)
+ellipsis#n. 省略符号; 省略(法)
+em dash#破折号
+embed#v. 嵌(埋、插)入; 含有…; 注(植)入… vt. 使…嵌入(插入); 埋置
+embedded#adj. 扎牢的; 嵌入的
+embossment#凸起
+emergency button#应急按钮; 紧急键
+emphasis#n. 强调; 加重
+emphasize#v. 强调; 着重; 增强
+empty#adj. 空的; 空洞的; 空虚的 vt. 倒空 n. 空箱
+empty page#空页面
+empty record#空记录
+emulate#n. 仿真
+emulation#n. 竞争; 效法; 仿真
+emulator#仿真器
+emulsion#感光乳剂; 乳状液
+en dash#连字号
+enabled#可激活的
+encapsulate#v. 封装; 装入胶囊; 压缩
+encapsulation#n. 封装; 包装
+encipher#加密器; 译成密码
+enclose#装入; 围绕; 放入封套
+enclosure#n. 四周有篱笆等的场地; 围场; (信的)附件; 围住
+encode#v. 译成电码 vt. 编码
+encoder#编码器
+encounter#vt. 遭到; 意外地遇见; 遭遇; 遇到 n. 遭遇
+encrypt#加密
+encryption#加密术
+end#vt. 结束 n. 结束; 终点; 末端; 目标
+end mark#结束标志; 结束符
+end of file#EOF文件结束符
+end of file#EOF文件结束符
+end of line#行结束
+end user#最终用户
+end-of-file marker#文件尾标记
+endless loop#死循环
+endnote#尾注
+endpoint#端点
+engine#驱动机; 发动机
+engineering#n. 工程学; 工程(学); 工程师行业
+enhanced keyboard#增强键盘
+enlarge font#放大字体
+enlargement#n. 扩大; 放大(的照片)
+enquiry#n. 询问; 查问; 打听
+enroll#报名; 参加; 登记
+ensure#vt. 保证; 担保; 使安全; 保证得到
+enter#输入; 回车
+Enter key#输入键
+enterprise#企业; 计划
+entire#总体; 全部的; 整的
+entire file#整个文件
+entire workbook#整个工作薄
+entirely#adv. 全部的; 完全的; 完全地; 彻底地
+entity#实体; 组织; 机构
+entrance#n. 进入; 入口; 门口; 入场
+entropy#熵
+entry#条目; 登录; 项目
+entry bar#登录栏
+enumerate#v. 列举; 计算; 枚举; 数 vt. 列举; 数; 点
+enumerator#计数器; 枚举符
+envelope#n. 信封; 封皮; 包装
+environ#v. 包围; 环绕 vt. 围绕; 包围
+environment#n. 环境; 周围状况; 自然环境; 四周
+environmental#周围的; 环境的
+epilogue#n. 结尾; 收场白; 尾声
+epoch#新纪元; 时代; 时期
+EPROM#可擦可编程只读存储器
+equal#adj. 相等的; 平等的 vt. 等于 n. 地位相等的人
+equal sign#等号
+equalization#均衡; 均等
+equalizer#均衡器
+equally#相等地; 相同地
+equation#方程式; 等式; 相等
+equipment#n. 装备; 设备; 器材; 装置
+equipment failure#设备故障
+equivalence#等价; 同等; 等值
+equivalent#等价的; 相当的
+equivocation#模糊话; 条件信息量总平均值
+eradicate#消除; 根除
+erase#擦除; 消除
+erase character#擦除符
+erase head#清洗磁头
+eraser#擦除器
+eraser tool#擦除工具
+ergonomics#人类工程学; 人机工程学
+erratum#勘误表
+error#错误; 误差
+error box#错误框
+error condition#错误状态
+error message#出错信息
+error recovery#出错恢复
+escalation#扩大; 增加; 逐步上升
+escape#跳出; 换码
+esoteric#adj. 秘传的; 机密的; 深奥的
+especially#特别(是); 尤其
+essential#adj. 本质的; 主要的; 必需的; 必要的
+essentially#adv. 必要地; 实质地; 实质上; 本来
+establish#v. 建立; 设立; 安置; 使定居
+establishment#n. 建立; 创办; 机构; 设立
+estimator#估计量
+Ethernet#以太网
+evaluate#v. 估计; 计算
+evaluation#n. 评价; 求值
+even#偶数
+even-odd check#奇偶校验
+event#n. 事件; 事变; 大事; 比赛项目
+event handler#事件处理程序
+event ID#事件识别符
+event-driven#事件驱动
+every#adj. 每个的; 每一的
+evolution#进展; 进化; 演变
+example#n. 例子; 榜样
+exceed#vt. 超过; 胜过; 超出
+except#除…之外; 除非
+exception#异常; 例外; 事故
+exceptional emergency#非常紧急情况
+excerpt#vt. 摘; 引用 n. 摘录; 节录; 选录
+exchange#vt. 互换; 交换; 交易(货物) n. 交换; 交流
+exchange algorithm#交换算法
+exclamation#惊叹(号)
+exclude#v. 阻止…进入; 把…排除在外 vt. 把…排除在外; 排斥(可能性); 赶出
+exclusive#adj. 排外的; 独占的; (店铺、旅馆)高级的; 独家享有的
+executable#可执行的
+executable file#可执行文件
+executable form#可执行格式
+execute#v. 执行; 完成
+execution#n. 执行; 完成
+executive#adj. 执行的; 执行者 n. 总经理; 董事; 行政官
+exerciser#试验程序
+exhaust#取尽; 用完
+exist#vi. 存在; 生存; 生活
+existing#adj. 现存的; 目前的; 现有的
+exit#vi. 退出; 离开 n. 出口; 太平门; 退场; 退出
+exit find#退出查找
+exit point#退出点
+expand#扩充
+expander#扩充器
+expanding#扩展的; 扩充的
+expansion#展开; 扩展
+expansion box#扩展盒
+expansion bus#扩展总线
+expansion card#扩展卡
+expansion slot#扩展槽
+expect#期望; 期待; 盼望
+expended memory#扩充内存
+expenditure#n. 花费; 用光; 支出额; 费用
+expenses#n. 开支; 花费; 费用
+experience#vt. 经历; 体验 n. 经验; 经历
+experiment#实验; 试验(研究)
+experimentation#实验工作; 法
+expert system#专家系统
+expertise#n. 专门知识(技能等); 专家鉴定; 评价; 专门知识
+expiration date#截止日期
+expire#v. 期满; (期限)终止; 呼气; 断气
+explain#v. 解释; 说明; 可作解释的事物
+explanation#n. 解释; 说明; 辩解
+explanatory#解释(性)的; 说明的
+expletive#n. 感叹词; 咒骂语; 虚词
+explicit#adj. 明确的; 直爽的; 详述的; 坦率的
+explicit identification#显式标识
+explicit reference#显式引用
+explore#探测; 探查
+explosion#展开
+exponent#n. 倡导者; 拥护者; 代表人物; 指数
+exponential#指数的
+exponentiation#求幂; 取幂
+export#调出; 输出
+exporter#n. 出口商; 出口服务器; 输出者
+expose#v. (to)使暴露; 受到; 使曝光 vt. 使接触; 暴露
+exposure#曝光度
+express#快速的; 明确的; 表达; 表示
+expression#表达式
+expression error#表达式错
+expunge#v. 删除; 除去 vt. 擦除; 删掉
+extend#vt. 延长; 扩大; 给予 vi. 延伸; 伸展; 延续; 扩展
+extensible#可扩充的
+extension#扩充; 扩展名; 外延的
+extent#n. 广度; 宽度; 长度; 范围
+external#adj. 外部的; 表面的; 外面的; 外表的
+external command#外部命令
+external declaration#外部说明
+external memory#外部存储器
+external variable#外部变量
+extra#附加(的)
+extract#抽取; 摘录
+extremely#adv. 极度地; 极端地; 非常地
+eyeballing#目测
+face#vt. 面向; 面临; 面对 n. 脸; 面孔
+facility#设施; 装备; 熟练
+facsimile#传真 n. 复制本; 摹本
+factor#因子; 因数; 因素; 代理人
+factorial#阶乘; 阶乘的
+factoring#代理经营; 代理容通; 因式分解
+fade#淡入; 淡出; 褪色
+fade in#淡入
+fade out#淡出; (画面或声响)逐渐消失
+fail#v. 失败; 故障
+failure#n. 失败; 失败的人(或事)
+failure analysis#故障分析
+failure diagnosis#故障诊断
+failure testing#故障检测
+fall#v. 落下; 跌倒; 陷落 n. (美)秋天; 秋季; 瀑布; 变为
+fallback#撤退
+fallout ratio#错检率
+false#假的(布尔值); 错误的
+false signal#错误信号; 假信号
+familiar#熟悉的; 惯用的
+familiarize#vt. 使熟悉; 使通俗化
+family#系列
+fan-in#扇入
+fan-out#扇出
+far pointer#远指针
+fast#快速的
+fast algorithm#快速算法
+fast select#快速选择
+fastback#快速返回
+fasten#固定; 强加于
+fat#(file allocation table)文件分配表
+fatal#adj. 致命的; 毁灭性的
+fatal error#不可恢复错误; 致命错误
+fatal error message#严重错误信息
+father#父; 上层(树节点的)
+father node#父节点
+fault#n. 缺点; 毛病; 过失; 过错
+fault diagnosis#故障诊断
+fault signal#故障信号
+fault testing#故障测试
+fault-tolerance#容错
+feature#特性
+feed#馈送; 供给
+feedback#n. 回授; 反馈; 反应
+feeder#n. 饲养员; 食客; 输电线; 支流
+feminine#adj. 女性的; 似女性的; ［语法］阴性的; 娇柔的
+ferrite#铁酸盐; 铁氧体
+ferromagnetic#铁磁体
+fetch#vt. 去取; 去拿; (去)拿来; 请来
+fetch protection#读取保护
+fiber#n. 纤维; 纤维质
+fiber-optic cable#光纤电缆
+fiche#卡片; 缩微胶片
+field#字段; 域
+field name#域名; 字段名
+field type#字段类型
+figure#图形; 数字
+file#vt. 把…归档 vi. 排成纵队行进 n. 文件夹; 档案
+filename#文件名
+filing#n. 档案管理; 文件归档
+fill#vt. 填写; 装满; 填充
+filler#填充符
+film#v. 把…拍成电影 n. 电影; 胶卷; 薄层; 薄膜
+film recorder#缩微胶卷记录器
+filter#筛选程序; 过滤器
+final#最后的; 决定性的; 结局
+finalization#结束
+finally#终于; 最后
+financial management#财务管理
+find#查找
+find formatting#查找格式
+find what#查找目标
+fine#adj. 好的; 细微的; 细致的; 精制的 n. 罚款
+finish condition#终结条件
+finite#adj. 有限的; (动词)限定式的
+firmware#固件
+first#adj. 最初的; 最早的 adv. 首先 num. 第一; 一
+first fit#首先满足
+first line#首行
+fix#修订
+fixed#adj. 固定的; 已确定的 adj; (表情等)不变的
+fixed disk#硬盘
+fixing#固定; 设备; 修理; 定影
+flag#标记; 特征
+flag bit#标记位
+flagging#adj. 萎靡的; 疲惫的; 标记
+flash#n. 闪光; 转瞬间; 浮华; 一刹那
+flash memory#闪存
+flashing#n.&adj. 闪光的; 闪烁的; 闪亮
+flat#平面的
+flat screen#平面屏幕
+flatbed#平板式
+flatbed plotter#平板式绘图仪
+flatted scanner#平台式扫描仪
+flexibility#灵活性; 适应性
+flexible#软的
+flexible disk#软磁盘
+flicker-free#无闪烁的
+flip horizontal#水平翻转
+flip-flop#触发器
+floating#adj. 水上的; 浮动
+flooding#n. 泛滥; 满屏幕; 溢流
+floor#基底
+floppy#adj. 松软的; 软盘
+flow#流; 流程
+flowchart#流程图
+fluctuation#n. 波动; 起伏; 变动
+fluidics#应用流体学; 射流技术
+flush#v. (使)(鸟)惊飞 vi. (脸)发红; 清仓; 刷新; 对齐
+flutter#抖动; 放音失真
+flyback#回扫
+focus#对焦; 焦点
+focus window#焦点窗口
+fold#v. 折叠; 折起来; 合拢 n. 褶; 褶痕; 山谷; 羊栏
+folder#n. 文件夹; 折叠式印刷品
+folding#可折叠的
+folio#对开本; 页码; 张数; 编页码
+follower#n. 追随者; 信徒; 跟随器; 阅读器
+following#下列的; 其次的; 下列各项
+font#字体
+font disk#字体盘
+foot#n. 英尺(复数feet); 脚
+footer#页脚; 脚注
+footnote#n. 补充; 脚注; 附注
+for#循环
+for clause#循环子句
+for data#循环数据
+for-loop#循环
+for-loop structure#循环结构
+forbidden#禁用的; 非法的
+forbidden character#禁用字符; 非法字符
+force#力; 强制
+forced#adj. 强制的 强迫的
+forecast#vt. 预言; 预示 vt.&n. 预测; 预报(天气)
+foreground#n. 图画; 景物等的前景; 最突出的地位; 前景
+forget#忽略
+fork#专用文件夹
+form#表格; 格式; 形式
+format#v. 使格式化 n. 格式; 样式; 程序
+formation#构造; 结构; 形成
+formatted#有格式的
+formatting#格式化
+formed#成形的
+formula#公式; 规则
+formulate#vt. 使公式化; 系统地阐述; 用公式表示; 明确表达
+fortuitous#adj. 偶然的; 意外的; 幸运的
+forward#向前地; 早的
+forward direction#正向
+foundation#n. 基金(会); 基础; 基金
+fourscore#八十; 八十的
+fps#frames per second 帧数
+fractal#分形
+fraction#分数; 小数
+fragment#碎片; 断片; 片段
+fragmentation#分裂; 破碎; 存储残片
+fragmenting#分割
+frame#帧; 框
+framework#n. 框架; 构架; 结构; 机构
+framing#成帧; 组帧
+franking#打印标记
+free#释放; 自由
+freeware#免费软件
+freeze#冻结
+freight#n. 货运; 货物; 运费
+frequency#n. 频繁; 频率
+frequently#常常; 频繁地
+fresh copy#最新副本
+from#prep. 从; 从…起; 由
+front#v. 对抗 n. 前方; 前线; 前面; 正面
+front edge#前沿
+frustum#截头锥体
+full#adj. 满的; 完全的 adv. 正好 n. 全部; 充分
+fully#十分; 完全地; 至少
+function#v. 运行; 起作用 vi. 活动; 运转 n. 功能; 职务; 函数
+functional#函数的; 功能的
+fuse#保险丝; 熔丝
+fusing#熔化; 点火; 发射; 起动
+fuzzy logic#模糊逻辑
+fuzzy theory#模糊论
+G#giga 千兆
+gain#增益
+galleries#图表种类
+gallery#图库
+gallium arsenide#砷化镓
+game#n. 游戏; 运动; 比赛
+gap#间隔; 间距
+garbage#无用信息; 垃圾
+gate#n. 大门; 城门; 出入口
+gateway#n. 入口; 途径; 网关; 通路
+gather#集中
+general#一般的; 通用的
+generate#产生; 生成
+generator#n. 发电机; 发生器; 创始者
+generic#adj. 属的; 类的; 类属的; 一般的
+get colors#选取颜色
+ghost#叠影
+GIF#图形接口格式
+giga#千兆
+gigabyte#n. 千兆个字节; 千兆字节
+gigacycle#千兆周
+glance#闪烁
+glare#炫光
+glare filter#炫光过滤器
+glitch#故障; 失灵 n. 干扰; 误操作; 小故障
+global#全局的; 共用的
+glossary#术语表
+glyph#字型; 字的轮廓; 图象字符
+go#vi. 去; 走; 离去; 变为
+goal#n. (足球)球门; 目标; 目的; 球门
+goto#转到
+grab#v. 抓取…; 夺取; 抢夺; 攫取
+grabber#抓帧器
+gradation#n. 分级; 分等级; 灰度; 浓淡度
+grammar#语法; 文法
+grant#v. 授予; 同意; 准予 vt. 假定…(姑且)承认 n. 拨款; 助学金
+grantee#接受者
+grantor#授予者
+graph#vt. 以(曲线)图表示 n. 图表; 曲线图
+graphic#图形的
+graphic cursor#图形光标
+graphically#用图表表示
+graphics#n. 制图法; 制图学; 图形显示
+graphics#n. 制图法; 制图学; 图形显示
+grave#雕刻; 颜色暗淡的
+gravity#重心
+gray scale#灰度
+Greek#希腊字母
+Green Book#绿皮书
+grey scale#灰度
+grid#n. 输电网; 栅极; 网格
+grid#n. 输电网; 栅极; 网格
+gridlines#网格线
+groove#n. 槽; 纹(道); 沟; 凹线
+ground#地; 接地
+grounding#接地; 染色的底色
+group#vt.&vi. 聚集; 类集 n. 群; 组; 团体
+growth#增长; 等比级数
+guess#vt. 猜测; 推测
+GUI#图形用户界面
+guide#v. 指导; 任向导 n. 导游; 向导; 指南; 手册
+guide line#准则
+guideline#指南; 方针
+hacker#n. 利用电脑系统窃取资料或存款者; 黑客; 电脑狂; 电脑黑客
+hairline rule#细线
+half#adv. 一半地 adj. 半个的; 一半的 n. 一半
+half-word#半字
+halftone#半音; 中间色调; 网板; 半色调
+halt#vi. (使)停住; (使)停止 n. 停住; 停止; 停机; 中断
+halt command#停机命令
+halt mode#停机状态
+hand#n. 手
+handbook#n. 手册; 便览; 指南
+handle#句柄; 控点
+handler#处理程序; 处理器
+handling#n. 处理; 管理; 操作的
+handset#电话听筒; 手机; 手持机
+handshaking#握手
+handwriting recognition#手写识别
+handy#方便的; 手边的; 容易取得的
+hang#中止; 暂停; 挂起; 悬挂
+hangup#挂断
+hard#adv. 努力地; 勤劳地; 猛烈地; 重重地 adj. 坚硬的; 困难的; 难忍的; 严厉的
+hard copy#硬拷贝
+hard disk#硬盘
+hard disk partition#硬盘分区
+hard drive#硬盘驱动器
+hard reset#硬重置
+harmonic#谐波; 谐函数 n. 泛音; 和音
+hash code#散列码; 无用信息
+hashing#散列法
+hashing function#散列函数
+HDTV#(high-definition TV)高清晰度电视
+head#磁头; 标题
+head alignment#磁头对准
+header#页眉; 标题; 报头; 电子邮件头
+headers#消息头
+heading#n. 标题; 题词; 题名; 题目
+headphone#双耳式耳机
+heap#堆阵; 堆
+helical scan#螺旋扫描
+help#v. 帮助
+help index#帮助索引
+help information#帮助信息
+help key#帮助键
+help options#帮助选项
+help screen#帮助屏幕
+helper#帮助程序
+Hertz#赫兹
+heterogeneous#adj. 混杂的; 庞杂的; 异类的
+heuristic#试探的; 启发式的
+hex#十六进制
+hidden#隐藏的
+hide#v. 隐藏; 遮掩 vt. 躲; 藏 n. 兽皮 [反]reveal
+hierarchical#分层的; 体系的
+hierarchy#层次结构; 层次
+high#adv. 高高地 adj. 高的; 高度的; 高级的; 高尚的
+high capacity#大容量
+high-end#高端
+high-speed transmission#高速传输
+highlight#突出; 加亮; 要点
+highlighting#加亮; 突出显示
+hiragana#平假名
+histogram#n. 图表; 直方图; 柱状图
+history#历史; 历史纪录
+hit#命中; 击打
+hits#采样数; 瞬态干扰
+hold#保持; 保留; 控制
+hole#孔; 突破口
+holiday#n. 假日; 节日; 假期
+hologram#全息照相; 全息图
+home#本地的
+homogeneous#adj. 相似的; 均匀的; 同类的; 有相同特征的
+homologate#认可; 确认
+hook#挂钩; 上瘾; 沉迷
+horizontal#水平的; 横向的
+horizontally#adv. 水平地; 地平地
+host#主机; 主
+hot key#热键
+hot link#热点连接
+hotspot#热点; 热区
+hourglass#n. 滴漏; 更漏(一种旧式计时器); 沙漏标
+house#家务; 内务
+housekeeping#n. 家政; 内务处理
+housing#外壳; 机架
+how#方式(或方法); 怎样; 多少
+HP#惠普
+HTML#超文本置标语言
+hub#网络集线器; 网络中心
+hue#色度; 色调; 样子
+Huffman encoding#哈夫曼编码
+human#adj. 人的; 人类的 n. 人
+humidity#n.moisture.&esp. of the air 湿气; 湿度
+hunting#寻找; 搜索
+hybrid#n. 动; 植杂种; 混合物; 杂种
+hybrid software#混合软件
+hyperbola#双曲线
+hyperlink#超链接
+hypermedia#超媒体
+hypertext#超文本
+hyphen#连字符; 以连字号连接
+hyphenation#用连字符号连接; 断字; 字符连接
+I-beam#I型光标
+I-shape cursor#I型光标
+I/O#(input/output)输入/输出
+IBM#(美国)国际商用机器公司
+IC#(integrated circuit)集成电路
+icon#n. 偶像; 崇拜的对象; 画像; 图标
+ID code#标识码; 识别码
+idempotent#幂等; 幂等的
+identical#adj. 同一的; 完全相同的; 一模一样的
+identically#adv. 相等; 恒等 相等地
+identification#标识
+identification code#识别代号; 标识码
+identifier#(ID)标识符
+identifier attribute#标识符属性
+identify#识别; 确定
+idle#空闲的; 使空闲
+idle character#空字符; 无效字符
+if#conj. 如果; 假如; 是否; 即使
+if-expression#如果表达式
+ignore#vt. 不顾; 不顾; 不理; 忽视
+illegal#adj. 不合法的; 非法的; 犯法的
+image#图像; 映像
+imaginary#虚的
+imaging#成像
+imaging system#成像系统
+imbedded#嵌入的
+immediate#adj. 直接的; 立即的 n. 即刻的
+impact#n. 影响; 作用; 冲击
+impact paper#复写纸; 压敏纸
+impact printer#击打式打印机
+impedance#阻抗
+imperative#adj. 必要的; 紧迫的; 紧急的; 强制的 n. 命令; 规则
+impingement#冲击
+implement#v. 实现; 执行
+implementation#n. 实施; 贯彻; 实现
+implements#n. 工具
+implication#n. 含意; 暗示; 含义; 暗示
+implicit#暗示的; 隐的
+implicit declaration#隐式说明
+implied#adj. 暗含的; 暗示的; 暗指的
+implosion#n. 向内破裂; 内爆
+import#调入; 输入
+importer#进口商; 输入者
+improper#非法的
+improve#v. 改进; 改善; 变得更好; 好转
+impulse#n. 推动(力); 冲动; 刺激; 脉冲
+inaccessible#不可存取的
+inaccuracy#不准确度; 错误
+inactive#adj. 不活动的; 不活跃的; 非活动的
+inactive file#待用文件
+inactive window#非活动窗口
+inbound#adj. 归途的; 返家的 入站
+inbox#收件箱
+include#v. 包括; 包含; 计入
+include file#包含文件
+include subdirectories#包含子目录
+inclusive#包括的; 内含的
+incoherence#非相关性
+incoming#adj. 进来的; 进入的; 输入的
+incompatibility#不兼容性
+incompatible#adj. 不相容的; 不协调的; 不相配的; 不兼容的
+incorporate#合并(的)
+incorrect#adj. 不正确的; 错误的
+increase#v. 增加; 增大
+increase font size#放大字体
+increase speed#加速
+increasing#adj. 不断增长的; 递增的; 越来越多的
+increment#n. 增量; 递增; 增值; 增加
+indefinite#不定的
+indefinitely#无限地; 不确定的
+indent#v. 缩排; 缩进
+indentation#n. 缩排; 缩进; 锯齿状; 缺口
+indention#缩排; 定货
+independent#adj. 独立的; 有主见的; 自主的 n. 独立派人士; 无党派者
+independently#adv. 独立地; 自力地
+index#索引; 变址; 下标
+indicate#显示; 简要地说明; 指出
+indicator#n. 指示灯; 指示符; 指示器
+indirect#adj. 间接的; 迂回的; 曲折的
+indirection#间接
+indirectly#adj. 间接地; 不直接了当地 adv. 间接地
+individual#adj. 个别的; 单独的; 独特的 n. 个人; 个体
+individually#adv. 个别地; 单独地
+induction#n. 归纳(法); 感应; 感应现象
+industrial#adj. 工业的; 产业的; 实业的
+industry#工业; 产业; 行业
+inexperienced#adj. 缺乏经验的; 不熟练的; 外行的
+infected#被感染的
+inference#n. 推论; 推理; 推断; 推测
+inferiors#下级的; 差的
+infinite#无限的; 极大的
+infinity#n. 大量; 大宗; 无穷大
+infix#插入
+info#信息; 情报
+info window#信息窗口
+inform#vt. 通知; 告诉; 向…报告 vi. 检举; 告发
+information#n. 通知; 报告; 消息; 情报
+inherit#vt. 继承(传统等)
+inheritance#n. 继承物; 遗产; 继承; 遗传
+inhibit#vt. 抑制; 约束; 禁止; 阻止
+inhibited#禁止的
+inhibition#n. 抑制; 阻止; 禁止; ［心］感情阻力
+initial#初始的; 词首的
+initialization#n. 初始化; 赋初值
+initialize#v. 初始化
+initially#adv. 最初; 开始; 开头
+initiate#启动; 开始
+initiator#n. 开始者; 发起者; 启动程序
+injection#n. 注射; 注入; 注射液
+ink#n. 墨水; 油墨
+ink effect#油墨效果
+ink-jet printer#喷墨打印机
+inline#adj. 一列式的; 排成行的; 在线的; 联机的
+input#n. 输入(物、数据); 投入
+inquiry#查询
+Ins#insert 插入键
+inscriber#记录器
+insert#vt. 插入; 嵌入 n. 插页
+insertion point#插入点
+inside#adj. 内部的 adv. 在内部; 在里面 prep. 在…内; 在…里面 n. 内部
+inspection#n. 检查; 视察; 望诊
+install#v. 安装; 安置; 使就职; 使就位
+installation#n. 安装; 设置; 装置; 设备
+instance#n. 例子; 实例; 事例
+instant#立刻的; 直接的
+instant jump#即时跳转
+instantiate#实例化; 例示
+instead#代替; 当作
+instruct#vt. 教导; 训导; 指示; 通知
+instruction#n. 指令
+instruction book#说明书
+instrument#工具; 器具
+instrumentation#仪表化; 使用仪器
+insufficient#adj. 不够; 不充分; 不足的; 不够的
+insulation#n. 隔热、隔音、绝缘材料; 隔离; 绝缘
+insure#v. 给…保险; 为…提供保证 vt. 给…保险; 保证; 确保
+integer#整数
+integrate#集成
+integrated#adj. 成整体的; 完全的; 完整的; 综合的
+integrator#积分器
+integrity#n. 诚实; 正直; 完整; 完整性
+intellect#n. 智力; 才智; 有才智的人
+intelligence#智能
+intelligent#adj. 聪颖的; 有才智的; 聪明的; 明智的
+intend#vt. 想要; 打算; 计划; 意指
+intense#adj. 强烈的; 剧烈的; 热心的
+intensity#亮度
+interaction#交互作用
+interactive#adj. 交互式的; 1; 相互作用; 互相影响 2
+interactive TV#交互式电视
+interactive video#交互式视频
+intercept#v. 中途拦截; 截取; 截击 vt. 拦截; 截住; 截击
+intercepting#截取
+interchange#v. 交换; 互换 v.&n. 交换; 轮流进行; 交替; 立体交叉道路 n. 交换; 互换; 立体交叉道
+interest#兴趣; 注意; 影响
+interface#n. 界面; 接口; 分界面
+interfere#干涉; 干扰; 冲突
+interference#干扰; 冲突
+interior#adj. 在内的; 内部的; 内地的; 国内的 n. 内部
+interlace#交错; 隔行扫描
+interleave#交错; 隔行扫描; 插入纸
+interleave factor#交错因子
+interlink#相互链接
+interlock#v. 连锁; 结合; 互锁
+intermediate#adj. 中间的; 中等的; 中级的 n. 中间体; 媒介物
+intermittent#adj. 间歇的; 断断续续的
+intern#n. 实习生; 保留区
+internal#adj. 内部的; 体内的; 国内的; 内政的
+international#adj. 国际的; 世界的
+internationalization#国际化
+Internet#国际互连网; 因特网
+internet protocol#互联网协议
+interoperability#vi.&n. 配合动作性 互操作性; 互用性
+interoperable#彼此协作的
+interpret#vt. 解释; 说明; 口译; 翻译
+interpreter#解释程序; 注释器
+interrelated#adj. 相互关联的 相关的
+interrupt#vt. 打断; 打扰; 中止; 中断
+intersection#逻辑乘; 交集
+interval#n. 间隔; 幕间休息; 间歇; 间距
+intervene#插入; 干涉
+intervention#n. 插入; 介入; 干涉; 干预
+Intranet#企业网; 专用网
+intro#简介
+introduce#引进; 进出
+introduction#介绍; 入门
+invalid#adj. (法律上)无效的; 站不住脚的 n. 残疾者; 病人; 病弱者
+invariant#不变量; 不变的
+invent#创造; 想象; 发明
+inventory#n. 详细目录; 存货清单; 存货盘存
+inverse#adj. 相反的; 倒转的; 逆矩阵; 反转的
+inverse video#反视频
+invert#翻转
+investigate#v. 调查; 审查; 调查研究
+invisible#隐藏的
+invoice#发票; 货物; 记清单
+invoke#v. 恳求; 祈求 vt. 调用; 请求
+involve#涉及; 卷入; 占用
+involved#adj. 涉及的; 复杂的; 有关的
+IP#(internet protocol)互联网协议
+iris#可变光阑
+ISA#工业标准结构
+ISDN#综合业务数字网
+isolation#n. 隔离; 孤立; 分解; 分离
+isometric view#等距视图
+issue#发出; 发行; 出版
+italic#adj. 斜体的
+item#n. 项目; 节目; 条; 条款
+iterate#迭代; 重述
+iteration#迭代(法); 循环; 重复
+iterative#迭代的; 重复的
+jack#插座; 插头
+jaggies#锯齿; 锯齿状图形
+jam#v. 堵塞; 使卡住; 挤满 n. 拥挤; 堵塞; 果酱
+jitter#v. 神经过敏; 战战兢兢 抖动
+joggle#v.&n. 轻轻颠摇; 轻摇
+join#联结; 或门
+journal#定期刊物; 分类帐
+journaling#日志; 日记
+joystick#控制杆; 游戏杆
+jukebox#自动电唱机
+jump#转移; 跳转
+jump operation#转移操作
+jumper#跳线
+junction#n. 连接; 结合; 结合点; 交叉点
+justification#调整; 对齐
+justify#对齐; 顶满
+kanji#日本汉字
+katakana#片假名
+KB#(KiloByte)1024字节
+keep#v. 保持; 留住
+kern#紧排
+kernel#内核; 要点
+kerning#字距调整; 字母紧排
+key#键; 关键字
+key combination#组合键
+key frame#关键帧
+key in#v. [计]键入
+key name#键名
+keyed#键入; 键控的
+keypad#小键盘
+keypunch#键控穿孔机
+keystroke#n. (在打字机或计算机键盘上的)一次按击; 键击
+keyword#关键字
+keyword index#关键字索引
+kill#杀死; 用完; 使失效
+killer#断路器; 删除程序
+kilo#n. 公斤; 千克
+kilobyte#千字节
+kilogram#n. 千克; 公斤(略作kg)
+kilometer#km.  n. 千米; 公里[英]kilometre 略作
+kilowatt#n. 千瓦(特)
+kiosk#n. 凉亭; 音乐台; 公用亭
+kit#工具箱
+kludge#杂牌电脑; 组装计算机
+knob#n. 球形把手; 球形柄; 旋钮; 小块
+label#标签; 加上或修改磁盘的标签
+label field#标签字段
+label record#标签记录
+labeled#adj. 有标号的 有标签的
+labor#人工; 工作; 详细分析
+laboratory#n. 实验室; 研究室
+lag#vi. 落后; 滞留 n. 滞后; (事件等的)间隔; 延迟
+LAN server#局域网服务器
+landscape#横向
+language#语言; 代码
+laptop computer#膝上型计算机
+large button#放大按钮
+large model#大模式
+laser#n. 激光; 激光器
+laser diode#激光二极管
+laser disc#光盘
+laser printer#激光打印机
+latch#闭锁
+latency#等待时间 n. 潜伏期
+launch#启动
+layer#n. 层; 层次; 铺设者
+layout#页面布局; 版面
+leaders#前导字符; 引线
+leading#领导的; 行距
+leaf#叶; 页
+learning curve#学习曲线
+leased#租用的
+leave#脱离
+leaves#pl. 叶子的复数
+LED#lead. 的过去式(分词); (light emitting diode)发光二极管
+left#向左; 左边(的)
+left indent#左端缩进
+left justify#左对齐
+left section#左部
+legal#adj. 法律的; 合法的; 正当的
+legend#图注; 图例; 联想集团
+lending#n. 贷款; 借款; 出借(物); 出租(物)
+letter#字母; 文字; 信
+letter row#字母行
+level#adj. 平的; 水准; 等级; 标准 v. 弄平; 铺平 n. 水平线; 水平; 含量
+lever#n. 杠杆; 控制杆
+lexical#adj. 字的; 词汇的 词汇的; 词法的
+lexicon#n. 专门字典; 辞典; 词汇表
+LF#(line feed)换行
+liabilities#负债; 债务
+librarian#库管理器
+library#n. 图书馆; 藏书; 文库
+licensed#被许可的; 特许的
+life cycle#生命周期; 生存期; 寿命周期
+ligature#连字; 连接线 n. 绑缚之物(尤指系住血管以免失血的线)
+light#adj. 光; 光线; 点燃; 轻的
+limit#限制; 限定; 界限
+limitation#n. 限制; 限度; 局限; 局限性
+limited#有限的; (受)限制的
+limiter#限幅器
+line#v. 排队 n. 直线; 排列; 生产线; n航线
+line feed#换行; 走行
+line space#行间距
+line spacing#行距
+linearity#线性; 直线性
+linefeed#换行
+link#链接
+linker#n. 连接、衔接(词语); 链接器
+list#列表; 目录
+list box#列表框
+listen#收听; 听
+listening#n. 听(录音); 收听; 收听的; 注意的
+listing#n. [计] 清单; 列表; 上市
+literal#文字的
+live#adj. 活的; 现场直播的 v. 居住; 生活; 活着
+live operation#有效操作
+live time#使用期限
+load#装入; 负载
+loaded#adj. 不公正的; 偏袒的; 别有用心的 已载入的
+loader#输入程序; 装入程序; 装入器
+loading#装入; 装载
+local#本地的; 局部的
+locale#场所 n. 事件发生的现场、地点
+localization#n. 定位; 局限; 地方化; 本地化
+locally#adv. 地方性地; 局部地; 本地性
+locate#找出; 定位
+locator#定位器
+lock#vt. 锁上; 锁住 n. 锁
+lock a file#锁定文件
+locking#锁定; 捕捉
+lockout#闭锁; 切断; 同步损失; 封锁
+lockup#锁定; 闭
+log#登录; 联机
+log in#请求联机; 注册; 进入计算机系统
+log off#注销
+logarithm#对数
+logged#adj. 记录的; 浸透的 存入数据
+logger#记录器; 注册器
+logging#记录; 请求联机
+logic#n. 逻辑(学); 推理(法); 逻辑性; 条理性
+logical#adj. 逻辑上的; 符合逻辑的; 逻辑(上)的; 合乎常理的
+Login#登录; 注册
+logo#徽标; 标志; 商标
+logoff#下网; 注销
+logon#注册; 登录上网
+logout#退出; 注销
+long#adj. 长的; 长久; 长时间的; 长距离的 vi. 渴望; 极想
+look#vi. 看; 瞧; 打量; 看起来 n. 看一眼; (一)瞥; 看起来似乎; 脸色
+look in#搜索
+look up#(在词典中)查寻; 查找; 查阅; 寻找
+lossless compression#无损压缩
+lossy compression#有损压缩
+lost#adj. 迷途的; 丢失的; 遗失的
+loudspeaker#n. 扬声器; 喇叭; 扩音器
+low#adj. 低的; 矮的; 轻的(声音); 浅的
+low end#低端; 低档
+low memory#低端内存
+low-level language#低级语言
+lower case#小写字母盘
+lowercase#小写体; 小写字母 n. 下档; 小写体
+lumen#流明(光通量单位) n. 流明; 内腔
+luminance#亮度
+lump#集中
+lumped network#集总网络
+lux#勒克司(照明单位)
+lvalue#左值
+M#兆
+Mach#n. (物)马克值; 一种UNIX操作系统
+machine#机器; 结构; 设计
+machine language#机器语言
+macro#宏; 巨
+magazine#n. 杂志; 期刊; 仓库
+magnetic card#磁卡
+magnetic disk#磁盘
+magnetic drum#磁鼓
+magnetic track#磁道
+magnification#放大比例 n. 放大; 倍率
+magnitude#大小; 量级; 巨大
+mail#vt. 邮寄 n. 邮件; 邮递
+mail box#信箱; 信箱区; 邮箱
+mailbox#n. 邮筒; 邮箱; 电子邮箱
+mailer#邮件程序
+mailing address#邮寄地址
+mailing label#邮件标签
+main#主; 主群组
+mainframe#主机; 中央处理机; 大型机
+mainline#主线
+maintain#v. 保持; 维持; 赡养; 维修 vt. 维持; 建立 n. (正式)认为; 主张
+maintainability#可维护性
+maintainable#可维护的
+maintenance#n. 维持; 保持; 维修; 坚持
+major#adj. 较大的; 主要的 vi. 主修 n. 主修课; 少校
+majority#n. 大多数
+make#制造; 形成
+male connector#公插头
+malfunction#v. 发生故障; 不起作用 vi. 发生功能故障; 发生故障; 显示机能失常
+manage#v. 管理; 经营; 处理; 设法对付
+management#n. 管理; 操纵
+manager#管理器; 管理程序
+manifest#adj. 明白的; 明显的 vt. 表明; 显示; 显现; 出现
+manifold#复印本; 多种
+manifolder#复印机
+manifolding#复写; 复印
+manipulate#(熟练地)操作; (巧妙地)处理
+manipulator#操纵器; 操作者; 操纵元
+manner#方法; 样式; 惯例
+mantissa#尾数
+manual#手册; 人工的; 手动的
+manually#用手; 手动地
+manufacture#n.&vt. 制造; 生产 v. 制造; 加工 n. 制造; 制造业; 产品
+manufacturer#制造商; 厂商
+manufacturing#adj. 制造的; 生产的 制造业(的)
+manuscript#n. 手稿; 原稿; 底稿; 手写本
+map#图; 映射
+map program#映象程序
+mapping#映射; 映像; 映象
+margin#余量; 页边的空白; 加旁注于
+mark#标记; 作记号
+mark symbol#标记符号
+marked#有记号的; 显著的
+marked record#标记记录
+marker#n. 标记; 做记号的工具; 记分器; 标示物(如路标)
+marker file#标记文件
+marketing#市场营销; 买卖
+marquee#选择区; 选取框 n. 大帐篷
+marshal#编组; 集合; 排列
+masculine#adj. 男性的; 似男性的; ［语法］阳性的; 强壮的
+mask#vt. 掩饰 vi. 戴面具; 参加化装舞会 n. 面具; 伪装; 面罩
+mask bit#屏蔽位
+mask bus#屏蔽总线
+mass#大量的
+master#主要的; 基本的; 主
+mastering#控制
+mat#面层
+match#v. 匹配; 相配; 相称; 与…匹敌 n. 火柴; 比赛; 竞赛; 对手
+material#adj. 物质的; 实体的 n. 材料; 原料; 素材; 资料
+materialization#n. 具体化
+materialize#v. 使具体化; 物质化
+math#n. 数学
+mathematical#adj. 数学的; 数学(上)的
+matrix#n. 模子; [数]矩阵
+matte#暗区; 不光滑的
+maximize#v. 使增加到最大程度; 最大化
+maximize button#最大化按钮
+maximum#adj. 最高的; 最大的 n.&adj. 最大量(的) n. 最大值; 最大限度
+MB#(mega byte)兆位
+MDK#多媒体开发工具包
+mean#adj. 低劣的; 简陋的; 凶悍的; 平均的 v. 意指; 指示; 意味; 打算 n. 平均数
+meanings#含义
+measure#测量; 方法
+measurement#度量
+mechanical language#机器语言
+mechanical mouse#机械式鼠标
+mechanism#n. 机械装置; 机构; 机制
+media#n. 新闻媒体; 媒介; 媒体
+medium#中; 媒体
+mega#n.&adj. 兆; 百万; 巨大的
+megabit#兆位
+megacomputer#百万次计算机
+melody#曲调; 悦耳的音调
+member#n. 成员; 会员; 社员
+memo#便笺; 备忘录
+memorandum#n. 便笺; 备忘录
+memory#n. 记忆; 回忆; 内存
+mention#叙述; 提及
+menu#n. 菜单; 菜谱
+menu bar#菜单栏
+menu option#菜单选择
+merge#v. (使)合并; 合并; 结合; 融合
+mesh#网状
+message#n. 消息; 音信; 便条; 信息
+meta-#[前缀]超越; 超出; [词头]元
+metafile#图元文件
+meter#n. 米; 公尺; 仪表; 计量器 [英]metre
+metric#adj. 公制的; 米制的
+micro-#[词头]微; 百万分之一
+micro-minicomputer#微小型计算机
+microcircuit#微电路
+microcode#微代码; 微指令; 微码
+microcomputer#n. 微型计算机; 微机
+microfiche#微缩胶片; 微缩格片
+microfilm#微缩胶卷 n. 微缩胶片
+microinstruction#微指令
+microphone#n. 麦克风; 扩音器; 话筒
+microprocessor#n. 微处理机; 微处理器
+microprogram#微程序
+microprogramming#微程序设计
+microsecond#微秒
+Microsoft#美国微软公司
+microwave#n. 微波; 微波炉
+middle#adj. 中间的; 中等的 n. 中间; 中部; 中等物
+MIDI#音乐设备数字接口
+migrate#v. 移植
+migration#n. 迁移; 移居; (鸟类等的)迁徙; 移植
+mile#n. 英里; 哩; 海里
+milli-#[词头]毫; 千分之一
+milliampere#毫安
+millimeter#n. 毫米
+millisecond#毫秒
+minicom#小型计算机
+minidisk#小磁盘
+minimal#adj. 尽可能少的; 最小的; 最低限度的
+minimalization#极小化; 取最小值
+minimize#最小化
+minimize button#最小化按钮
+minimum#adj. 最低的; 最小的 n. 最低量; 最小量; 最低限度
+minor#adj. 较小的; 较少的; 较次要的
+minuend#被减数
+minus#负数; 减
+minus sign#减号
+minutes#分钟
+mirror#vt. 反映; 反射 n. 镜子
+mirroring#镜象的
+miscellaneous#adj. 多种的; 各式各样的; 多方面的
+mismatch#vt. 使错配; 配合不当; 配错; 不匹配
+misoperation#误操作
+miss#v. 错过; 未赶上; 惦念; 想念 n. 小姐; 女士
+missing#adj. 丢失的; 失踪的; 失去的; 失落的
+mission#n. 代表团; 使馆; 使命; 任务
+mistake#vi. 误解; 弄错; (for)把…错认 n. 错误; 过失
+mix#v. 混淆; 混合; 混在一起
+mixer#n. 搅拌机; 混合器
+mixture#混合体; 混合剂
+mnemonic#助记的; 记忆的
+mode#n. 方式; 样式; 时尚; 时兴
+model#模型; 模拟
+modelling#n. 当模特儿; 模特儿职业; 造型
+modem#n. 调制解调器
+modification#修改; 调整
+modified#修改的; 变更的
+modifier#n. 修饰语; 修饰成分; 修饰符
+modify#vt. 更改; 修改; 修饰
+modular#模块化的
+modularization#模块化; 积木化
+modularized program#模块化程序
+modulate#v. 调整; 调节; 调制; 变调
+modulation#n. 调制; (声音之)抑扬; 变调
+modulator#调制器
+modulator#调制器
+module#n. 组件; 模块; 模件; (航天器的)舱
+module check#模块检查; 模块检验
+moire effect#莫尔效应
+moment#矩; 力矩; 磁矩
+monitor#监控程序; 监视器
+mono-#[词头]单; 单一的
+monochrome#单色; 单色的 n. 单色画
+monochrome display#单色显示
+monochrome monitor#单色监视器
+monophonic#单声道的
+monostable#单稳态的; 单稳的
+montage#n. 混成画; 拼集的照片; 蒙太奇
+month#n. 月; 月份
+more#尚有; 更多
+morphing#变形
+mosaic#镶嵌字符
+motherboard#母板
+motif#主题; 要点; 特色
+motion control#运动控制
+motor#n. 发动机; 电动机; 马达; (简称)汽车
+mount#v. 上(马等); 装载
+mouse#鼠标器
+move#v. 移动; 搬动; 开动
+movement#n. 运动; 活动; 移动
+MPC#(Multimedia PC)多媒体PC
+ms#毫秒
+multi-address#多地址
+multi-user#多用户
+multi-window#多窗口
+multilevel#多级
+multimedia#adj. 多种手段的; 多媒体的 n. 多媒体
+multimedia PC#多媒体PC
+multiple#adj. 复合的; 多次方的; 多重的; 多种多样的
+multiple#多个的
+multiplexer#多路器; 多路转接器
+multiplexing#多路技术 n. 连锁商店; 多路传输
+multiplexor#多路器; 多路传送器
+multiplicand#被乘数
+multiplication#n. 乘法运算; 增加; 繁殖; 乘法
+multiplicity#n. 多种多样; 多样性; 复合度
+multiplier#乘数
+multiprocessing#多重处理; 多处理技术 n. 多重处理; 多道处理
+multiprocessor#多处理器; 多重处理机
+multiprogramming#多道程序
+multitasking#多任务处理
+multithreading#多线程; 多线索
+must#v. 必须; 应该 v.&aux. 必须; 应当
+mutex#互斥(体); 互斥标记
+mystify#变幻线
+n#纳
+name#v. 命名; 给…取名 n. 姓名; 名称; 名誉; 名声
+name code#名字代码
+naming#命名
+nanosecond#纳秒
+narrative#解说词; 叙述(的)
+native#本机的; 本地的
+nature#性质; 种类
+navigate#v. 航行; 飞行; 导航; 领航
+navigation#n. 导航
+navigation key#定位键
+navigational#adj. 航行的; 导航的; 引导的
+necessary#adj. 必需的; 必要的; 必然的 n. 必需品
+needle#探针
+negate#否定; 非; 负
+negation gate#“非”门
+negative#负数; 否定(的)
+negotiation#n. 谈判; 协商; 交涉
+neper#奈培
+nest#嵌套
+nested#嵌套的
+network#n. 网状物; 网络(系统); 广播网; 电视网
+networking#n. 一种互助性的网络体系; 计算机网络的设计; 连网的
+neural#adj. 神经的; 神经系统的
+neutral#adj. 中立的; 中性的; 公平的 n. 中立者(国)
+new#新的; 更新的
+newsgroup#新闻组
+next#adv. 其次 adj. 下一个的 prep. 靠近 n. 下一个
+nickname#别号
+node#n. 结; 节; 节点
+noise#噪声; 干扰
+nomenclature#术语; 命名法 n. 术语; 命名系统
+nominal#按计划进行的; 极小的; 标定的
+non-breaking space#不间断空格
+non-interlaced#逐行; 非隔行
+non-linear#非线性的
+non-numeric#非数字的; 非数值的
+non-reusable#不可重用的
+non-scrollable#不可滚动的
+noninteractive#不相关的; 非交互的
+nonsolid color#非纯色
+nonzero#非零
+normal#正常的; 标准的; 正规
+normalize#v. 使正常; 使标准化; 标准化; 规范化
+notation#符号; 表示法
+note#vt. 记录; 注意到 n. 音符; 便条; 笔记; 注释
+note indicator#附注记号
+notebook#n. 笔记簿; 笔记本
+notebook computer#笔记本型计算机; 笔记本电脑
+notepad#记事本
+notify#v. 通知; 告知; 报告
+notion#n. concept 概念; 意念; 看法; 概念
+novice#无经验者; 初学者
+nucleus#n. 核心; 原子核
+null#空的; 零
+number#n. 号码; 数字
+numbering#编号
+numeral#adj. 数字的
+numeration#记数; 计算
+numeric#数字的
+numerical#数字的; 表示数量的
+numerous#为数众多的; 无数的
+object#vi. 反对 n. 实物; 物体; 目标; 对象
+obscure#adj. 暗的; 朦胧的; 模糊的; 晦涩的
+observation#n. 注意; 观察; 观测
+observer#n. 观察员; 观测者; 观察者; 评述者
+obsolete#adj. out of date 作废的; 过时的; 已废弃的
+obstruction#n. 妨碍; 障碍物
+occasionally#偶尔(地); 不时
+occlude#adj. occlude v. 使闭塞; 封闭; 关闭; 逐出  堵塞
+occupation#n. 工作; 职业; 占有
+occupied state#占用态
+occupy#vt. 占据; 占有; 占用; 占领
+occur#v. 发生; 出现; 想到
+occurrence#n. 发生; 出现; 发生的事情; 事件
+OCR#光字符阅读器; 光字符识别
+octal#八进制的
+odd#adj. 古怪的; 奇特的; 临时的; 奇数的 n. 机会
+odd-even check#奇偶校验
+odometer#n. (车辆等的)里程计; 里程表; 计程仪
+OEM#初始设备制造厂家
+oersted#奥斯特(磁场强度单位)
+off#断开
+off state#关闭状态
+off-hook#摘机
+off-line#脱机
+offer#提供; 给予; 呈现
+office#n. 办公室; 办事处; 部; 处
+office automation#办公自动化
+office network#办公室网
+offset#位移; 偏移
+ohm#n. (电阻单位)欧姆
+ok#确认; 确定
+old password#原口令
+omission#n. 遗漏的东西; 省略; 遗漏; 失职
+omit#v. 省略; 删去; 遗漏; 忽略
+on the fly#在运行中
+on-hook#挂机
+on-line#adj. 联机的; 联线的; 联机; 在线
+on-screen#屏幕上的
+on-state#接通状态; 开启状态
+one-address#单地址
+one-chip#单片的
+one-level#一级
+one-to-many#一对多
+one-to-one#一一对应
+one-way#adj. 单程的; 单行的; 单向
+online#adv. 在线地; 联机
+only#adj. 唯一的 adv. 只; 仅仅 conj. 可是; 不过
+opaque#adj. 不透明的; 不透光的; 难理解的; 晦涩的
+open#adj. 开着的; 开放的; 营业中的; 开始 vt. 打开 n. 公开; 户外
+open architecture#开放式体系结构
+open file name#打开文件名
+open inbox#打开收件箱
+open system#开放系统
+opening file#打开文件
+operand#操作数
+operate#v. 操作; 作业 vi.&vt. 手术; 运转
+operating#操作的
+operating ambient#运行环境
+operating system#操作系统
+operating system#操作系统
+operating time#操作时间
+operation#n. 运转; 操作; 手术; 运算
+operational#操作的; 运算的
+operator#运算符; 操作符
+opposite#相反的; 对立的; 对应的
+optical#adj. 光学的; 视觉的; 视力的
+optimization#优化 n. 最佳化
+optimize#v. (optimise)使优化 vt. 使尽可能完善; 使最优化
+optimum#最优的; 最适宜的
+option#n. 选择; 选择权; 选择的事物; 任选项
+optional#adj. 随意的; 可选择的; 非强制的; 可以任选的
+order#v. 整理; 安排; 等级 vt. 订购; 命令; 点菜 n. 次序; 整齐
+ordering#命令; 次序; 定购; 定序
+ordinal#adj. 顺序的 n. 序数
+organization#组织; 结构
+organize#组织; 创办; 成立
+orient#定向
+orientation#方位; 方向
+oriented#adj. 有向的; 定向的 导向的; 定向的
+origin#原点; 起点
+original#原版; 原始的; 初始的
+originally#原先; 最初
+OS#操作系统
+oscillometer#示波计
+oscilloscope#示波器
+other#adj. 别的; 其他的
+otherwise#否则; 另外的
+out-gate#输出门
+outbox#待发箱
+outcome#n. 结果; 结果; 后果; 成果
+outconnector#外接器
+outgoing#出口
+outlet#n. 出口; 通风口; 出路; 电源插座
+outline#纲要; 分级
+outline font#轮廓字体
+output#n. 产量; 产品; 输出
+outside#adv. 在外侧; 在外面 n. 外侧; 外面
+overall#adj. 总的; 综合的; 全部的; 全面的 n. 工作服
+overdue#逾期的; 迟到的
+overflow#上溢; 溢出
+overhead#间接的
+overheat#v. 加热过大; 加热过度; 过热
+overlap#v. 与…部分重叠; 重叠; 与…交叠 n. 重叠
+overlay#覆盖
+overload#超负荷
+override#过载
+overrun#超过; 超限; 泛滥
+overstriking#(字体)加粗; 重叠打印
+overtime#adv. 加班地 adj. 超时的; 加班的
+overview#n. 概观; 概述; 大略
+overwrite#重写; 覆盖
+owner#n. 拥有者; 所有者; 物主; 所有人
+ownership#n. 所有权; 所有制
+pacing#基本的; 步测; 调步
+pack#v. 包装; 挤满 vt. 打(行李); 整(装); 打包 n. 背包
+package#包; 插件
+packet#包; 组群
+packing#组装; 存储; 压缩
+pad#填充
+pad character#填充字符
+padding#衬垫; 填料
+paddle#摇杆
+page#页面; 记录
+pagination#分页; 标记页数; 页调整
+paging#内存分页; 页面调度; 调页
+paint#绘画
+paintbrush#n. 画笔; 漆刷
+pair#对; 偶
+palette#调色板; 选项板
+pan#摇镜头; 调平衡
+pane#n. 窗(门)玻璃; 窗格玻璃; 长方块
+panel#面板
+panic dump#应急转储
+paper#n. 纸; 报纸; 考卷
+paper jam#卡纸
+paper size#纸张大小
+paragraph#n. (文章的)节; 段; 段落; 节
+parallel#并行的
+parent#父代
+parent directory#父目录
+parentheses#圆括号
+parenthesis#n. 括弧; 圆括号
+parity#n. 相同; 相等; 奇偶性
+parse#n.&v. 从语法上分析 解析
+parser#语法分析器
+part#vi. 分手 n. 部分; 局部; 角色; 零件
+partial#adj. 偏袒的; 偏心的; 对…偏袒; 部分的
+participant#n. 参加者; 参加者; 参与者
+particular#adj. 特殊的; 特别的; 特定的
+particularly#adv. 特别地; 尤其地
+partition#分区
+partner#n. 伙伴; 合作者; 配偶
+pass#传送; 传递
+passage#一节
+password#口令
+paste#v. 粘; 贴 vt. 粘贴 n. 糊; 糨糊; 浆糊; 面团
+paste from#从…粘贴
+patch#修补; 插入码
+patent#adj. 专利的 n. 专利权; 专利品
+path#n. 小道; 小路; 小径; 路线
+pattern#n. 方式; 模式; 式样; 格调
+pause#v.&n. 中止; 暂停
+PC#个人计算机
+PDA#个人数字助理;
+peer#同级
+pels#像素; 图元
+penalty#惩罚; 罚款; 负担
+pending#暂挂; 未决的
+percent#n. 百分之…; 百分比; 百分数
+percentage#n. 百分比; 百分率
+perforate#v. 打洞; 打孔 vt. 穿孔
+perforator#穿孔机
+perform#v. 履行; 实行; 执行; 演 vt. 表演
+performability#可执行性
+performance#性能
+period#n. 时期; 时代; 一段时间; 课时
+periodic table#周期表
+periodicity#n. 周期性; 周期数; 间发性; (电)频率
+peripheral#外围设备; 外围的
+permanence#n. 永久; 持久; 永久性
+permanent#adj. 永久的; 长久的; 持久的
+permanent swap file#永久交换文件
+permanently#adv. 永久地; 长期不变地; 持久地
+permission#n. 允许; 许可; 同意
+permit#v. 允许; 许可 n. 执照; 许可证
+permutation#排列; 置换 n. (数学中)排列变化; 彻底改变
+person#n. 人; 人们; 人身; 本人
+personal#adj. 私人的; 个人的; 亲自的; 针对个人的
+personalize#vt. 把个人姓名标示在(物品)上 个人化
+personnel#adj. 有关人事的 n. 全体人员; 全体职员; 人员; 职员
+perspective#n. 观点; 看法; 视角; 远景
+pertain#适合; 附属
+phase#vt. 分阶段实行 n. 阶段; 时期; 方面; 相位
+phenomenon#n. 现象; 现象; 迹象; 非凡的人(或事物)
+phone#v. 打电话 n. 电话
+phoneme#音素; 音位
+phosphor#n. 磷光剂; 磷光体
+photocell#光电池
+phrase#n. 短语; 习惯用语; 词组; 措词
+physical#adj. 身体的; 物理的; 自然的
+physical address#物理地址
+physically#物理上; 实际上
+PIC#(Picture)图像压缩
+pick#精选; 挑选
+picking#采集; 检料
+pickup#拾音器
+pickup reel#拾带盘
+picosecond#皮秒; 微微秒
+picture#图形; 图象
+pilot#引导
+pin#vt. 钉住 n. 别针
+pipe#vt. 用管道输送 n. 管子; 导管; 烟斗
+pipeline#n. 管道; 管线
+pipelining#流水线
+piping#管道
+piracy#非法复制; 盗版 n. 海上掠夺; 侵犯版权
+pirate software#盗版软件
+pitch#音调; 字距; 行距
+PivotTable#数据透视表
+pix#图像
+pixel#像素
+pixmap#象图映射
+place#地方; 位; 位置
+placeholder#位置标志符; 占位符
+placement#n. 放置; (人员的)安排; 位置
+plain#单; 纯
+plan#vt. 计划; 规划; 设计 n. 计划; 规划; 平面图
+plane#n. 飞机; 平面; 水平
+plane graph#平面图
+planes#位面
+planner#n. 计划者; 计划制订者; 计划人员
+planning#计划编制 n. 规划; 设计; 策划
+plant#v. 种植 n. 植物; 工厂
+platen#压纸卷筒; 压盘; 滚筒
+platform#平台
+play#v. 玩; 做游戏; 打球; 参加比赛 n. 剧本; 戏剧; 演奏; 演出
+player#播放器; 播放程序
+plot#绘图
+plotter#绘图仪 n. 密谋者
+plug#插入
+plug and play#即插即用
+plug in#插上插头; 插入
+pocket#卡片匣
+point#v. 指(向); 意义; 目的 n. 尖; 点; 小数点; 条款
+point size#磅
+pointer#n. 指示棒; 指针; 指示器
+pointer type#指针类型
+pointing#指点; 指示
+points#磅
+poll#登记; 转换; 查询
+polling#查询; 换态过程 n. 投票
+polygon#多边形
+polymorphism#多形性
+polynomial#多项式
+pool#池库; 组合
+pop#弹出
+pop-up#弹出式
+pop-up menu#弹出式菜单
+pop-up window#弹出式窗口
+portability#可移植性; 可携带; 轻便
+portable#便携式的; 可移植的
+portfolio#公文夹
+portion#vt. (out)分配; 把…分给 n. 一部分; 一份; 部分
+portrait#纵向
+position#位置; 布局
+positive#正的; 绝对的
+possibility#pl. ; 发展前途; 潜在价值 1 n. 可能性; 可能的事常用
+possible#adj. 可能的
+possibly#可能地; 或者
+post#登记; 公布
+post-office#adj. 邮政的 n. 邮局
+postamble#后同步信号
+postfix#后缀
+postpone#v. 延期; 延迟; 搁置; 延缓发作 vt. 推迟; 延期
+potentially#adv. 可能地; 潜在地
+power#电源; 能力
+powerful#adj. 强大的; 有力的; 有权的; 强壮的
+ppm#每分钟页数; 百万分之…
+practice#v. 练习; 实习; 训练; 从事 n. 练习; 实践
+pragmatics#语用学; 语用论
+pre-amplifier#前置放大器
+preamble#n. 前言; 序文; 段首标记; 始标
+prebuilt#预建的
+precede#先于; 领先于
+precedence#n. 优先权; 优先级
+precedents#引用单元格
+preceding#先的; 以前的
+precision#n. 精确; 精密; 精密度; 精度
+precondition#v. 预先影响或处理; 使先有准备; 先决条件; 前提
+predicate#n. 谓语; 谓词; 判定
+predict#v. 预言; 预测; 预告
+preemption#抢先占有; 取代
+preface#n. 开端; 前奏; 序言; 引言
+prefer#更喜欢; 申请
+preference#首选项
+preferred#首选的
+prefix#vt. 加…作为前缀; 置于前面 n. 前缀
+prefix notation#前缀表示法
+prelude#序部; 首部
+preparation#n. 准备; 预备; 制备
+preprocess#预处理
+preprocessor#预处理程序; 预处理器
+prepunch#预先穿孔
+prerequisite#n. 必备条件; 先决条件; 前提
+presence#n. 出席; 在场; 存在
+presentation#介绍; 陈述; 表达
+preserve#vt. 保护; 保存
+preset#vt. 预先装置; 预先调整; 预置; 预调
+press#v. 压; 按; 紧握; 抱紧 vt. 压; 揿; 按 n. 新闻界
+pressing#紧迫的; 挤压
+prestore#预存储
+presumption#n. 假定; 推测; 无理; 傲慢
+prevent#vt. 预防; 防止; 阻止
+prevent changes#防止修改
+preview#vt. 预习; 预览
+previous#前的; 返回上一级菜单
+previously#以前; 预先
+price#v. 标价 n. 价格; 价钱; 代价; 价值
+primarily#首先; 起初; 原来
+primary#主要的; 初步的
+prime#主; 素
+prime index#主索引
+primitive#原语; 图元; 原始的
+principal#adj. 首要的; 主要的 n. 校长
+print#打印
+printable#可印刷的
+printer#n. 打印机; 印刷工; 印花工
+printing#n. 印刷; 印刷业; 印刷术
+printout#打印输出
+prior#优先的; 预先的
+privacy#保密
+private#专用的; 私人的
+private folder#私人文件夹
+privilege#v. 给予优惠 n. 特权; 优惠
+privileged#特许的; 特权的
+probabilistic#概率性的
+probable#概率的; 可能的
+probably#adv. 很可能; 大概; 或许
+problem#n. 问题; 难题; 习题; 思考题
+procedural#adj. 程序上的; 程序性的 程序上的; 过程的
+procedure#过程; 步骤
+proceed#vi. (停顿后)继续进行; 进行; 着手; 开始
+process#v. 加工; 处理 n. 工序; 过程; 进程; 工序
+processing#n.&adj. 加工(的); 处理
+processor#处理器; 处理程序
+produce#v. 生产; 制造; 产生
+product#n. 产品; 产物; 乘积; 成果
+production#生产; 研究成果
+productivity#n. 生产力; 生产率; 多产; 生产能力
+professional#adj. 专业的; 职业的; 专业的 n. 职业选手; 专业人员
+profile#剖面; 外形
+profiling#程序概要分析
+program#vt. 编制程序 n. 节目; 项目; 程序; 计划
+programmable#可编程的
+programmer#程序员
+programming#n. (为计算机或其他自动化机器)编制程序; 程序设计
+progress#进度; 进展
+project#v. 投射; 伸出 n. 方案; 计划; 工程; 项目
+project plan#项目规划; 工程计划
+projection#n. 凸出物; 计划; 投影; 放映
+projector#n. 发射装置; 放映机; 幻灯机; 投影仪
+prologue#vt. 作…的序 n. 序言; 开端
+promote#vt. 促进; 发扬; 提升; 升级
+prompt#v.&.&n. 提示; 提示符
+prompt command#提示命令
+prompting#n. 提示; 提醒; 激励; 鼓舞
+proof#校对; 校样; 证据
+proper#adj. 恰当的; 合适的; 适当的; 正确的
+properly#适当地; 完全地
+property#属性; 所有权
+proportion#vt. 使均衡 n. 比例; 比例; 比率; 部分
+proprietary#专有的; 所有权; 独占的; 业主
+protect#v. 保护; 保卫; 警戒[同]secure
+protected#受保护的
+protected mode#保护模式
+protection#n. 保护; 保护; 防护物
+protocol#n. 礼仪; 外交礼节; 草案; 协议
+prototype#n. 原型; 典型; 范例
+prove#v. 证明; 证实; 检验; 鉴定
+pruning#修剪
+pseudo#adj. 假的; 伪的; 冒充的
+public#adj. 公共的; 公众的; 公开的 n. 公众; 民众
+public domain#公共领域
+publication#n. 公布; 出版; 出版物
+publish#发行; 公布; 出版
+publisher#出版者; 发行人
+puck#圆盘; 球
+pull-down menu#下拉菜单
+pulldown#折叠式的; 下拉
+pulse#v. 搏动; 跳动 n. 脉搏; 节奏; 脉冲
+punch#v. 冲压; 穿孔 vt. 以拳重击 n. 冲压机; 冲床; 穿孔机
+punctuation#n. 标点符号
+purchase#采购
+pure#adj. 纯的; 不掺杂的; 完美的
+pure code#纯代码
+purge#vt. 清洗(除); 净化; 洗清 n. 清洗; 清除异己; 泻药
+purpose#打算; 目的
+push#推; 按
+push-button#按钮
+pyramid#角锥; 使渐增
+quad#n. 四胞胎之一; 同类的四个构成的一组; 四芯导线
+quadrant#n. [几何]象限
+qualifier#限定词 n. 赋予资格的人或物; 修饰词
+qualify#v. (使)具有资格; (使)胜任; 证明合格; 限制
+quality#n. 质量; 品质; 素质; 特质
+quantity#n. 量; 数量
+quantization#量子化; 数字化
+quantize#量化; 数字转换
+quantizer#量化器; 数字转换器
+quantizing noise#量化噪声
+quantum#量子; 美国昆腾公司
+quark#夸克
+quartet#n. (音乐)四重奏; 四位字节
+query#查询
+question#n. 问题
+questionary#调查表
+queue#队列; 排队
+quick#adv. 快; 迅速地 adj. 快的; 迅速的
+quiescing#停顿
+quiet#安静; 静止的
+quinary#五进制的; 第五位的
+quintet#五位字节
+quit#v. 离(职); 不干; 离开; 退出
+quotation#n. 引文; 引语; (交易)报价; 语录
+quotation marks#引号
+quote#v. 引用; 援引; 报价
+quotient#商; 系数
+radar#n. 雷达; 无线电探测器
+radian#弧度
+radiate#v. 放射; 辐射; 散布; 传播 vt. 发射(光或热) vi. 幅射; 散发
+radix#基数; 根
+ragged#锯齿状
+rail#导轨
+raise#v. 饲养; 抚育; 举起; 使升高 vt. 募捐; 筹集 n. 加薪
+RAM#随机存取存储器 n. 公羊; [天]白羊座
+random#adj. 随机的; 任意的 n. 无目标; 偶然的(或随便的)行动
+randomness#随机性
+range#v. 排列成行 vi. (在一定幅度或范围内)变动; 显示不等 n. 范围; 领域; 排列; 连续
+rank#排序; 秩
+rapid#adj. 快的; 迅速的; 快速的
+raster#光栅; 扫描线
+rate#v. 估价 n. 率; 比率; 速度; 等级
+rated#额定的
+rating#n. 等级; 规格; (电视)收视率; 额定
+ratio#n. 比; 比率; 比例
+rational#adj. 理性的; 合理的
+raw#原始的
+reach#v. 到达; 达到; 伸; 递 vt. 伸延; 到达 n. 延伸; 范围
+reactivate#v. 恢复活力; 重新活跃 使恢复活动
+read#读; 读取
+read-only file#只读文件
+read-write#读写
+readability#可读性
+readable#adj. 易读的; 可读的; 清楚的
+reader#阅读器
+readily#adv. 容易地; 乐意地; 欣然地
+reading#阅读(的); 读出
+readme#自述文件
+ready#adj. 准备好的; 现成的; 乐意的; 情愿的 adv. 准备就绪
+real#adj. 真的; 真正的; 真实的; 现实的
+real-time#实时
+reallocation#重新分配
+realm#方面; 领域
+reappear#vi. 再(出)现; 再现; 重现
+rear#n. 后部; 后面; 背面
+rearrange#重新整理; 重新排序
+reason#原因; 前提
+reasoning#n. 推论; 推理; 论法
+reassemble#重装; 再汇编
+rebinding#重新连接
+reboot#再引导
+rebuild#v. 重建; 修复; 改造
+recalibrate#重校; 重新校准
+recall#撤消; 再调用
+receipt#n. 收据; 收条; 收到; 接到
+receive#接收
+receiver#n. 电话听筒; 接收者
+receiving#接收(的)
+receptacle#n. 容器; 插座
+recharge#再充电
+recipe#n. 食谱; 烹饪法; 食谱; 诀窍
+recipient#收件人
+reciprocal#倒数
+reclaim#v. 要求归还; 收回; 开垦 n. 认领
+reclaimer#回收程序
+recognition#n. 识别
+recognize#vt. 认识; 认出; 识别
+recommend#v. 推荐; 介绍; 劝告; 建议
+recompile#重编译
+reconciliation#n. 和解; 和好; 调解; 和谐
+reconfiguration#重新配置; 再组和
+reconstruct#重构
+record#v. 记录; 记载 n. 记录; 记载; 唱片
+recorder#录音(像)机 n. 录音机; 记录器; 记录者
+recording#n. 录音; 记录
+recover#v. 恢复; 痊愈 vt. 寻回; 取回
+recoverable#adj. 可恢复的; 可回收的
+recovery#n. 恢复; 痊愈; 收回; 复得
+rectangle#n. 长方形; 矩形
+rectangular#adj. 长方形的; 矩形的
+recursion#循环; 递归
+redefine#vt. 重新考虑; 重新定义
+redirect#v. 重定向 vt. 转移呼叫
+redirection#n. 转移呼叫; 重定向
+redisplay#重新显示; 再显示
+redo#重做
+redraw#vt. 重新划定(边界等); 修订; 修改(计划等) 重画; 刷新屏幕
+reduce#v. 减少; 缩小; 降低; 简化 vt. 减少; 缩减
+reduction#n. 减少; 变形
+redundancy#n. 多余; 累赘; 冗长; 过多
+redundant#冗余的
+reel#卷; 一盘
+reenter#v. 重新进入 重入
+reenterable#可重入的
+reentrant#再重入的; 再进入的; 可重入的
+reevaluate#v. 重新估计 vt. 重新评价
+refer#vt. 谈到; 提到; 提交; 指点 vi. 参考
+reference#引用; 提及; 参考书目
+reference manual#参考手册
+referral#提名; 工作分派
+refinement#求精
+reflect#v. 反映; 表现; 反省; 细想 vt. 反射
+reflection#n. 映象; 反射; 反映; 映像
+reflow#v. 回流; 逆流
+refraction#n. 折光; 折射
+refresh#刷新
+regardless#不注意的; 不考虑的
+regenerate#v. 再生
+regeneration#n. 再生; 重建
+region#n. 地区; 地带; 区域; 领域
+register#寄存器; 登记; 注册
+registration#n. 登记; 注册
+regression#衰退
+regular#正规的; 规则的; 定期的
+regular-mail#普通邮件
+regulation#n. 规则; 规章; 管理
+regulator#n. 调节器; 校准器; 管理者; 调整者
+rehabilitation#n. 康复; (罪犯的)改造; 康复治疗; 修复
+reinstall#重新安装; 重新设置
+reinstate#vt. 使恢复原有的职位
+reject#v. 拒绝; 扔掉; 驳回; 否决 vt. 摈弃 n. 被抛弃的东西
+related#adj. 有关的; 相关的
+relation#n. 关系; 亲属; 联系; 家属
+relational#关系的; 相关的
+relative#adj. 相对的; 比较的 n. 亲属; 亲戚
+release#释放; 发布; 版本
+relevant character#相关字符
+reliability#n. 可靠性; 确实性
+reload#再装入
+relocate#vt. 重新安置; 浮动; 移位
+remain#保留
+remainder#n. 剩下的人、东西或时间; 剩余物; 剩下的; 余数
+remaining#剩余的
+remark#备注; 注释; 注意
+remember#存储; 记忆
+remote#远程的
+remotely#adv. 很少地; 极小地; 遥远地; 远程地
+removal#n. 迁移; 拆卸; 移动; 迁居
+remove#v. 移动; 删除; 升级
+rename#重新命名; 改名
+render#提供; 执行; 打底
+rendering#描绘; 渲染 n. 演出; 翻译
+rendezvous#n. 约会; 约会地点; 会合
+renovate#刷新; 修复; 改造
+rent#v. 租用; 出租 n. 租金; 租金
+reorder#v. (按序)排列; 排序 重新排序; 再定购
+reorganization#vt. 改篇; 改组; 重排
+repaginate#重编页码
+repaint#v. 重新粉刷 vt. 重画
+repair#vt. 修理; 修补; 补救; 弥补 n. 修理; 修补; 修复; 维修状态
+repeat#v. 重复; 重说; 重做 n. 重复
+repeatability#可重复性
+repeated#adj. 反复的; 重复的
+repeatedly#adv. 多次地; 重复地; 再三地; 一再地
+repeater#中继器; 转发器
+reperforator#复穿孔机
+repertory#指令表 n. (知识等的)宝库; 贮存
+repetition#n. 重复; 循环; 反复; 背诵
+repetitive#adj. 重复的; 反复性的; 反复的
+replace#v. 置换; 代替
+replaceable#可置换的
+replacement#n. 复位; 复职; 替换; 代替
+replan#重新计划
+replay#v. 重现; 重温 vt. 重放
+replica#副本; 复制品
+replicate#vt. 重复; 复制
+replication#n. 复制
+replicator#复制器
+reply#n.&v. 回答; 答复
+report#报告; 报表
+repository#仓库; 贮藏室; 知识库
+represent#表示; 表现; 代表
+representation#表示法
+representative#adj. 有代表性的; 典型的 n. 代表; 代理人
+reproduce#v. 繁殖; 生殖; 复制; 仿造 vi. 繁殖
+reproducer#扬声器; 复制器; 再生器; 复穿孔机
+request#v. 要求; 请求 n. 要求; 请求
+require#v. 需求; 要求
+required#必需的
+requirement#n. 需求
+reread#v.  vt. 重读; 再读 reread. 再阅读
+rerun#重新运行; 再运行
+resample#重新采样
+resend#再发送; 再送
+reservation#n. 保留; 预约
+reserve#v. 保存; 保留
+reserved#adj. 矜持的; 沉默寡言的; 保留的; 内向的
+reset#vt. 使复位; 重接(断骨) vt.&n. 重新安排; 重调
+reshape#整形
+reside#v. 驻留
+resident#驻留的; 常驻的
+residual#adj. 复播复映追加时间; 存留下来的; 剩余的; 残余的
+resistance#阻抗
+resize#调整大小
+resolution#分辨率
+resolve#分辨; 解决; 还原
+resolver#分解器
+resolving power#分辨力
+resonance#n. 回声; 反响; 共振; 共鸣
+resource#n. 资源; 资源; 财力; 谋略
+resource allocation#资源分配
+respect#遵守; 关系
+respectively#adv. 各自地; 分别地
+respond#vt. 回答; 答复 vi. 回答; 响应; 反应
+response#n. 响应; 应答
+rest#剩余; 睡眠; 保持状态
+restart#v. 重新开始 重新启动
+restore#复原; 恢复
+restrict#vt. 限制; 约束; 限定
+restricted#受限制的; 有限的
+restricting#限制(的)
+restriction#n. 限制; 约束
+restrictor#限定器
+restructure#vt. 改组; 重建; 调整; 将…改组
+result#vi. 致使; 导致 n. 结果; 效果
+resultant#检索
+resulting#adj. 结果的; 合成的
+resume#再继续; 重新开始; 恢复
+resynchronization#n. 再同步
+retain#vt. 保持; 保留
+retainer#定位器
+retention#滞留; 隔离; 存储
+retrace#v. 返回; 重走; 重新跟踪; 退行
+retransmit#重新发送; 传输; 中继
+retrieval#检索; 恢复; 还原; 提取 n. 寻回; 挽回; 补救
+retrieve#恢复
+retrofit#更新
+retry#重试
+return#v. 返回; 归还; 回答 vi. 回来 n. 返回; 归来; 归还
+returned#退回的
+returns#报告; 统计表; 研究成果; 报酬
+reusable#可再用的
+reuse#v. 再使用 vt. 重新使用
+reverb#混响
+reversal#n. 厄运; 挫折; 反向; 撤销
+reverse#adj. 倒转的 v. 颠倒; 倒转 n. 相反; 颠倒; 背面
+reverse video#反视频
+revert#还原
+review#复查; 复习
+revise#vt. 修订; 修改; 复习 vi. 复习
+revokable#adj. 可撤销的 可取消的
+revoke#v. 撤消; 解除 vt. 撤销; 取消; 废除
+revolutionize#v. 使发生革命性剧变 vt. 变革; 彻底改革
+rewind#回绕; 倒带
+rework#重做; 改写
+rewrite#vt. 重写; 改写
+RGB#red; green; blue红绿兰颜色表示法
+ribbon#带; 色带
+rid#vt. 使摆脱; 使去掉
+right#adv. 直接地; 恰好; 立即 adj. 正确的; 合适的; 右边的; 可以的 n. 权利
+rights#权利
+rigid#硬性的
+ring#v. 敲钟; 按铃; 打电话; 充满 n. 戒指; 圆圈; 环; 铃声
+ripple#纹波
+RISC#精简指令系统计算机
+roaming#移动
+robot#机器人; 遥控设备
+roll#卷起; 滚
+roll-in#滚入
+roll-out#滚出
+roller#n. 滚柱; 滚筒; 辊
+rolling#adj. 绵延起伏的; 滚动
+ROM#read. only memory只读存储器
+room#n. 房间; 卧室; 空间; 地方
+root#n. 根; 根源; 起源; 根茎
+root directory#根目录
+rostrum camera#活动照相机
+rotary#旋转式
+rotate#v. (使)旋转; 旋转; 循环; 转流
+rotate left#左旋90度
+rotate right#右旋90度
+rotating#旋转的
+rotation#n. 轮作; 旋转; 转动; 循环
+round#四舍五入; 循环的; 圆
+rounding#舍入; 凑整
+route#n. 路线; 航线; 途径; 道路
+router#路由程序; 路由器
+routine#adj. 常规的; 例行的 n. 常规; 惯例
+row#v. 划(船) n. (一)排; (一)行
+row height#行高
+rule#规则; 法则; 尺
+ruler#标尺
+ruler line#标尺线
+run#v. (使)跑; 奔跑; 行驶; 运转
+run around#在…四处奔跑; 环绕
+run-time#运行时间
+running#运行着的; 连续的
+safe#安全的; 可靠的
+safely#安全地; 确实地
+safety#n. 安全; 保险; 安全设备; 保险装置
+salary#n. 工资; 薪水; 薪金; 薪俸
+sale#销售; 销路
+salvage#v. 挽救; 抢救 n. (从火灾及其他灾难中)抢救财物救助
+same#同样的(地)
+sample#采样; 样品; 例子
+sampler#n. 品尝家; 采样器
+sampling#n. 抽样; 取样
+satellite#n. 卫星; 人造卫星; 卫星国
+satisfy#v. 满足; 使满意; 符合(要求)
+saturation#饱和度
+save#保存
+saving#保存的
+say#说; 假定
+scale#v. 标度; 比例尺; 规模; 攀登 n. 刻度; 表度; 规模; 比例(尺)
+scaling#缩放比例; 比例转换
+scan#v. 细看; 浏览; 详细调查; 扫描 vt. 快读; 扫描
+scanner#n. 扫描设备; 扫描器; 扫描仪
+scatter#vt. 撒; 使散布在各处; 使分散 vi. 分散
+scattered#分散的
+scenario#方案
+schedule#调度; 目录; 进程
+scheduled#adj; 预先安排的; 定期的; 预定的
+scheduler#调度程序
+schema#图解; 计划; 模式
+scientific#adj. 科学的
+scissoring#剪切; 删除
+scope#范围; 值域
+score#记分; 划线
+scramble#不规则的
+scrap#报废(的)
+scratch#暂存
+screen#n. 屏幕; 幕; 荧光屏
+screw#转动; 调节
+script#手稿; 脚本
+scroll#n. 卷轴; 纸卷; 画卷; 滚动
+scrolling#卷动
+SCSI#小型计算机系统接口
+seal#vt. 盖章于; 封; 密封 n. 印章; 印记; 海豹
+seamless#无缝的
+search#搜索; 检索
+searching#搜索的
+seasonal#周期性的; 季节性的
+second#adj. 第二的 num. 第二 n. 秒
+secondary#次级的; 辅助的
+section#n. 地段; 分区; 部分; 区域
+sector#n. 部分; 部门; 区域; (数学)
+secure#adj. 安全的; 放心的; 安心的
+security#n. 安全; 平安; 抵押品; 保障
+see#v. 看见; 看到; 看出; 明白
+seek#查找; 寻道
+seek time#寻道时间
+segment#n. 切片; 部分; 段; 节
+segmentation#程序分段
+seismic#adj. 地震的; 地震强度的
+seldom#adv. 很少; 不常; 难得
+select#adj. 精选的; 优等的 v. 选择; 挑选 vt. 选择
+selected#adj. 精选的 选定的
+selection#n. 选择; 挑选; 精选物
+selective#adj. 精挑细选的; adj; 选择的
+selector#选择器
+self#n. 自我; 自己; 本身; 自身
+self-check#自检; 自校验
+semantic#语义的
+semicolon#分号
+seminar#n. 专题讨论会; 短期强化课程; 研讨会; 学术讲座
+send#v. 发送(send的过去式和过去分词); 送; 寄; 发送
+send mail#发送邮件
+sender#n. 发送人; 寄信人
+sense#检测; 读出
+sensitive#adj. 敏感的; 灵敏的; 感光的
+sensitivity#n. 敏感性; 灵敏度; 敏感(性); 灵敏性
+sensor#n. 传感器; 探测设备; 感觉器(官); 灵敏元件
+sent mail#发出邮件
+sentence#vt. 判决; 宣判 n. 句子
+sentinel#n. 哨兵; 标记; 传送器
+separate#adj. 单独的; 各自的; 分开的 vt. 使分开; 使单独
+separated#分开的
+separately#adv. 单独地; 各自地; 分离地; 分别地
+separation#离析
+separator#分隔符
+septet#七位字节
+sequence#顺序; 视频帧序列
+sequencer#音序器
+sequencing#顺序; 定序
+sequential#顺序的; 连续的
+sequentially#顺序地; 继续地
+serial#串行的
+serialize#v. 使连续; 连载; 连续出版; 串行化
+serif#衬线
+serve#v. 上(菜、酒等); 开(饭); 服务; 尽责
+server#n. (正餐用)盘、盆等上菜、上饮料用的器具; 服务器
+service#服务; 维修; 维护
+servicing#维修; 检修
+servo#伺服
+session#对话
+set#v. 调整 vt. 设定(时间); n 一套; 嵌; 集合 n. 装置; 设备
+setting#设置
+setup#n. 为某活动或某个目的做的准备或铺垫; 安排; 设置; 建立
+seven#num. 七; 七个(人或物)
+several#若干个; 几个
+severe#adj. 严厉的; 严格的; 严重的; 剧烈的
+severity#n. 严重程度; 严厉; 严重; 苛刻
+sextet#六位字节
+SGML#标准广义置标语言
+shade#使阴暗; 底纹
+shading#底纹; 留下阴影; 描影
+shadow#n. 影子; 阴影
+shadow mask#阴罩; 障板
+shape#vt. 使成形; 塑造; 实现 n. 样子; 外型; 外表; 形状
+share#v. 分享; 共享 vt. 分配
+shareware#共享软件
+sharing#共享
+sharp#清晰
+shell#vt. 剥…的壳; 炮击 n. 壳; 贝壳; 炮弹; 外壳
+shell out#退到外壳
+shield#屏蔽; 护罩
+shift#移位
+ship#装运
+shipment#n. 装运; 运送; 装船; 出货
+shipping#装运; 发货
+shoot#拍摄
+short#adv. 突然; (of)缺乏; 不足 adj. 短的; 矮的; 短暂地; 突然地 n. 短裤
+shortcut#捷径; 快捷
+shortcut key#快捷键
+shorthand#简写; 缩写; 速记
+should#v. 应当; 应该 aux.&v. 应该; 万一; 可能; 该
+show#v. 把…给人看; 展览; 出示; 示范 vt. 教; 告诉 n. 节目; 演出; 表演
+showing#显示; 放映 n. 显示; 表现
+shredder#碎纸机
+shut#adj. 关闭的 vt. 关闭; 停止营业; 禁闭 vi. 关上
+shutdown#关机
+sibling#兄弟; 同属
+side#n. 旁边; 侧面; 一边; 一侧
+sign#v. 签名 vi. 做暗号; 作手势 n. 符号; 记号; 告示; 迹象
+signal#vt.&vi. (向…)发信号 n. 信号; 暗号
+signature#特征码; 签名
+signed#带正负号的
+significant#有意义的; 有效的
+significantly#adv. 有意义地; 意味深长地; 重大地; 显著地
+silicon#n. 硅(旧名矽)
+silicon chip#硅片
+similar#adj. 相似的; 像; 类似的; 与…相似(to)
+simple#adj. 简单的; 朴素的
+simplex#单工的; 单一的
+simplify#v. 简化; 使单纯 vt. 简化; 使简易
+simply#简单地; 单纯地
+simulate#vt. 假装; 冒充; 模仿; 模拟
+simulation#模拟; 仿真
+simulator#模拟程序; 模拟器
+simultaneity#同时性
+simultaneous#adj. 同时的; 同时存在的; 同时发生的; 同时进行的
+since#adv. 后来 prep. 自从…以来 conj. 自从; 由于; 既然; 因为
+sine#正弦
+single#adj. 单身的; 单一的; 单个的
+sit#vt. 使就坐 vi. 坐; 坐下; 位于; 栖息
+site#n. 场所; 地点; 位置
+situation#情况; 状况
+six#六(个)(的)
+size#n. 大小; 尺寸; 号码
+skeleton#n. 骨骼; 骷髅; (建筑物、计划的)骨架; 纲要
+skew#adj. 不直的; 歪斜的 不齐的; 歪斜的
+skill#n. 技术; 技能; 技巧; 熟练
+skip#跳跃; 空指令
+slack#adj. 松弛的; 放松的; 懈怠的; 萧条的
+slash#斜线; 斜杠
+slave#从属
+sleep#休眠
+slice#v. 把…切成片 n. 薄片; 切片; 部分
+slicer#双向限幅器; 限制器
+slide#滑动导轨; 幻灯片
+slide show#n. 幻灯片放映; 放映幻灯片
+slider#滑动器
+slot#vt. 放入狭缝中; 把…纳入 n. 狭孔; 缝; 槽; 狭缝
+slotting#开槽; 打孔
+slow#慢速的
+slowly#adv. 慢慢地; 缓慢地
+small#adj. 小的; 少的; 小气的
+smart#灵敏的
+smart terminal#灵巧终端
+smooth#平滑的
+smoothed line#平滑线
+smoothing#滤除; 平滑
+smudge#vt. 涂脏; 污迹
+snapshot#n. 快照; 抽点打印
+so#adv. 这样; 如此; 这么; 那么 conj. 因此; 所以
+soak#热处理
+social#adj. 社会的; 社交的; 交际的
+socket#n. 孔; 插座
+soft#软的; 软件
+soft disk#软磁盘
+software#n. (电脑)软件; 软件; 计算方法
+solely#adv. 独自地; 单独地; 唯一地
+solid#固态的
+solid color#单色
+solitaire#纸牌
+solution#解决方案; 解答
+solvability#可解性; 溶解度
+solve#vt. 解决; 解答(难题)
+solver#解算机; 求解程序
+somewhat#adv. 有点; 稍微
+son#子; 分支; 子集
+sonar#n. 声纳
+song#n. 歌; 歌曲; 歌谣
+song key#歌曲键
+sophisticated#复杂的; 成熟的; 精巧的
+sort#分类; 排序
+sorter#分类程序; 分类机
+sound#vi. 发声; 似乎 n. 听起来; 声音; 流行音乐
+sounding#n. 水深度; 发声(的)
+space#空间; 空白; 空格
+spacebar#空格键
+spacing#间隔; 空格
+spare#备用的
+spatial#adj. 空间的; 有关空间的; 关于空间的
+speaker#n. 说话者; 讲演者; 发言者; 说某种语言者
+special#特殊的; 专门的
+specialize#v. 专攻; 专门研究; 使专用于
+specific#adj. 具体的; 特定的; 明确的
+specifically#adv. 特指地; 具体地; 明确地; 特别地
+specification#n. 规格声明; 规格; 规范明细表; 载明
+specifier#分类符
+specify#指定; 列入清单
+spectral#adj. 幽灵的; 鬼魂的; 频谱
+speech#n. 演讲; 演说; 讲话; 语音
+speed#v. (使)加速 n. 速度
+spell#vt. 拼写 vi. 拼字
+spelling#n. 拼法; 拼写
+spike#尖峰
+spill#v. (使)溢出来; 溅出 n. 摔下; 跌下
+spindle#n. 纺锤; 纱锭; 锭子; [机]轴
+spinner#微调控制项
+splice#vt. 拼接 v.&n. 接合; 衔接
+split#分割; 分
+splitting#爆裂式的 n. 分区[裂]
+spool#n. 线轴; 卷轴; 假脱机
+spot#v. 认出; 弄脏 n. 点; 斑点; 污点; 地点
+spread#vt. 延伸; 展开; 流传 vi. 蔓延开; 传播
+spreadsheet#n. 电子计算表; 电子表格; 数据表
+spring#v. 跳; 跃 vi. 出现; 生长; 涌现 n. 春天; 萌芽; 发芽; 弹簧
+sprite#n. 雪碧; 子画面; 子图形
+spurious#假信号
+SQL#结构化查询语言
+square#adj. 正方形的; 平方的 n. 广场; 正方形; 平方
+square brackets#方括号
+square wave#方波
+squeeze#v. 挤压; 压榨 vi. 挤着行动
+stability#n. 稳定性
+stabilization#稳定化
+stabilizer#稳定器
+stable#adj. 稳定的; 安定的; 安定的 n. 马厩; 马棚
+stack#vt. 把…叠成堆; 堆放于 n. 一叠(堆、垛等); 一叠(堆); 堆栈
+stack-up#层叠
+stacker#栈式存储器; 接卡箱
+stackware#栈件
+stage#阶段; 程度
+staging#分段运输; 登台
+stamp#图章; 标志
+stand#处于(状态); 保持
+stand-alone#独立
+standardize#vt. 使(某事物)标准化; 使合乎标准(或规格); 使标准化; 使合标准
+standby#备用; 待用
+stanza#n. (诗的)节; (诗)节; 段
+star#星; 星号
+start#开始; 启动
+start bit#起始位
+start logging#开始登录
+start-up#启动
+starter#启动程序; 启动器
+starting#n. 出发; 开始; 起始
+startup disk#启动盘
+startup screen#启动屏幕
+state#n. 国家; 状态; 情形
+stated#adj. 阐明的; 规定的; 一定的
+statement#语句; 陈述
+static#adj. 静止的; 静态的; 静力的
+static object#静态对象
+static RAM#静态RAM
+station#站; 位置
+stationary#adj. 固定的; 静止不动的; 静止的
+statistical#adj. 统计的; 统计学的
+statistics#n. 统计(资料); 统计数字; 统计资料; ［用作单］统计学
+status#n. 地位; 身份; 情形; 状况
+status bar#状态栏; 状态条
+status bar#状态栏; 状态条
+stay#v. 停留; 呆 vt. 停止; 延缓 vi. 逗留; 保持 n. 逗留; 停留
+steady state#稳态
+step#v. 走; 踏足 vi. 跨上; 登上 n. 脚步; 步骤
+step frame#步进帧(采集)
+stereo#adj. 立体声的 n. 立体音响; 立体声
+stereophonic#立体声的
+stick model#条形造型
+sticky#粘连的
+still#adj. 静止的; 寂静的 adv. 仍然; 还; 依旧
+stipple#v; 点画; 点描
+stockroom#库房
+stop#vi. 阻止; 停止; 逗留; 中断 n. 车站
+stop bit#停止位
+stop logging#暂停登录
+stopping#停止; 停下来 n. 停止; 制动(状态)
+storage#n. 贮藏; 储存; 保管; 存储器
+storatron#存储管
+store#v. 存储
+storeroom#n. 储藏室; 贮藏室
+story board#故事板
+straight#adv. 直接 adj. 笔直的; 直的; 整齐的; 有条理的
+strategy#n. 战略; 策略; 计谋
+stratification#成层法
+stray#杂散
+stream#流; 一串
+stretch#v. 伸展; 拉长; 延伸; 使变长
+stride#跨越; 进展
+strike#敲; 击
+strikeout#加删除线
+string#字符串; 串
+stroke#v. 抚摸 n. 打; 击; 鸣声; 中风
+strong#adj. 强壮的; 坚强的
+structural#adj. 结构的; 构造的
+structure#v. 建筑; 建造 n. 结构; 构造; 建筑物
+structured#adj. 有组织的; 有结构的; 有安排的; 结构化的
+stub#n. 烟蒂; 铅笔头; 残根; 抽头
+stuff#填充; 原料
+style#样式; 字体
+style sheet#样式单
+stylus#n. 唱针; 触针
+subassembly#部件; 组件; 次装配
+subchannel#子通道; 分通道
+subclass#子类; 小分类; 子集合
+subcommand#子命令
+subcontractor#转包商; 次承包商; 分包商
+subdirectory#分目录; 子目录
+subgroup#子群; 给…加副标题 n. 分组; 子群
+subheading#n. 副标题; 小标题
+subject#v. 征服; 以…为条件 n. 主题; 题目; 学科; 主语
+sublayer#子层
+subminiature#超小型
+submission#n. 降服; 投降; 屈服; 呈递
+submit#v. 服从; 屈服; 提出; 提交 vt. 提交; 呈递
+submodule#子模块
+subordinate#从属的; 下级的
+subprogram#子程序; 辅程序
+subroutine#子程序
+subscribe#签署; 预定
+subscriber#n. 捐款人; 预约者; 用户; 订户
+subscript#n. 下标; 角注; 标记; 索引
+subsequence#n. 随后; 随后发生的事; 结果; 子序列
+subsequent#adj. 随后的; 接下去的; 后来的
+subsequently#后来; 随后
+subserve#促进; 帮助
+subset#子集
+subsidiary#附加的
+substantial#adj. 实质性的; 重大的; 相当的; 牢固的
+substantially#adv. 到相当程度; 大量地; 基本上; 实质地
+substitute#vt. 用…代替; 以…代替 vi. (for)代替 n. 替代品
+substitution#n. 代理; 代用; 代替; 替代
+subsystem#子系统
+subtotal#小计; 分合计
+subtract#vt. 减去; 扣除
+subtracter#减法器
+subtraction#n. 减法; 减去
+subtree#子树
+subtype#图表类型; 子类型
+successful#adj. 成功的; 有成就的
+succession#n. (前后相接的)一系列; 一连串; 连续; 继续
+successive#继承的; 连续的
+successor#后续者
+such#adj. 这样(种)的; 这样的; 如此的 pron. 这样的人或事
+sudden death#突然故障
+sufficient#adj. 足够的; 充分的 a充足的; 充分的
+suffix#n. 后缀; 下标
+suggest#v. 建议; 提议; 暗示
+suggestion#n. 暗示; 提议
+suitable#适当的
+suitcase#套件
+sum#和; 总数
+summarize#vt. 概括; 概述; 总结
+summary#摘要; 汇总
+summary info#摘要信息
+sun#太阳; 美国Sun公司; 星期天
+superclass#超类
+supercomputer#超级计算机
+superimpose#v. 置于他物之上; 添加; 双重
+superscalar#超标量
+superscript#上标
+superset#超集; 扩展集
+supervise#v. 管理; 监督; 监视; 指导 vt. 管理; 监督; 监考
+supervisor#管理程序
+supervisory#管理的; 监控的
+supplier#n. 供应者; 供应厂商; 供应商
+supplies#物资; 贮藏量; 用品
+supply#电源; 供给
+support#v. 支持; 鼓励; 供养 n. 支持; 支撑物; 拥护
+supporters#支持者; 载体; 支持单元
+suppose#假定; 推测
+supposed#adj. 想象的; 假定的; 推测的
+suppress#v. 抑制; 删除
+suppression#n. 压制; 镇压; 抑制
+sure#确认
+surface#adj. 表面的; 肤浅的 n. 表面
+surge#(电)冲击; 波动
+surplus#adj. 多余的; 过剩的 n. 过剩; 剩余(额); 剩余物; 盈余
+surrounding#周围的; 外层的
+surveillance#n. (囚犯等的)看守; 监视; 监督
+survey#vt. 勘测; 调查 n. 调查; 概观
+suspend#v. 悬(浮); 挂; 暂停; 取消 vt. 悬挂
+suspension#n. 暂停; 中止; 延迟
+sustain#vt. 支撑; 承受住; 供养; 维持
+swab#擦净; 棉签
+swap#n. 交换
+swap file#交换文件
+swim#vt. 游过 vi. 游泳; 充满; 充溢 n. 游泳
+switch#vt. 转换 n. 开关闸; 开关; 转换
+syllable#n. 音节; 只言片语
+syllogism#n. 演绎法; 三段论法; 三段论; 演绎推理
+symbol#n. 象征; 符号; 标志; 象征
+symbolic#adj. 象征性的; 符号的; 象征主义的
+symmetric#adj. 对称的; 匀称的
+symptom#n. 症状; 症状; 征候; 征兆
+sync#同步
+sync bit#同步位
+synchronization#同步化
+synchronize#v. 使同步; 同步发生 vt. 使同步 vi. 同时发生; 同步
+synchronous#adj. 同步的; 同时发生的; 同时的; 一致的
+synergic#adj. 协作的; 合作的
+synergistic#协同的; 协作的
+synonym#n. 同义词; 同义字
+syntactic#语法的; 句法的
+syntactical#adj. 句法的; 语法的
+syntax#语法; 句法
+synthesizer#n. [电子]合成器; 音响合成器
+system#n. 系统; 体系; 制度; 体制
+TAB#n. 待付帐单; 标签; 标牌; (tabulate)制表
+TAB#n. 待付帐单; 标签; 标牌; (tabulate)制表
+TAB#n. 待付帐单; 标签; 标牌; (tabulate)制表
+tablet#图形输入板; 数字化仪
+tabs#跳格设定; 制表符
+tabulate#v. 列表; 排成表格式; 制表; 将…列表
+tabulator#制表机; 跳格键
+tachometer#转速计
+tactics#n. 策略; 战术; 兵法
+tag#标记; 标志符
+tailgate#尾板; 后档板
+tailor#v. 缝制; 剪裁 n. 裁缝
+take#取; 拿
+talent#才能; 技能; 人才
+talk#v. 谈话 n. 讲话; 会谈
+talker#n. 说话人; 空谈家; 对话
+tandem#串联
+tape#n. 磁带; 录音带
+target#n. 靶子; 目标; (嘲笑、批评等)对象
+tariff#定价表; 价格表
+task#n. 任务; 工作; 作业
+teach#vt. 教; 讲授; 教导(训) vi. 讲课; 当教师
+team#n. 队; 组
+technical#adj. 技术上的; 技术的; 工艺的; 专门性的
+technique#n. 技术; 方法; 技巧; 技能
+technology#n. 工艺学; 技术
+telecommunication#n. 远距离通信; 电信; 远程通信; 电讯
+telecommuting#远程联机; 远程交换
+teledata#远程数据
+telegraph#电报(机); 发电报
+telemeter#遥测计
+telephone#v. 打电话 n. 电话
+teleprinter#电传打印机
+teleprocessing#远程处理
+teletext#文字电视广播
+teletype#电传打字机; 电报交换机
+teletypewriter#电传打字机
+television#n. 电视; 电视机
+telex#n. 电传; 用户电报
+tell#讲述; 告诉; 知道
+template#模板; 样板
+tempo#n. (音乐)速度; 节奏; 行进速度; (音乐的)速度
+temporarily#adv. 暂时地; 临时地
+temporary#adj. 暂时的; 临时的
+tenancy#租用; 占有; 占据 n. 租赁; 租期
+tension#压力; 电压; 拉紧
+term#项; 条款; 术语
+term list#检索词表
+terminal#终端; 端点
+terminal strip#接线条; 端子板
+terminate#v. 结束; 终止 vi. (使)结束; (使)停止
+terminating#使终结 n. 终止; 终结; 收信
+termination#n. 中止; 终止; 结束; 结局
+terminology#n. 术语; 术语学; 术语(总称)
+ternary#三进制的
+test#n.&v. 测试 n. 测验; 试验
+tetrad#四位组
+text#n. 课文; 课本; 文本
+text file#文本文件
+texture#纹理
+then#adv. 当时; 那时; 那么; 然后
+thereafter#此后; 据此
+therefore#adv. 因此; 所以
+thermal#热敏式
+thermal printer#热敏打印机
+thermal transfer printer#传热打印机
+thesaurus#词库; 辞典 n. 词典; 同类词汇编
+thick#adv. 厚; 浓; 密 adj. 厚的; 粗的; 稠的; 浓的
+thickness#n. 厚; 厚度; 浓; 厚(度)
+thin-film#薄膜
+think#v. 思考; 考虑; 想起; 想
+third#num. 第三(个); 三分之一(的)
+thirty-two bit system#32位系统
+this#此; 这
+though#adv. 然而; 可是 conj. 虽然; 尽管
+thousand#adj. 一千的 num. 千; 千个成千上万
+thread#线程
+three#num. 三; 三个
+threshold#阈值
+through#prep. 穿过; 通过; 经过
+throughput#吞吐量
+throughput rate#吞吐率
+throw#废弃
+thumbnail#n. 拇指的指甲; 草图; 小型的
+tick#v. 划勾; 用勾作为记号 n. 勾; (钟表)滴答声; 一刹那
+ticket#票券
+tilde#波浪字符
+tile#平铺
+tilt#v. (使)倾斜; (使)倾侧 n. 倾斜; 倾侧; 斜坡
+time#n. 时间; 次数; 次; 时期
+time-share#分时
+timer#n. 计时员; 定时器; 计时器
+times#n. 次数(复数)
+timeslice#时间片
+timing#n. 时机的选择; 时间的选择; 计时; 定时
+tiny#adj. 极小的; 微小的
+tip#提示
+title#标题(的)
+today#n.&adv. 今天; 现在
+together#一同; 共同
+token#n. 标志; 象征; 令牌; 标识
+tolerance#容错
+tone#音调; 色调; 亮度
+toner#增色剂
+tool#n. 工具; 器具
+tool box#工具箱; 工具组
+toolbar#工具条
+toolbox#工具箱
+toolkit#工具包; 工具箱
+top#adj. 最高的 vt. 居…之上; 高过 n. 顶部; 顶; 上部
+top-down#自顶向下
+topic#n. 题目; 主题; 话题; 主题
+topology#拓扑学; 布局
+tornado#旋风
+total#adj. 总的; 完全的 v. 总计 n. 总数; 合计
+touch#vt. 碰; 触摸; 接触
+toward#朝(着…方向)
+tower#塔形
+toy problem#游戏问题; 玩具问题
+trace#跟踪; 边界追踪
+track#磁道; 轨迹; 追踪
+trackball#追踪球
+tracking#寻道; 跟踪
+tractor#进纸器
+trademark#n. (注册的)商标; 商标; 标志; 特征
+traffic#通信量
+trailer#n. 拖车; 挂车; 追踪者; 尾部
+train#v. 训练; 培养; 培训 vi. 受训练 n. 火车; 列车; 行列; 系列
+transaction#事务; 处理
+transceiver#收发器
+transcribe#v. 抄写; 誉写; 改编(乐曲); 复制
+transcriber#信息转换器; 转录器
+transcript#n. 学生成绩报告单; 抄本; 副本; 文字记录
+transducer#转换器; 传感器; 变换器
+transfer#传送; 转移
+transform#vt. 彻底改变; 将…转化; 改变; 改造
+transformation#n. 变换
+transformer#n. 变形金刚; 变压器; 变压器; 转换器
+transient#瞬时的; 暂用的
+transistor#n. 晶体管(收音机)
+transition#转移; 转换
+translate#v. 翻译; 解释; 转化; 化
+translation#n. 翻译; 译文; 译本
+translator#翻译器
+transliterate#直译
+transliteration#直译; 音译
+transmission#传输; 传送
+transmit#发送; 传输
+transmitter#n. 发射机; 发射台; 传送者; 发送器
+transparency#透明度; 幻灯片; 透明性
+transport#传送
+transportable#可传送的; 便携式计算机
+transpose#转置
+trap#陷井
+trashcan#废纸篓
+travel#传播; 移动
+traverse#横贯; 反对; 旋转
+tray#n. (浅的)盘; 托盘; 盘子
+treat#v. 对待; 处理; 治疗; 招待 n. 款待; 请客; 招待
+treatment#处理
+treble#v. 成为三倍; 增加两倍; 三倍的; 高音的
+tree#n. 树; 树木; 语法树
+trellis#框架; 格式结构
+trend#vi. 趋向; 倾向; 时新款式; 时尚 n. 潮流; 趋势
+triad#三元组
+trigger#触发
+triple#adj. 三倍的; 三重的 v. (使)增加到三倍
+triplet#三位字节
+trouble#故障
+true#adj. 真的; 真实的
+truncate#v. 修短; 截掉; 截断
+trunk#n. 象鼻; 树干; 大衣箱; 皮箱
+truth#n. 真理; 真相; 事实; 实际情况
+try#v. 试; 努力; 尝试; 试图
+tube#管; 电子管
+tuner#调谐器
+tuning#调整
+tunnel#n. 地下通道; 隧道; 山洞
+turn#v. 转向; 转弯; 变为; 圈 vt. 调频 n. 轮流; 交替
+turnaround#转变; 突然好转; 周转
+turning#n. (路的)转弯处; 转弯处; 转向; 旋转
+turnkey#n. 狱吏; 总控钥匙
+turnover#周转; 流通量; 可翻转的
+turquoise#adj. 青绿色 n. 绿松石
+twentieth#adj. 第二十的 n. 二十分之一
+twice#adv. 两次; 两倍
+twip#缇
+twist#v. (使)转动; 拧; 扭; 扭曲 n. (形势的)意想不到的转折; 转动
+two#二; 两; 双
+type#类型; 打印; 键入; 字体
+type size#字号
+type style#字型
+typeface#字型; 铅字样
+typewriter#n. 打字机
+typical#典型的; 标准的
+UI#用户界面接口
+umlaut#元音变音
+unable#无法的; 不能的
+unassigned#未赋值的
+unattended#adj. 无人照顾的; 无人照管的
+unauthorized#非法的; 越权的
+unavailable#不能利用的; 不能获得的
+unbind#切断; 解开
+unchanged#不变的
+unclassified#非保密的
+unconditional#adj. 绝对的; 无条件的
+undefined#未定义的
+undelete#复原; 恢复被删除的文件
+under#adv. 在下面; 少于 prep. 在…之下; 在…下面; 在…以下
+underflow#下溢
+underline#v. 划线于…之下 vt. 在…下划线(表示强调)
+underscore#vt. 画底线; 下划线; 底线; 强调
+understand#明白; 明了; 理解
+understanding#n. 领会; 理解; 理解(力); 谅解
+undesirable#adj. 不合需要的; 讨厌的 adj.&n. 不受欢迎的(人)
+undo#取消; 撤消
+undone#adj. 未完成的; 没有做的; 未做完的
+unformat#恢复被意外格式化的磁盘; 未定格式
+unfortunately#adv. 遗憾地; 不幸地; 可惜的是
+unhide#取消隐藏
+unidirectional#单向的
+union#n. 联合; 联盟; 工会; 协会
+unique#adj. 独特的; 唯一的; 独一无二的; 难得的
+unit#n. 工作单位; 单位; 单元; 部件
+unitary#单
+universal#adj. 普遍的; 全世界的; 宇宙的; 通用的
+university#n. (综合性)大学
+unknown#adj. 未知的; 不知名的 n. 未知的事物
+unless#conj. 直至; 除非; 如果不
+unlike#不象的; 不同的
+unlink#解链
+unload#v. 卸货; 拜托负担; 卸(货); 卸下
+unlock#解锁; 解开
+unmarked#adj. 没有标记的 无记号的
+unnecessary#adj. 不必要的; 多余的 n. 不必要的东西
+unpack#vt. (从箱中)取出; 拆开; 开包
+unpredictable#adj. 不可预料的; 出乎意料的; 不可预测的
+unprotect#撤消保护
+unrecognized#adj. 未被认出的 未被承认的
+unsafe#adj. 不安全的; 危险的; 靠不住的
+unsigned#无符号的
+unsuccessful#adj. 不成功的; 失败的
+until#prep. 直到…为止; 在…以前; 直到…
+unused#adj. 不用的; 未消耗的; 非法的
+unwanted#adj. 没人要的; 不需要的; 无用的; 多余的
+up#adv. 向上 prep. 向上游
+up arrow#上箭头键
+update file#更新文件
+upgrade#v. 提升; 使升级 vt. 提高; 使升级; 改善
+upload#上载
+upon#在…之上; 依据
+upper#adj. 上面的; 上部的; 地位较高的
+upper memory#高端内存
+uppercase#大写字母; 大写的
+upstream#adv.&adj. 逆流(的); 往上游(的); 向上游; 逆流地
+upward#adv. 向上; 上升 adj. 向上的; 上升的
+urgent-mail#急件
+usability#可用性
+usage#应用; 使用; 用法
+use#v. 使用; 用; 消耗 n. 使用; 用法; 用途
+useful#adj. 有用的; 有益的
+useless#adj. 无用的; 无价值的; 无效的
+user#n. 用户; 使用者
+user-defined#用户定义的
+user-friendly#adj. 容易操作的; 好用的; 用户友好的
+userid#用户标识符
+usually#adv. 通常; 一般
+utility#实用; 应用
+utilization#利用率
+vacuum#vt. 以真空吸尘器清扫 n. 真空; 真空; 真空吸尘器
+valid#有效的; 合法的
+validate#验证; 确认
+validity#n. 正确(性); 合法(性); 有效; 有效性
+valuable#adj. 值钱的; 贵重的; 有价值的 n. 贵重物品; 财宝
+valuator#评价者; 定值器
+value#n. 价值; 重要性; 益处
+van#(value-added net)增值网络
+VAR#(value-added reseller)增值分销商
+variable#变量; 可变的
+variable-length#可变长
+variance#n. 分歧; 不一致; 分岐; 差异
+variant#变量; 不同的
+variety#变化; 种类; 多样性
+various#adj. 各种各样的; 不同的; 多方面的; 多种的
+vary#v. 呈差异; 变化; 改变; 不同
+VCR#abbr. å½•åƒæœºï¼ˆVideo Cassette Recorderï¼‰
+vector#n. 矢量; 向量
+vendor#供应商
+verb#n. 动词; [语法]动词
+verification#n. 确认; 查证; 作证; [律]诉状结尾的举证声明
+verifier#校验机; 校对机
+verify#核对
+version#n. 版本; 改写本; 形式; 式样
+vertex#n. 顶点; 最高点; (三角形等)顶角
+vertical#adj. 垂直的; 竖的 n. 垂直线
+vertically#adv. 垂直地; 竖直地; 直立地
+VESA#视频电子标准协会
+VGA#(video graphics array)视频图形阵列; 视频图形适配器
+via#prep. 经由; 经过; 通过
+vice#缺点; 错误
+video#adj. 录象 n. 录像; 视频
+video-CD#视频CD
+videodisc#影碟; 视盘
+videotex#可视图文
+view#vt. 看待; 观察; 看 n. 观点; 观察; 景色
+viewdata#可视数据
+viewer#浏览器
+viewport#视口; 观察口
+violate#v. 违犯; 妨碍; 破坏
+violation#n. 违反(行为); 违背(行为); 干扰(行为); 违犯
+virtual#adj. 实际上的; 实质上的; 虚的; 虚拟的
+virtually#adv. 实际地; 实质地; 事实上; 实际上
+virus#n. 病毒; 病原体
+visibility#n. 能见度; 可见性; 可见度
+visible#adj. 可见的; 看得见的; 明显的; 显然的
+visitor#访问器
+visual#可见的; 可视的
+visualization#n. 想像; 设想; 可视化
+vital#adj. 充满生机的; 生命的; 有活力的; 致命的
+vocabulary#n. 词汇表; 词汇; 语汇
+vocoder#声音合成机; 声码器
+voice#vt. 表达 n. 说话声; 嗓音; 声音; 意见
+void#adj. 空的; 无效的 n. 真空; 空间
+volatile#可变的; 不稳定的
+volatility#n. 挥发性; 善变; 反复无常
+volt#n. 伏特(电压单位)
+voltage#n. 电压; 伏特数
+volume#n. 音量; 容积; 容量; 书卷
+vowel#元音(的)
+VR#(virtual reality)虚拟现实
+VRAM#(video RAM)视频RAM
+wafer#圆片
+wait#vi. 等; 等候 n. 等待
+wait cursor#沙漏光标
+waiting#adj. 等待的 n. 等候; 伺候
+wallpaper#n. 墙纸; 壁纸
+wan#(wide area network)广域网
+wand#条码读入器
+want#vt. 要; 想要; 需要
+ware#仪器
+warehouse#n. 仓库; 货栈
+warm#adj. 暖和的; 温暖的; 热情的; 热忱的 v. 使暖和; 使温暖
+warn#v. 警告; 提醒; 告诫
+warning#报警
+warranty#保证; 授权
+watch#v. 观看; 注视; 观察; 见识 n. 手表
+watertight#adj. 不透水的; 防水的; 无懈可击的; 不漏水的
+wave#vt.&vi. 挥手(致意) n. 水波; 波纹
+waveform#波形
+wavelength#波长
+way#路线
+weatherproof#不受气候影响的
+web#网; 特指环球网
+week#周; 周期
+weight#权; 加权
+welcome#adj. 受欢迎的 v. 欢迎
+well#adv. 好地; 满意地; 健康的 inter. 感叹词 n. 井; 泉水; 源泉; 涌出
+what-if#假设
+whatever#adj. 无论什么样的 pron. 不论什么; 无论什么
+when#adv. 什么时候; 何时 conj. 当…时
+whenever#随时
+whereas#然而; 尽管; 但是
+whether#conj. 是否; 会不会; 不管; 无论
+whichever#pron.&adj. 无论哪个; 无论哪些
+while#n. 一会儿 conj. 和…同时; 当…的时候; 而; 虽然
+whole#adj. 完整的; 整个的
+wide#adv. 广大地; 全部地 adj. 宽的; 广泛的
+widening#扩展; 加宽; 扩大
+width#n. 宽阔; 广阔; 宽度; 幅
+wildcard#通配符
+will#v.&n. 将要; 意志 v.&aux. 将; 会; 愿; 要 n. 意志; 决心; 遗嘱
+wipe#清除
+wire#v. 用铁丝捆、绑; 安装电线; 电信; 电报 n. 金属线; 电线
+wiring#配线; 接线
+withdraw#v. 撤退; 撤回; 收回; 退出
+within#在…以内
+without#adv. 在外 prep. 无; 没有
+wizard#向导
+word#著名文字编辑软件
+word#n. 词; 单词; 字; 诺言
+work#v. 工作; 运转 n. 工作(量); 作品; 工厂
+workday#n. 一天的工作时间; 工作日
+workgroup#工作组
+workshop#工厂; 车间
+workstation#工作站
+wrap#环绕; 包装
+wraparound#自动折行
+write#写入; 写
+write head#写入头
+writer#写入器
+WWW#(World Wide Web)万维网; 环球网
+X-axis#X轴
+XMS#扩充内存规范
+Y-axis#Y轴
+year#adj.&adv. 每年; 一年一次 n. 年; 年度; 学年
+yoke#偏转线圈
+Z-axis#Z轴
+zap#v. 迅速离去; 击溃
+zero#零; 零位; 零点
+zero fill#填零
+zero input#零输入; 无输入
+zeroize#填零; 拨回零点
+zip#邮递区号
+zone#n. 地区; 区域; 范围
+zoom#缩放; 变焦

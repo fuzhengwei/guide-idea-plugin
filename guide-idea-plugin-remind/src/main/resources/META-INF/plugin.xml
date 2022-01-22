@@ -1,0 +1,33 @@
+<idea-plugin>
+    <id>cn.bugstack.guide.idea.plugin</id>
+    <name>remind</name>
+    <vendor email="184172133@qq.com" url="https://bugstack.cn">小傅哥</vendor>
+
+    <description><![CDATA[
+      基于IDEA插件模板方式创建测试工程<br>
+      <em>1. 学习IDEA插件工程搭建</em>
+      <em>2. 验证插件基础功能实现</em>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="193.5662"/>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <applicationService serviceImplementation="cn.bugstack.guide.idea.plugin.domain.service.WordManageServiceImpl"/>
+
+        <completion.contributor language="JAVA"
+                                order="first"
+                                implementationClass="cn.bugstack.guide.idea.plugin.action.RemindCompletionContributor"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+</idea-plugin>
