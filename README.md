@@ -52,17 +52,32 @@ IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实�
 - API：在 IDEA 插件开发中，一般都是围绕工程进行的，那么基本要从通过 IDEA 插件 JDK 开发能力中获取到工程信息、类信息、文件信息等。
 - 外部功能：这一个是用于把插件能力与外部系统结合，比如你是需要把拿到的接口上传到服务器，还是从远程下载文件等等。
 
-## :pencil: 章节目录
+## :pencil: 目录
 
-- [x] [`难度【★☆☆☆☆】第 00 节：IDEA 插件怎么开发？`](https://bugstack.cn/md/assembly/idea-plugin/2021-08-27-%E6%8A%80%E6%9C%AF%E8%B0%83%E7%A0%94%EF%BC%8CIDEA%20%E6%8F%92%E4%BB%B6%E6%80%8E%E4%B9%88%E5%BC%80%E5%8F%91%EF%BC%9F.html) 
-- [x] [`难度【★★☆☆☆】第 01 节：两种方式创建插件工程`](https://bugstack.cn/md/assembly/idea-plugin/2021-10-18-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%B8%80%E8%8A%82%EF%BC%9A%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%88%9B%E5%BB%BA%E6%8F%92%E4%BB%B6%E5%B7%A5%E7%A8%8B.html)  
-- [x] [`难度【★★☆☆☆】第 02 节：使用配置和侧边栏窗体，阅读本地文档`](https://bugstack.cn/md/assembly/idea-plugin/2021-11-03-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%BA%8C%E8%8A%82%EF%BC%9A%E9%85%8D%E7%BD%AE%E7%AA%97%E4%BD%93%E5%92%8C%E4%BE%A7%E8%BE%B9%E6%A0%8F%E7%AA%97%E4%BD%93%E7%9A%84%E4%BD%BF%E7%94%A8.html)  
-- [x] [`难度【★★★☆☆】第 03 节：开发工具栏和Tab页，展示股票行情和K线`](https://bugstack.cn/md/assembly/idea-plugin/2021-11-18-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%B8%89%E8%8A%82%EF%BC%9A%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E6%A0%8F%E5%92%8CTab%E9%A1%B5%EF%BC%8C%E5%B1%95%E7%A4%BA%E8%82%A1%E7%A5%A8%E8%A1%8C%E6%83%85%E5%92%8CK%E7%BA%BF.html)
-- [x] [`难度【★★★☆☆】第 04 节：扩展创建工程向导步骤，开发DDD脚手架`](https://bugstack.cn/md/assembly/idea-plugin/2021-11-24-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E5%9B%9B%E8%8A%82%EF%BC%9A%E6%89%A9%E5%B1%95%E5%88%9B%E5%BB%BA%E5%B7%A5%E7%A8%8B%E5%90%91%E5%AF%BC%E6%AD%A5%E9%AA%A4%EF%BC%8C%E5%BC%80%E5%8F%91DDD%E8%84%9A%E6%89%8B%E6%9E%B6.html)
-- [x] [`难度【★★★☆☆】第 05 节：IDEA工程右键菜单，自动生成ORM代码`](https://bugstack.cn/md/assembly/idea-plugin/2021-12-08-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%BA%94%E8%8A%82%EF%BC%9AIDEA%E5%B7%A5%E7%A8%8B%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%EF%BC%8C%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90ORM%E4%BB%A3%E7%A0%81.html)
-- [x] [`难度【★★★☆☆】第 06 节：选定对象批量织入“x.set(y.get)”代码，自动生成vo2dto`](https://bugstack.cn/md/assembly/idea-plugin/2021-12-14-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E5%85%AD%E8%8A%82%EF%BC%9A%E4%BB%A5%E7%BB%87%E5%85%A5%E4%BB%A3%E7%A0%81%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%A4%84%E7%90%86vo2dto.html)
-- [x] [`难度【★★★☆☆】第 07 节：通过Inspection机制，对静态代码安全审查`](https://bugstack.cn/md/assembly/idea-plugin/2021-12-22-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC7%E8%8A%82%EF%BC%9A%E9%80%9A%E8%BF%87Inspection%E6%9C%BA%E5%88%B6%EF%BC%8C%E4%B8%BA%E9%9D%99%E6%80%81%E4%BB%A3%E7%A0%81%E5%AE%89%E5%85%A8%E5%AE%A1%E6%9F%A5.html)
-- [x] [`难度【★★★★☆】第 08 节：在插件中引入探针，基于字节码插桩获取执行SQL`](https://bugstack.cn/md/assembly/idea-plugin/2022-01-17-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC8%E8%8A%82%EF%BC%9A%E5%9C%A8%E6%8F%92%E4%BB%B6%E4%B8%AD%E5%BC%95%E5%85%A5%E6%8E%A2%E9%92%88%EF%BC%8C%E5%9F%BA%E4%BA%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%8F%92%E6%A1%A9%E8%8E%B7%E5%8F%96%E6%89%A7%E8%A1%8CSQL.html)
+- 第1章：开发入门
+
+    - [难度【★☆☆☆☆】第1节：IDEA 插件怎么开发](https://bugstack.cn/md/assembly/idea-plugin/2021-08-27-%E6%8A%80%E6%9C%AF%E8%B0%83%E7%A0%94%EF%BC%8CIDEA%20%E6%8F%92%E4%BB%B6%E6%80%8E%E4%B9%88%E5%BC%80%E5%8F%91%EF%BC%9F.html)
+    - [难度【★★★☆☆】第2节：IDEA 插件怎么发布](https://bugstack.cn/md/assembly/idea-plugin/2021-08-29-%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%EF%BC%8CIDEA%20%E6%8F%92%E4%BB%B6%E6%80%8E%E4%B9%88%E5%8F%91%E5%B8%83%EF%BC%9F.html)
+
+- 第2章：基础功能
+
+    - [难度【★★★☆☆】第3节：两种方式创建插件工程](https://bugstack.cn/md/assembly/idea-plugin/2021-10-18-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%B8%80%E8%8A%82%EF%BC%9A%E4%B8%A4%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%88%9B%E5%BB%BA%E6%8F%92%E4%BB%B6%E5%B7%A5%E7%A8%8B.html)
+        - [guide-idea-plugin-create-project-by-platform](https://github.com/fuzhengwei/guide-idea-plugin-create-project-by-platform)、[guide-idea-plugin-create-project-by-gradle](https://github.com/fuzhengwei/guide-idea-plugin-create-project-by-gradle)
+    - [难度【★★★☆☆】第4节：配置窗体和侧边栏窗体的使用](https://bugstack.cn/md/assembly/idea-plugin/2021-11-03-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%BA%8C%E8%8A%82%EF%BC%9A%E9%85%8D%E7%BD%AE%E7%AA%97%E4%BD%93%E5%92%8C%E4%BE%A7%E8%BE%B9%E6%A0%8F%E7%AA%97%E4%BD%93%E7%9A%84%E4%BD%BF%E7%94%A8.html)
+    - [难度【★★★☆☆】第5节：开发工具栏和Tab页，展示股票行情和K线](https://bugstack.cn/md/assembly/idea-plugin/2021-11-18-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%B8%89%E8%8A%82%EF%BC%9A%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E6%A0%8F%E5%92%8CTab%E9%A1%B5%EF%BC%8C%E5%B1%95%E7%A4%BA%E8%82%A1%E7%A5%A8%E8%A1%8C%E6%83%85%E5%92%8CK%E7%BA%BF.html)
+
+- 第3章：基建设计
+
+    - [难度【★★★★☆】第6节：扩展创建工程向导步骤，开发DDD脚手架](https://bugstack.cn/md/assembly/idea-plugin/2021-11-24-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E5%9B%9B%E8%8A%82%EF%BC%9A%E6%89%A9%E5%B1%95%E5%88%9B%E5%BB%BA%E5%B7%A5%E7%A8%8B%E5%90%91%E5%AF%BC%E6%AD%A5%E9%AA%A4%EF%BC%8C%E5%BC%80%E5%8F%91DDD%E8%84%9A%E6%89%8B%E6%9E%B6.html)
+    - [难度【★★★☆☆】第7节：IDEA工程右键菜单，自动生成ORM代码](https://bugstack.cn/md/assembly/idea-plugin/2021-12-08-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E4%BA%94%E8%8A%82%EF%BC%9AIDEA%E5%B7%A5%E7%A8%8B%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%EF%BC%8C%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90ORM%E4%BB%A3%E7%A0%81.html)
+    - [难度【★★★☆☆】第8节：选定对象批量织入“x.set(y.get)”代码，自动生成vo2dto](https://bugstack.cn/md/assembly/idea-plugin/2021-12-14-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC%E5%85%AD%E8%8A%82%EF%BC%9A%E4%BB%A5%E7%BB%87%E5%85%A5%E4%BB%A3%E7%A0%81%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%A4%84%E7%90%86vo2dto.html)
+
+- 第4章：辅助工具
+    
+    - [难度【★★★☆☆】第9节：通过Inspection机制，对静态代码安全审查](https://bugstack.cn/md/assembly/idea-plugin/2021-12-22-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC7%E8%8A%82%EF%BC%9A%E9%80%9A%E8%BF%87Inspection%E6%9C%BA%E5%88%B6%EF%BC%8C%E4%B8%BA%E9%9D%99%E6%80%81%E4%BB%A3%E7%A0%81%E5%AE%89%E5%85%A8%E5%AE%A1%E6%9F%A5.html)
+    - [难度【★★★★★】第10节：在插件中引入探针，基于字节码插桩获取执行SQL](https://bugstack.cn/md/assembly/idea-plugin/2022-01-17-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC8%E8%8A%82%EF%BC%9A%E5%9C%A8%E6%8F%92%E4%BB%B6%E4%B8%AD%E5%BC%95%E5%85%A5%E6%8E%A2%E9%92%88%EF%BC%8C%E5%9F%BA%E4%BA%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%8F%92%E6%A1%A9%E8%8E%B7%E5%8F%96%E6%89%A7%E8%A1%8CSQL.html)
+    - [难度【★★★★★】第11节：基于IDEA插件开发和字节码插桩技术，实现研发交付质量自动分析](https://bugstack.cn/md/assembly/idea-plugin/2022-01-23-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC10%E8%8A%82%EF%BC%9A%E5%9F%BA%E4%BA%8E%E5%AD%97%E8%8A%82%E7%A0%81%E6%8F%92%E6%A1%A9%E9%87%87%E9%9B%86%E6%95%B0%E6%8D%AE%EF%BC%8C%E5%AE%9E%E7%8E%B0%E4%BB%A3%E7%A0%81%E4%BA%A4%E4%BB%98%E8%B4%A8%E9%87%8F%E8%87%AA%E5%8A%A8%E5%88%86%E6%9E%90.html)
+    - [难度【★★★★☆】第12节：加载文件生成链表单词树，输入属性时英文校准提醒](https://bugstack.cn/md/assembly/idea-plugin/2022-01-22-%E3%80%8AIntelliJ%20IDEA%20%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E3%80%8B%E7%AC%AC9%E8%8A%82%EF%BC%9A%E5%8A%A0%E8%BD%BD%E6%96%87%E4%BB%B6%E7%94%9F%E6%88%90%E9%93%BE%E8%A1%A8%E5%8D%95%E8%AF%8D%E6%A0%91%EF%BC%8C%E8%BE%93%E5%85%A5%E5%B1%9E%E6%80%A7%E6%97%B6%E8%8B%B1%E6%96%87%E6%A0%A1%E5%87%86%E6%8F%90%E9%86%92.html)
 
 ## :octocat: 章节源码
 
@@ -73,7 +88,8 @@ IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实�
 - 第 05 节：[guide-idea-plugin-orm](https://github.com/fuzhengwei/guide-idea-plugin-orm)
 - 第 06 节：[guide-idea-plugin-vo2dto](https://github.com/fuzhengwei/guide-idea-plugin-vo2dto)
 - 第 07 节：[guide-idea-plugin-pmd](https://github.com/fuzhengwei/guide-idea-plugin-pmd)
-- 第 08 节：[guide-idea-plugin-probe](https://github.com/fuzhengwei/https://github.com/fuzhengwei/guide-idea-plugin-probe)
+- 第 08 节：[guide-idea-plugin-probe](https://github.com/fuzhengwei/guide-idea-plugin-probe)
+- 第 09 节：[guide-idea-plugin-remind](https://github.com/fuzhengwei/guide-idea-plugin-remind)
 
 ## :paw_prints: 问题交流
 
