@@ -53,6 +53,8 @@ IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实�
 
 ## :pencil: 目录
 
+![](https://bugstack.cn/images/article/knowledge/knowledge-220123-01.png)
+
 - 第1章：开发入门
 
     - [第1节：IDEA 插件怎么开发](https://bugstack.cn/md/assembly/idea-plugin/2021-08-27-%E6%8A%80%E6%9C%AF%E8%B0%83%E7%A0%94%EF%BC%8CIDEA%20%E6%8F%92%E4%BB%B6%E6%80%8E%E4%B9%88%E5%BC%80%E5%8F%91%EF%BC%9F.html)
