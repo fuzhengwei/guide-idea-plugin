@@ -51,6 +51,10 @@ IDEA Plugin 插件开发可以帮助研发人员提升能效，解决一些实�
 - API：在 IDEA 插件开发中，一般都是围绕工程进行的，那么基本要从通过 IDEA 插件 JDK 开发能力中获取到工程信息、类信息、文件信息等。
 - 外部功能：这一个是用于把插件能力与外部系统结合，比如你是需要把拿到的接口上传到服务器，还是从远程下载文件等等。
 
+![](https://github.com/fuzhengwei/guide-idea-plugin/blob/main/docs/knowledge-220123-01.png)
+
+- 📚PDF下载：[https://download.csdn.net/download/Yao__Shun__Yu/77484299](https://download.csdn.net/download/Yao__Shun__Yu/77484299)
+
 ## :pencil: 目录
 
 - 第1章：开发入门
