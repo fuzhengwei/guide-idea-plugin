@@ -1,0 +1,33 @@
+<idea-plugin>
+    <id>guide-idea-plugin-tab</id>
+    <name>Tab</name>
+    <vendor email="184172133@qq.com" url="https://bugstack.cn">小傅哥</vendor>
+
+    <description><![CDATA[
+      基于IDEA插件模板方式创建测试工程<br>
+      <em>1. 学习IDEA插件工程搭建</em>
+      <em>2. 验证插件基础功能实现</em>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <toolWindow id="XUtil"
+                    canCloseContents="true"
+                    anchor="bottom"
+                    factoryClass="cn.bugstack.guide.idea.plugin.factory.TabFactory"
+                    icon="/icons/stock.png"
+        />
+
+        <applicationService serviceImplementation="cn.bugstack.guide.idea.plugin.infrastructure.DataSetting"/>
+
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+</idea-plugin>
