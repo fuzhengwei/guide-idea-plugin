@@ -1,0 +1,41 @@
+<idea-plugin>
+  <id>cn.bugstack.guide.idea.plugin</id>
+  <name>CreateProjectByPlatform</name>
+  <version>1.0</version>
+  <vendor email="184172133@qq.com" url="https://bugstack.cn">小傅哥</vendor>
+
+  <description><![CDATA[
+      基于IDEA插件模板方式创建测试工程<br>
+      <em>1. 学习IDEA插件工程搭建</em>
+      <em>2. 验证插件基础功能实现</em>
+    ]]></description>
+
+  <change-notes><![CDATA[
+      插件开发学习功能点<br>
+      <em>1. 工程搭建</em>
+      <em>2. 菜单读取</em>
+      <em>3. 获取配置</em>
+      <em>4. 回显页面</em>
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+    <action id="MyAction" class="cn.bugstack.guide.idea.plugin.MyAction" text="MyAction" description="MyAction">
+      <add-to-group group-id="FileMenu" anchor="first"/>
+    </action>
+
+  </actions>
+
+</idea-plugin>
