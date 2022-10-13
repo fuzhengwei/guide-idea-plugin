@@ -1,0 +1,32 @@
+<idea-plugin>
+    <id>cn.bugstack.guide.idea.plugin.guide-idea-plugin-tool-window</id>
+    <name>ToolWindow</name>
+    <vendor email="184172133@qq.com" url="https://bugstack.cn">小傅哥</vendor>
+
+    <description><![CDATA[
+      基于IDEA插件模板方式创建测试工程<br>
+      <em>1. 学习IDEA插件工程搭建</em>
+      <em>2. 验证插件基础功能实现</em>
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+
+        <!-- 配置 File -> Settings -> Tools -->
+        <projectConfigurable groupId="tools" displayName="My Test Config" id="test.id"
+                             instance="cn.bugstack.guide.idea.plugin.factory.SettingFactory"/>
+
+        <!-- 窗体 (IDEA 界面右侧) -->
+        <toolWindow id="Read-Book" secondary="false" anchor="right" icon="/icons/logo.png"
+                    factoryClass="cn.bugstack.guide.idea.plugin.factory.ReadFactory"/>
+
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
